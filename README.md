@@ -103,7 +103,7 @@ problema citando fuentes.
 >
 > ![](media/image3.png)
 >
-> \*citar referencia\*
+> Metropolitano (s.f) Servicios del metropolitano
 >
 > También desde la misma fuente se llegó a encontrar datos sobre los
 > horarios de partida y llegada de cada bus. Con esta información en
@@ -211,8 +211,10 @@ Acorde a los resultados obtenidos luego de la implementación de los algoritmos 
 **5. Validación de Resultados y Pruebas**
 Grafo generado a partir de la estación Naranjal con los expresos que tienen a la estación como parada y las demás estaciones por las que pasa el expreso.
 
+![descarga](https://github.com/MesSobble/ComplejidadAlgoritmica/assets/98995070/2fc9a619-5858-48d0-b51d-0c5a8a26f20a)
 
 Ruta más corta entre una estación A a una estación F
+![descarga-1](https://github.com/MesSobble/ComplejidadAlgoritmica/assets/98995070/b4a8bb80-c30f-4028-ae7c-4eadc041ce15)
 
 
 **6. Conclusiones**
