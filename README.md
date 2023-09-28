@@ -48,7 +48,7 @@ Tabla de Contenidos
 > 4.3. Diseño detallado
 >
 > 4.4. Implementación y pruebas
->
+
 > 4.5. Optimización y mejoras
 
 5\. Validación de Resultados y Pruebas
@@ -205,10 +205,19 @@ nodo puede contar una gran cantidad de aristas saliendo de ellos.
 > de pantalla la interfaz avanzada del proyecto.
 >
 > **4.5. Optimización y mejoras**
+Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
+
 
 **5. Validación de Resultados y Pruebas**
+Grafo generado a partir de la estación Naranjal con los expresos que tienen a la estación como parada y las demás estaciones por las que pasa el expreso.
+
+
+Ruta más corta entre una estación A a una estación F
+
 
 **6. Conclusiones**
+La conclusión a la que llegamos con este trabajo es que el uso de grafos y algoritmos de recorrido como bfs pueden ser beneficioso para aplicaciones que ayuden a las personas en la optimización de su tiempo como este proyecto, el cual resultó en un programa que ayuda a las personas en una adecuada toma de decisiones al momento de usar un transporte público complejo, además de ayudarnos a nosotros como estudiantes a conocer más sobre algoritmos que puedan servir en proyectos a futuro y en nuestra vida profesional.
+
 
 **7. Referencias Bibliográficas**
 
