@@ -3,7 +3,7 @@
 ![Upc
 Logo](media/image1.png)
 
-**<h1> INFORME DEL TRABAJO PARCIAL (TP) </h1>**
+**<h1> INFORME DEL TRABAJO FINAL (HITO 2) </h1>**
 
   * CURSO [COMPLEJIDAD ALGORÍTMICA]
 
@@ -23,7 +23,7 @@ Logo](media/image1.png)
   
   -----------------------------------------------------------------------
 
-<h6>Septiembre - 2023</h6>
+<h6>Noviembre - 2023</h6>
 
 Tabla de Contenidos
 
@@ -139,61 +139,34 @@ problema citando fuentes.
 > ![](media/image2.png)
 
 **3. Propuesta**
+Algoritmo BFS
 
-El algoritmo elegido para este proyecto será el algoritmo de BFS, el
-cual calcula las distancias mínimas desde un nodo inicial a todos los
-demás. Debido a que nuestro proyecto busca estrictamente mostrar el
-camino con menor cantidad de paradas (nodos) y el tiempo de recorrido y
-cantidad de personas que entran en el bus se asume que es menor mientras
-se pase por menos paradas, no optamos ni por el algoritmo de Dijkstra ni
-el de Bellman-Ford, ya que ambos necesitan aristas con peso y estos, en
-ocasiones, pueden hacer un recorrido con una mayor cantidad de nodos.
+>El algoritmo elegido para la primera opción del proyecto, la cual es la opcion con tarjeta de tarifa plana será el algoritmo de BFS, el cual calcula las distancias mínimas desde un nodo inicial a todos los demás. Debido a que nuestro proyecto busca estrictamente mostrar el camino con menor cantidad de paradas (nodos) y el tiempo de recorrido y cantidad de personas que entran en el bus se asume que es menor mientras se pase por menos paradas, no optamos ni por el algoritmo de Dijkstra ni el de Bellman-Ford, ya que ambos necesitan aristas con peso y estos, en ocasiones, pueden hacer un recorrido con una mayor cantidad de nodos.
 
-Para el proyecto los aspectos más importantes a tener en cuenta son: los
-nodos y las conexiones. Los nodos tendrán un identificador y representan
-las estaciones; y las conecciones o aristas carecerán de pesos y cada
-nodo puede contar una gran cantidad de aristas saliendo de ellos.
+>Para esta parte del proyecto los aspectos más importantes a tener en cuenta son: los nodos y las conexiones. Los nodos tendrán un identificador y representan las estaciones; y las conecciones o aristas carecerán de pesos y cada nodo puede contar una gran cantidad de aristas saliendo de ellos.
+
+Algoritmo Prim
+
+>Para la segunda opción del proyecto, la cual es la opción sin tarjeta, se usará el algoritmo de Prim, ya que al no tener tarjeta, se le cobrará al pasajero por parada que haga el bus y este algoritmo voraz muestra el camino más barato sin importar si es el más largo tomando en cuenta que el pasajero no tiene apuros pero si busca economizar lo más posible su viaje. 
+
+>Para esta parte del proyecto los aspectos más importantes a tener en cuenta son: los nodos, los pesos y las conexiones. Los nodos tendrán un identificador y representan las estaciones; y las conecciones o aristas tendrán pesos que representan el costo de ir de una estación a otra.
 
 **4. Diseño del Aplicativo**
 
 > **4.1. Requisitos para el desarrollo de la aplicación**
 >
-> El proyecto se realizará con el lenguaje de programación Python en el
-> editor X. Además de conocimientos aprendidos en clase y autónomamente
-> sobre la teoría de grafos y del algoritmo BFS para hallar el camino
-> con menor cantidad de nodos. Será necesario también los datos de las
-> estaciones del metropolitano y las paradas que realiza cada línea.
->
-> Como requisitos principales de la aplicación tenemos: Identificar las
-> estaciones habilitadas del metropolitano, debido a que el proyecto
-> requiere de mínimo 1500 nodos, supondremos esta cantidad de
-> estaciones; y realizar las conexiones simulando los recorridos de las
-> líneas. Con el uso del algoritmo elegido se obtendrá el recorrido que
-> contenga menor cantidad de nodos entre un nodo de partida y un nodo de
-> llegada.
+> La estructura de la aplicación consisteEl proyecto se realizará con el lenguaje de programación Python en visual studio code. Además de conocimientos aprendidos en clase y autónomamente sobre la teoría de grafos, del algoritmo BFS para hallar el camino con menor cantidad de nodos, y del algoritmo Prim para hallar el camino más barato. Será necesario también los datos de las estaciones del metropolitano y las paradas que realiza cada línea.	
+
+>Como requisitos principales de la aplicación tenemos: Identificar las estaciones habilitadas del metropolitano, debido a que el proyecto requiere de mínimo 1500 nodos, supondremos esta cantidad de estaciones; y realizar las conexiones simulando los recorridos de las líneas. Con el uso de la opción elegida, se obtendrá el recorrido que contenga menor cantidad de nodos entre un nodo de partida y un nodo de llegada, o se obtendrá el camino más barato desde una estación a otra.
+
 >
 > **4.2. Diseño arquitectónico de la aplicación**
 >
-> La estructura de la aplicación consiste en que, mediante un grafo con
-> aristas sin peso, se haga la representación de las estaciones del
-> metropolitano y el recorrido de cada línea y haciendo uso del
-> algoritmo BFS se encuentre la línea que realice una menor cantidad de
-> paradas entre la estación de partida y la estación de llegada. La
-> representación será gráfica, se almacenarán los nombres de las
-> estaciones y los datos de las líneas en una lista o matriz, y debido a
-> que el lenguaje de programación que se usará será Python, usaremos la
-> librería Graphviz.
+> La estructura de la aplicación consiste en que, en la pantalla de inicio se le muestre al usuario las opciones con tarjeta y sin tarjeta, mediante un grafo con aristas sin peso para la primera opción, se haga la representación de las estaciones del metropolitano y el recorrido de cada línea y haciendo uso del algoritmo BFS se encuentre la línea que realice una menor cantidad de paradas entre la estación de partida y la estación de llegada. Mientras que para la segunda opción se represente el recorrido a hacer, el costo por parada y el costo total del viaje. La representación será gráfica, se almacenarán los nombres de las estaciones y los datos de las líneas en una lista o matriz, y debido a que el lenguaje de programación que se usará será Python, usaremos la librería Graphviz.
 >
 > **4.3. Diseño detallado**
 >
-> Para comenzar, se creará una lista en donde se almacenarán los nombres
-> de las estaciones que representan los nodos del grafo. También se
-> definirán las líneas del metropolitano mediante las conexiones sin
-> peso de los nodos, representando la estación de partida, las
-> estaciones donde realiza paradas y la estación final para cada línea.
-> Además se implementa una función que contenga al algoritmo de BFS y
-> muestre la línea que el usuario debe abordar para llegar a la estación
-> de destino con la menor cantidad de paradas posibles.
+> Para comenzar, se creará una lista en donde se almacenarán los nombres de las estaciones que representan los nodos del grafo. Para la opción con tarjeta se definirán las líneas del metropolitano mediante las conexiones sin peso de los nodos, representando la estación de partida, las estaciones donde realiza paradas y la estación final para cada línea. Además se implementa una función que contenga al algoritmo de BFS y muestre la línea que el usuario debe abordar para llegar a la estación de destino con la menor cantidad de paradas posibles. Para la opción sin tarjeta definirán las líneas del metropolitano mediante las conexiones con peso de los nodos, representando la estación de partida, las estaciones donde realiza paradas y la estación final para cada línea. Además se implementa una función que contenga al algoritmo de Prim y muestre la línea que el usuario debe abordar para llegar a la estación de destino con el menor costo posible
 >
 > **4.4. Implementación y pruebas**
 >
@@ -203,7 +176,7 @@ nodo puede contar una gran cantidad de aristas saliendo de ellos.
 > de pantalla la interfaz avanzada del proyecto.
 >
 > **4.5. Optimización y mejoras**
-Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
+>Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
 
 
 **5. Validación de Resultados y Pruebas**
@@ -216,7 +189,7 @@ Ruta más corta entre una estación A a una estación F
 
 
 **6. Conclusiones**
-La conclusión a la que llegamos con este trabajo es que el uso de grafos y algoritmos de recorrido como bfs pueden ser beneficioso para aplicaciones que ayuden a las personas en la optimización de su tiempo como este proyecto, el cual resultó en un programa que ayuda a las personas en una adecuada toma de decisiones al momento de usar un transporte público complejo, además de ayudarnos a nosotros como estudiantes a conocer más sobre algoritmos que puedan servir en proyectos a futuro y en nuestra vida profesional.
+>La conclusión a la que llegamos con este trabajo es que el uso de grafos y algoritmos de recorrido como bfs pueden ser beneficioso para aplicaciones que ayuden a las personas en la optimización de su tiempo o el uso de algoritmos voraces como Prim puede beneficiar a las personas que buscan pagar la menor cantidad de dinero posible al realizar un viaje, el proyecto resultó en un programa que ayuda a las personas en cualquier situación y con todo tipo de necesidad en una adecuada toma de decisiones al momento de usar un transporte público complejo, además de ayudarnos a nosotros como estudiantes a conocer más sobre algoritmos que puedan servir en proyectos a futuro y en nuestra vida profesional.
 
 
 **7. Referencias Bibliográficas**
