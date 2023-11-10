@@ -86,10 +86,8 @@ problema citando fuentes.
 >
 > **1.1. Objetivo del trabajo**
 >
-> El objetivo del trabajo es mostrar la línea que llevará a un pasajero
-> de una estación a otra de manera más rápida y con menos paradas
-> mediante un sistema que mediante el uso de grafos mostrarle que linea
-> debe tomar y un tiempo aproximado de llegada.
+> El objetivo del trabajo es que en caso el pasajero cuente con la tarjeta del metropolitano, muestre la línea que llevará a un pasajero de una estación a otra de manera más rápida y con menos paradas mediante un sistema que mediante el uso de grafos mostrarle que linea debe tomar y un tiempo aproximado de llegada, y en caso el pasajero no cuente con la tarjeta, le muestre el bus que le cobrará menos dinero desde la estación en la que se encuentra hasta la estación de salida.
+
 
 **2. Descripción y visualización del conjunto de datos**
 
