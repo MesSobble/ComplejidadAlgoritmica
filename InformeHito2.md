@@ -186,7 +186,8 @@ Grafo generado a partir de la estación Naranjal con los expresos que tienen a l
 
 Ruta más corta entre una estación A a una estación F
 ![descarga-1](https://github.com/MesSobble/ComplejidadAlgoritmica/assets/98995070/b4a8bb80-c30f-4028-ae7c-4eadc041ce15)
-
+Ruta más barata desde la estación 3 a la estación 5 y el precio a pagar
+https://github.com/MesSobble/ComplejidadAlgoritmica/blob/483f9117ae9221cf316eaa51d0381247c0e3b2d5/media/com1.jpeg 
 
 **6. Conclusiones**
 >La conclusión a la que llegamos con este trabajo es que el uso de grafos y algoritmos de recorrido como bfs pueden ser beneficioso para aplicaciones que ayuden a las personas en la optimización de su tiempo o el uso de algoritmos voraces como Prim puede beneficiar a las personas que buscan pagar la menor cantidad de dinero posible al realizar un viaje, el proyecto resultó en un programa que ayuda a las personas en cualquier situación y con todo tipo de necesidad en una adecuada toma de decisiones al momento de usar un transporte público complejo, además de ayudarnos a nosotros como estudiantes a conocer más sobre algoritmos que puedan servir en proyectos a futuro y en nuestra vida profesional.
