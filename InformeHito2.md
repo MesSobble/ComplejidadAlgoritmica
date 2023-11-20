@@ -159,6 +159,18 @@ Algoritmo Prim
 > comprensible al usuario. A continuación, mostraremos mediante capturas
 > de pantalla la interfaz avanzada del proyecto.
 >
+![imagen4](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/c8d598f6adbccc6857a9734dc53d6624cfcec502/media/imagen4.png)
+>
+![imagen5](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/c8d598f6adbccc6857a9734dc53d6624cfcec502/media/imagen5.png)
+>
+![imagen6](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/c8d598f6adbccc6857a9734dc53d6624cfcec502/media/imagen6.png)
+>
+![imagen7](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/c8d598f6adbccc6857a9734dc53d6624cfcec502/media/imagen7.png)
+>
+![imagen8](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/c8d598f6adbccc6857a9734dc53d6624cfcec502/media/imagen8.png)
+>
+![imagen8](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/c8d598f6adbccc6857a9734dc53d6624cfcec502/media/imagen9.png)
+>
 > **4.5. Optimización y mejoras**
 >Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
 
