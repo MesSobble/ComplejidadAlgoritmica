@@ -172,7 +172,7 @@ Ruta más corta entre una estación A a una estación F
 ![descarga-1](https://github.com/MesSobble/ComplejidadAlgoritmica/assets/98995070/b4a8bb80-c30f-4028-ae7c-4eadc041ce15)
 
 Ruta más barata desde la estación 3 a la estación 5 y el precio a pagar
-
+![URL_de_la_imagen](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/bcfb35a9372483a6c930c19b85cc942c7fb7071f/media/com1.jpeg)
 
 **6. Conclusiones**
 >Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
