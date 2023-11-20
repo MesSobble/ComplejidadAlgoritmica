@@ -3,7 +3,7 @@
 ![Upc
 Logo](media/image1.png)
 
-**<h1> INFORME DEL TRABAJO FINAL (HITO 2) </h1>**
+**<h1> INFORME DEL TRABAJO FINAL (TF) </h1>**
 
   * CURSO [COMPLEJIDAD ALGORÍTMICA]
 
@@ -66,23 +66,7 @@ problema citando fuentes.
 
 > **1.1. Descripción de la problemática**
 >
-> En 2023 la cantidad de usuarios del metropolitano se ha incrementado
-> significativamente terminada la pandemia, según la Autoridad de
-> Transporte Urbano para Lima y Callao (2023) En la ruta troncal, se
-> realizaron más de 29 millones de ingresos al servicio, esta cifra es
-> igual de grande que la pérdida de tiempo por una falta de optimización
-> de tiempo al no usarlo de manera correcta, según el diario el comercio
-> (2017) el impacto en los ingresos de los trabajadores es alarmante. En
-> el caso de los hombres, el tiempo de espera dentro de las estaciones
-> del Metropolitano por mes equivale a S/155,04, S/232,8 y S/310,08
-> (siempre para demoras de entre 20 y 40 minutos). Mientras que para las
-> mujeres, las demoras por la espera del transporte suman S/110,4,
-> S/163,2 y S/220,8 al mes, es decir, sin retrasos podrían ganar entre
-> 8,3%, 12,2% y 16,6% más. La mayoría de usuarios tienen grandes demoras
-> en las filas porque los usuarios saturan las líneas de ruta normal
-> mientras que los expresos tienen una menor cantidad de pasajeros por
-> la falta de conocimientos sobre sus paradas aun si estos pueden
-> llevarlos de manera más rápida.
+> En 2023 la cantidad de usuarios del metropolitano se ha incrementado significativamente terminada la pandemia, según la Autoridad de Transporte Urbano para Lima y Callao (2023) En la ruta troncal, se realizaron más de 29 millones de ingresos al servicio, esta cifra es igual de grande que la pérdida de tiempo por una falta de optimización de tiempo al no usarlo de manera correcta, según el diario el comercio (2017)  el impacto en los ingresos de los trabajadores es alarmante. En el caso de los hombres, el tiempo de espera dentro de las estaciones del Metropolitano por mes equivale a S/155,04, S/232,8 y S/310,08 (siempre para demoras de entre 20 y 40 minutos). Mientras que para las mujeres, las demoras por la espera del transporte suman S/110,4, S/163,2 y S/220,8 al mes, es decir, sin retrasos podrían ganar entre 8,3%, 12,2% y 16,6% más. La mayoría de usuarios tienen grandes demoras en las filas porque los usuarios saturan las líneas de ruta normal mientras que los expresos tienen una menor cantidad de pasajeros por la falta de conocimientos sobre sus paradas aun si estos pueden llevarlos de manera >más rápida.
 >
 > **1.1. Objetivo del trabajo**
 >
