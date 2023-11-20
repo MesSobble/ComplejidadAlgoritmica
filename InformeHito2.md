@@ -117,7 +117,7 @@ problema citando fuentes.
 
 > **2.2. Visualización del conjunto de datos**
 >
-> A partir de la base de datos el ejemplo que tomara nuestro grafo será
+> A partir de la base de datos el ejemplo que tomará nuestro grafo será
 > el siguiente:
 >
 > ![](media/image2.png)
@@ -170,12 +170,12 @@ Grafo generado a partir de la estación Naranjal con los expresos que tienen a l
 
 Ruta más corta entre una estación A a una estación F
 ![descarga-1](https://github.com/MesSobble/ComplejidadAlgoritmica/assets/98995070/b4a8bb80-c30f-4028-ae7c-4eadc041ce15)
+
 Ruta más barata desde la estación 3 a la estación 5 y el precio a pagar
 
 
 **6. Conclusiones**
->La conclusión a la que llegamos con este trabajo es que el uso de grafos y algoritmos de recorrido como bfs pueden ser beneficioso para aplicaciones que ayuden a las personas en la optimización de su tiempo o el uso de algoritmos voraces como Prim puede beneficiar a las personas que buscan pagar la menor cantidad de dinero posible al realizar un viaje, el proyecto resultó en un programa que ayuda a las personas en cualquier situación y con todo tipo de necesidad en una adecuada toma de decisiones al momento de usar un transporte público complejo, además de ayudarnos a nosotros como estudiantes a conocer más sobre algoritmos que puedan servir en proyectos a futuro y en nuestra vida profesional.
-
+>Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
 
 **7. Referencias Bibliográficas**
 
