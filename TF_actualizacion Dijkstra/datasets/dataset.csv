@@ -1,0 +1,1501 @@
+ID,Buses,Estacion,Altitud,Longitud
+1,D,Ramon,-7934,-75889
+2,D,Canada,-7195,-79666
+3,Expreso4,Colmena,-6601,-71969
+4,Expreso7,Central,-9833,-76282
+5,Expreso3,Canada,-8605,-73210
+6,D,Dos de Mayo,-6442,-77372
+7,SXN,Central,-9024,-78194
+8,Expreso3,Independencia,-6976,-71634
+9,A,El milagro,-5551,-79559
+10,Expreso7,Honorio Delgado,-7125,-72596
+11,Expreso7,Central,-8011,-70481
+12,C,España,-8167,-77567
+13,D,El milagro,-9283,-78073
+14,SX,Bulevar,-7824,-77757
+15,B,Matellini,-5224,-74840
+16,Expreso5,Ramon,-7177,-71872
+17,Expreso7,Estadio Union,-6771,-76314
+18,Expreso9,Mexico,-9308,-79475
+19,SXN,Escuela Militar,-7504,-70550
+20,Expreso7,Uni,-9573,-77106
+21,B,Escuela Militar,-5696,-76828
+22,SX,Estadio Nacional,-6252,-79727
+23,Expreso7,Balta,-9402,-78420
+24,SX,Rosario de Villa,-8616,-71058
+25,SXN,Javier Prado,-6229,-74090
+26,C,España,-7135,-75291
+27,Expreso3,Bulevar,-5954,-73631
+28,A,Estacion D,-9723,-79445
+29,Expreso2,Central,-9832,-73301
+30,Expreso6,Bulevar,-8022,-74831
+31,Expreso9,Independencia,-6978,-77302
+32,Expreso5,Rosario de Villa,-8918,-73310
+33,Expreso8,Benavides,-9451,-75809
+34,D,Bulevar,-6258,-74122
+35,D,Tomas Valle,-6194,-76630
+36,Expreso3,Teran,-8129,-71092
+37,Expreso7,Estadio Union,-5815,-77958
+38,Expreso4,Tacna,-6688,-73551
+39,D,Angamos,-9192,-74424
+40,Expreso6,Honorio Delgado,-7089,-75728
+41,A,Estacion F,-8244,-75827
+42,Expreso9,Estadio Nacional,-5228,-74492
+43,B,Javier Prado,-6745,-75014
+44,SXN,Estacion B,-9501,-73644
+45,C,Independencia,-6733,-74293
+46,C,Estacion D,-8807,-77641
+47,Expreso6,Domingo Orue,-6328,-77143
+48,Expreso9,Pacifico,-7847,-73332
+49,SX,Quilca,-8105,-75832
+50,SX,Estadio Union,-8381,-78327
+51,Expreso4,Estacion C,-6135,-79655
+52,Expreso9,Domingo Orue,-6274,-75800
+53,Expreso7,Colmena,-7631,-72655
+54,Expreso9,Ricardo Palma,-5752,-72261
+55,B,Tomas Valle,-6081,-72586
+56,Expreso5,Domingo Orue,-9628,-76379
+57,Expreso5,Izaguirre,-8802,-70800
+58,C,Escuela Militar,-5957,-79125
+59,Expreso9,Naranjal,-9993,-71918
+60,Expreso1,Quilca,-7918,-76506
+61,Expreso6,Izaguirre,-6533,-72890
+62,D,Los jasmines,-8023,-72661
+63,A,Estadio Nacional,-9234,-72807
+64,Expreso6,El milagro,-8089,-72183
+65,Expreso2,Naranjal,-9861,-77856
+66,B,Tomas Valle,-6050,-77160
+67,Expreso9,Ramon,-6778,-79387
+68,SX,Angamos,-6310,-79594
+69,Expreso6,Angamos,-7652,-78587
+70,Expreso5,Ramon,-8522,-77224
+71,C,Ricardo Palma,-6492,-74419
+72,Expreso4,Benavides,-5896,-78219
+73,Expreso4,Colmena,-7572,-77076
+74,B,Angamos,-6108,-77640
+75,Expreso3,Estacion A,-5320,-72442
+76,D,Escuela Militar,-8902,-71705
+77,Expreso1,Honorio Delgado,-9958,-77345
+78,Expreso8,Uni,-5325,-76894
+79,Expreso7,Tomas Valle,-5432,-76470
+80,Expreso8,Independencia,-8887,-76796
+81,Expreso2,28 de Julio,-7835,-71667
+82,B,Estacion E,-6133,-70318
+83,Expreso9,Caqueta,-8718,-74711
+84,Expreso2,Canada,-7189,-73879
+85,Expreso5,Escuela Militar,-6743,-75308
+86,SX,Quilca,-6197,-76437
+87,Expreso7,Estacion C,-6418,-77403
+88,Expreso4,Tomas Valle,-5692,-76187
+89,Expreso8,Teran,-5969,-76464
+90,A,Estacion F,-5800,-70265
+91,C,Parque del trabajo,-8188,-75994
+92,Expreso2,Escuela Militar,-5588,-74785
+93,D,Izaguirre,-5943,-71587
+94,D,Tomas Valle,-7034,-71763
+95,SX,Rosario de Villa,-5606,-70721
+96,D,Estacion D,-9937,-70668
+97,Expreso7,Jiron de la Union,-8624,-71201
+98,C,Estacion C,-7737,-76351
+99,B,Estadio Nacional,-7545,-71563
+100,Expreso6,Estacion D,-9164,-76173
+101,Expreso9,Los jasmines,-5172,-74046
+102,Expreso4,El milagro,-8118,-79111
+103,Expreso1,Estacion F,-8772,-73603
+104,SX,Canaval Moreyra,-7645,-70706
+105,Expreso9,Estacion F,-7078,-76369
+106,A,Benavides,-9056,-73252
+107,Expreso8,Pacifico,-5941,-72827
+108,Expreso1,Izaguirre,-6219,-75531
+109,Expreso3,Estacion E,-7486,-77679
+110,SX,Los jasmines,-6960,-70570
+111,Expreso8,Plaza de Flores,-8506,-78502
+112,Expreso1,Javier Prado,-9104,-71792
+113,SXN,Estadio Nacional,-8377,-79916
+114,Expreso3,Honorio Delgado,-5011,-77000
+115,A,Colmena,-5754,-73708
+116,Expreso2,Caqueta,-6285,-72734
+117,C,Estacion E,-6906,-70811
+118,D,Plaza de Flores,-9685,-75049
+119,Expreso8,Estadio Nacional,-8104,-70068
+120,Expreso5,Los jasmines,-7890,-76568
+121,Expreso9,Naranjal,-8742,-70882
+122,Expreso3,Javier Prado,-8614,-76214
+123,Expreso9,Balta,-7740,-75624
+124,Expreso9,Estadio Nacional,-5274,-74755
+125,C,Quilca,-9805,-75975
+126,C,Bulevar,-7286,-79411
+127,SX,Parque del trabajo,-5103,-79626
+128,SX,Angamos,-5650,-78610
+129,Expreso5,Ricardo Palma,-8949,-75375
+130,Expreso4,Ramon,-5099,-73751
+131,Expreso2,España,-7488,-73459
+132,Expreso8,Quilca,-7002,-76872
+133,Expreso3,Teran,-6690,-74147
+134,B,Estacion B,-9727,-73219
+135,Expreso5,Caqueta,-7903,-76150
+136,B,Dos de Mayo,-7774,-70169
+137,Expreso9,Tomas Valle,-6142,-77919
+138,Expreso9,Jiron de la Union,-8149,-76641
+139,C,Mexico,-9657,-70438
+140,Expreso8,Estadio Union,-7529,-77269
+141,Expreso9,Dos de Mayo,-7760,-77842
+142,Expreso3,Domingo Orue,-8370,-77926
+143,Expreso1,Izaguirre,-9228,-72932
+144,Expreso5,Estadio Union,-5109,-78361
+145,Expreso3,Balta,-8040,-74502
+146,Expreso5,Quilca,-7868,-79043
+147,Expreso7,El milagro,-8788,-71983
+148,Expreso3,Mexico,-6342,-71333
+149,Expreso3,España,-6356,-74122
+150,Expreso6,España,-8011,-77869
+151,B,Pacifico,-7531,-72817
+152,Expreso7,Naranjal,-6608,-79848
+153,SX,Escuela Militar,-5858,-78272
+154,Expreso8,Benavides,-5521,-72932
+155,D,Estadio Union,-7849,-78094
+156,D,Central,-9269,-75551
+157,D,España,-5771,-72014
+158,SX,Independencia,-9932,-74997
+159,SXN,Teran,-7621,-79543
+160,D,Benavides,-7077,-70160
+161,Expreso5,Plaza de Flores,-8429,-79998
+162,B,Parque del trabajo,-5641,-78786
+163,SXN,Ricardo Palma,-7000,-75651
+164,C,Canaval Moreyra,-7453,-71543
+165,D,Mexico,-6586,-78298
+166,Expreso5,Canada,-5322,-76551
+167,Expreso2,Domingo Orue,-8048,-70909
+168,Expreso4,28 de Julio,-8251,-77456
+169,Expreso1,Independencia,-9883,-72794
+170,Expreso9,Parque del trabajo,-7266,-70680
+171,SXN,Rosario de Villa,-5832,-74914
+172,D,Mexico,-7194,-77713
+173,Expreso4,Estacion B,-9929,-75377
+174,Expreso2,Escuela Militar,-9491,-72111
+175,Expreso2,Ramon,-9009,-78967
+176,Expreso2,Rosario de Villa,-5935,-78702
+177,Expreso7,28 de Julio,-5704,-70164
+178,SXN,Canaval Moreyra,-6975,-71517
+179,SXN,Estacion E,-5940,-78480
+180,Expreso3,Angamos,-9645,-72838
+181,Expreso8,Central,-6520,-73786
+182,SXN,Mexico,-9388,-79275
+183,Expreso4,Ricardo Palma,-5525,-74215
+184,B,Plaza de Flores,-9104,-71620
+185,Expreso1,Plaza de Flores,-7537,-72591
+186,Expreso5,Pacifico,-6014,-73621
+187,Expreso6,El milagro,-5443,-79578
+188,Expreso7,Quilca,-5984,-71942
+189,Expreso1,Estacion B,-7659,-72220
+190,Expreso9,Estacion F,-7169,-70646
+191,Expreso9,Caqueta,-8508,-74142
+192,A,El milagro,-6861,-77496
+193,Expreso5,Los jasmines,-5768,-74187
+194,Expreso3,Canada,-5978,-78027
+195,SX,Canaval Moreyra,-9839,-70952
+196,SX,Benavides,-7829,-76592
+197,SXN,Jiron de la Union,-6967,-70712
+198,Expreso5,28 de Julio,-7446,-72175
+199,Expreso3,Tacna,-8206,-70244
+200,Expreso5,Independencia,-7488,-77980
+201,Expreso9,Matellini,-6246,-76726
+202,SXN,Quilca,-9105,-72988
+203,Expreso9,Angamos,-9086,-76247
+204,C,Estadio Nacional,-5798,-73935
+205,C,Estacion D,-9162,-77883
+206,SX,Ricardo Palma,-5241,-75453
+207,B,España,-6423,-72557
+208,Expreso2,Ramon,-5088,-71589
+209,D,Ramon,-9876,-72429
+210,Expreso2,Pacifico,-5976,-72585
+211,Expreso7,Estadio Union,-6716,-72617
+212,A,Parque del trabajo,-9650,-71499
+213,Expreso8,Javier Prado,-7235,-78526
+214,SX,Domingo Orue,-7245,-73658
+215,D,Angamos,-8274,-72181
+216,Expreso8,Bulevar,-6189,-79929
+217,SX,Ricardo Palma,-7250,-77758
+218,Expreso7,Estacion A,-9145,-72066
+219,Expreso9,Central,-5806,-74094
+220,Expreso1,El milagro,-5064,-76570
+221,Expreso4,Estacion A,-5975,-77515
+222,Expreso8,Benavides,-8888,-76547
+223,C,Naranjal,-6931,-73209
+224,A,Aramburu,-8466,-76830
+225,Expreso7,Javier Prado,-8891,-70872
+226,C,Central,-5140,-74538
+227,Expreso6,Teran,-5958,-73176
+228,C,Javier Prado,-8672,-70807
+229,Expreso1,Aramburu,-7905,-78119
+230,C,Estacion A,-5714,-71785
+231,A,Matellini,-7127,-73577
+232,Expreso6,Colmena,-9395,-71476
+233,Expreso4,Aramburu,-8534,-79965
+234,Expreso1,Matellini,-7422,-78575
+235,C,Bulevar,-6406,-71437
+236,Expreso7,Benavides,-8242,-74341
+237,Expreso1,Jiron de la Union,-8960,-73906
+238,Expreso9,Plaza de Flores,-7356,-78648
+239,Expreso1,Ramon,-6994,-70272
+240,D,Ramon,-8544,-79314
+241,Expreso3,España,-6774,-76269
+242,Expreso2,Central,-8871,-77067
+243,Expreso1,Estadio Union,-8109,-75822
+244,B,Javier Prado,-9282,-74637
+245,SX,Parque del trabajo,-5794,-76129
+246,SXN,Domingo Orue,-7088,-79173
+247,Expreso2,Colmena,-6532,-72856
+248,B,Domingo Orue,-7973,-70973
+249,A,Aramburu,-6867,-74643
+250,Expreso4,Domingo Orue,-8354,-72851
+251,A,Uni,-8883,-74979
+252,A,Teran,-5979,-77629
+253,Expreso4,Estacion B,-5490,-70259
+254,SXN,Independencia,-7067,-77276
+255,Expreso4,28 de Julio,-8320,-74747
+256,Expreso2,Estacion C,-6455,-72352
+257,D,El milagro,-9535,-78506
+258,Expreso2,Honorio Delgado,-8119,-74232
+259,Expreso1,Bulevar,-8561,-74601
+260,D,Estacion F,-9046,-72752
+261,Expreso1,Central,-5817,-76796
+262,Expreso8,España,-8160,-73235
+263,C,Tacna,-7061,-72188
+264,Expreso4,Estacion D,-8497,-75340
+265,SX,Mexico,-9623,-70176
+266,Expreso4,Estacion C,-6572,-75805
+267,Expreso2,Independencia,-7348,-72482
+268,Expreso1,Los jasmines,-5887,-72698
+269,Expreso5,El milagro,-8089,-73601
+270,Expreso2,Balta,-8399,-77926
+271,Expreso7,Domingo Orue,-5788,-71946
+272,A,Tomas Valle,-7703,-73060
+273,Expreso3,Los jasmines,-8994,-76113
+274,Expreso1,Ramon,-6543,-78012
+275,SX,España,-5877,-74703
+276,Expreso5,Estacion B,-5697,-73364
+277,Expreso2,Estacion B,-5505,-73258
+278,Expreso1,Canaval Moreyra,-6800,-76817
+279,Expreso6,Dos de Mayo,-5393,-71989
+280,Expreso8,Javier Prado,-9775,-72372
+281,Expreso9,Estacion F,-6104,-74544
+282,Expreso8,Matellini,-5957,-70796
+283,Expreso5,28 de Julio,-9244,-71431
+284,Expreso7,Escuela Militar,-8002,-79793
+285,A,Tacna,-7840,-73682
+286,Expreso7,Tacna,-9144,-77855
+287,D,Benavides,-7091,-77030
+288,Expreso2,Estacion B,-8497,-78892
+289,Expreso2,Balta,-7916,-77793
+290,SXN,Canada,-8402,-79071
+291,Expreso3,Benavides,-8388,-73213
+292,Expreso6,España,-6817,-74992
+293,Expreso4,Ramon,-8285,-74203
+294,Expreso3,Aramburu,-9433,-78522
+295,Expreso1,El milagro,-6890,-70162
+296,Expreso9,Javier Prado,-5401,-78344
+297,C,Ramon,-7495,-75587
+298,B,Angamos,-9341,-76761
+299,Expreso9,Benavides,-9515,-74982
+300,Expreso8,Matellini,-9692,-74366
+301,A,Jiron de la Union,-8957,-76074
+302,SX,Angamos,-9207,-73925
+303,Expreso3,Izaguirre,-9195,-75136
+304,Expreso3,Benavides,-6217,-78908
+305,Expreso3,Aramburu,-9073,-73516
+306,Expreso5,Ramon,-7346,-71964
+307,Expreso6,Uni,-9193,-79892
+308,C,Matellini,-5842,-71865
+309,C,Domingo Orue,-8084,-72260
+310,SX,Benavides,-9092,-73564
+311,Expreso5,El milagro,-6688,-75403
+312,C,Canada,-5190,-73270
+313,A,España,-6440,-79247
+314,Expreso8,28 de Julio,-9791,-79253
+315,Expreso2,Aramburu,-5443,-77717
+316,C,Honorio Delgado,-5544,-71388
+317,Expreso7,Tacna,-9880,-71049
+318,Expreso1,Caqueta,-6271,-73763
+319,Expreso5,Javier Prado,-5547,-78868
+320,Expreso3,Naranjal,-9599,-74150
+321,C,Canada,-7219,-78998
+322,B,Tomas Valle,-9253,-75513
+323,Expreso8,España,-8062,-70120
+324,D,Los jasmines,-7914,-73704
+325,SX,Quilca,-8429,-70018
+326,Expreso3,Canada,-6207,-71601
+327,D,Estadio Nacional,-5703,-79957
+328,A,España,-7793,-76449
+329,C,Independencia,-9320,-73007
+330,Expreso2,Angamos,-7885,-74920
+331,Expreso4,Balta,-7169,-74400
+332,Expreso1,Ricardo Palma,-6340,-71467
+333,Expreso5,El milagro,-6900,-75483
+334,Expreso4,Los jasmines,-6642,-75709
+335,Expreso4,Estadio Union,-7849,-79922
+336,Expreso8,Ricardo Palma,-8749,-71919
+337,Expreso6,Jiron de la Union,-5669,-70221
+338,C,Quilca,-5520,-75629
+339,Expreso1,Estacion A,-7909,-78924
+340,A,Jiron de la Union,-6979,-79576
+341,C,España,-5866,-78923
+342,SX,Central,-6328,-72941
+343,SX,Ramon,-6772,-79232
+344,D,Honorio Delgado,-5786,-79860
+345,Expreso8,Estacion B,-5362,-79201
+346,Expreso2,Angamos,-9763,-70881
+347,Expreso2,Estacion F,-7137,-75391
+348,Expreso2,Tomas Valle,-9008,-75059
+349,SXN,Parque del trabajo,-5675,-70186
+350,Expreso8,Central,-8941,-77985
+351,B,Izaguirre,-9259,-70404
+352,Expreso4,Javier Prado,-7581,-71624
+353,Expreso9,Parque del trabajo,-7365,-71581
+354,A,Parque del trabajo,-8316,-71494
+355,Expreso4,Canaval Moreyra,-8529,-73562
+356,Expreso7,Estadio Nacional,-8861,-76071
+357,C,Dos de Mayo,-6627,-71420
+358,Expreso9,España,-8125,-74930
+359,SX,Caqueta,-6380,-71802
+360,Expreso2,Javier Prado,-8374,-70108
+361,A,Rosario de Villa,-5839,-72750
+362,Expreso2,Ricardo Palma,-5985,-77606
+363,SX,Parque del trabajo,-6122,-77032
+364,B,Angamos,-5794,-74245
+365,Expreso3,Uni,-8427,-79295
+366,Expreso4,Teran,-8886,-70745
+367,B,Jiron de la Union,-6854,-75665
+368,SX,Parque del trabajo,-9028,-78220
+369,Expreso3,Estacion C,-6163,-79604
+370,Expreso4,Ramon,-9258,-76131
+371,Expreso1,Domingo Orue,-8710,-70671
+372,SXN,El milagro,-6333,-75259
+373,A,Central,-8865,-72868
+374,Expreso1,Parque del trabajo,-5238,-77985
+375,Expreso5,Matellini,-9490,-73987
+376,Expreso5,Ricardo Palma,-7878,-75670
+377,Expreso2,Bulevar,-7797,-75023
+378,Expreso2,Canada,-9376,-70093
+379,A,Plaza de Flores,-8748,-78795
+380,SXN,Central,-5876,-71687
+381,Expreso3,Caqueta,-7482,-78438
+382,Expreso6,Aramburu,-7109,-72589
+383,Expreso4,Estacion F,-6930,-79081
+384,Expreso4,Bulevar,-6161,-79612
+385,Expreso3,28 de Julio,-5416,-70808
+386,D,Estacion E,-7792,-79471
+387,SXN,Balta,-6778,-72338
+388,C,Teran,-8347,-79337
+389,C,Bulevar,-6030,-77347
+390,C,Jiron de la Union,-9095,-71636
+391,C,Estacion E,-8690,-71501
+392,C,Estacion C,-9514,-78502
+393,Expreso9,Estacion E,-5958,-72890
+394,Expreso3,Colmena,-7701,-73783
+395,Expreso4,Caqueta,-9012,-72117
+396,Expreso8,Balta,-9033,-78518
+397,Expreso3,Estadio Union,-7312,-75676
+398,B,Estacion E,-8011,-73897
+399,Expreso9,Dos de Mayo,-9605,-77901
+400,Expreso5,Estacion B,-9658,-78377
+401,Expreso2,Los jasmines,-5899,-73897
+402,D,Ricardo Palma,-8963,-76164
+403,Expreso8,28 de Julio,-5408,-73794
+404,B,Balta,-9639,-77404
+405,Expreso3,Balta,-9265,-73717
+406,Expreso8,Naranjal,-5913,-71749
+407,D,Izaguirre,-9165,-71928
+408,A,Domingo Orue,-7221,-76020
+409,C,Estadio Union,-7549,-70149
+410,Expreso1,Estadio Nacional,-8962,-74156
+411,Expreso7,Bulevar,-7773,-76310
+412,B,Canaval Moreyra,-5724,-73983
+413,Expreso3,Escuela Militar,-8022,-76878
+414,C,Matellini,-6633,-77234
+415,C,Benavides,-9138,-79167
+416,Expreso3,Tacna,-7341,-70687
+417,SX,Quilca,-8669,-73124
+418,A,28 de Julio,-9220,-79979
+419,Expreso6,Estadio Union,-8743,-72384
+420,D,Ricardo Palma,-7930,-72622
+421,Expreso9,Central,-8096,-75512
+422,SX,Estacion E,-8915,-76082
+423,Expreso2,Estacion A,-9062,-78453
+424,Expreso1,Dos de Mayo,-5522,-74878
+425,C,Estacion E,-8728,-77173
+426,Expreso2,Uni,-9917,-73178
+427,Expreso8,Independencia,-8598,-79816
+428,Expreso7,Ricardo Palma,-6048,-75107
+429,C,Ramon,-8400,-77214
+430,Expreso7,Canada,-6850,-73100
+431,Expreso2,Jiron de la Union,-9661,-73332
+432,SXN,Jiron de la Union,-6060,-78186
+433,B,Bulevar,-6200,-79240
+434,Expreso5,Jiron de la Union,-9135,-78555
+435,Expreso9,Tomas Valle,-6704,-73254
+436,Expreso5,Parque del trabajo,-8341,-70625
+437,Expreso9,Rosario de Villa,-6421,-73639
+438,B,Javier Prado,-6730,-70995
+439,Expreso1,Estacion F,-7560,-72843
+440,Expreso6,Canaval Moreyra,-8428,-77386
+441,Expreso4,Tomas Valle,-6717,-78963
+442,Expreso3,Estacion F,-6591,-72075
+443,SX,Naranjal,-8640,-73411
+444,Expreso3,Dos de Mayo,-6637,-74895
+445,C,Independencia,-7998,-74153
+446,B,Teran,-5627,-79114
+447,B,Angamos,-6643,-79982
+448,SX,Caqueta,-8392,-78226
+449,Expreso2,Aramburu,-6180,-75075
+450,SXN,Dos de Mayo,-9993,-73634
+451,SXN,Estacion D,-6823,-78715
+452,Expreso3,Central,-8192,-74184
+453,Expreso4,Honorio Delgado,-7542,-73423
+454,Expreso1,Rosario de Villa,-8454,-77062
+455,C,Estacion F,-7679,-79993
+456,Expreso1,Estacion D,-8789,-72910
+457,Expreso6,Mexico,-7796,-75414
+458,Expreso7,Ramon,-6329,-77220
+459,Expreso5,Naranjal,-8756,-71675
+460,Expreso7,Honorio Delgado,-6406,-71774
+461,Expreso2,Mexico,-8296,-78214
+462,Expreso4,Ricardo Palma,-5647,-73346
+463,Expreso1,Pacifico,-5636,-74119
+464,Expreso5,Tomas Valle,-9425,-78409
+465,SXN,Colmena,-5485,-73742
+466,Expreso3,Jiron de la Union,-5069,-70685
+467,D,España,-8292,-76081
+468,Expreso1,Ricardo Palma,-9887,-76551
+469,Expreso1,Tomas Valle,-6356,-78923
+470,C,28 de Julio,-6254,-74181
+471,Expreso8,Dos de Mayo,-6527,-73175
+472,Expreso4,Independencia,-8144,-78942
+473,Expreso6,Ricardo Palma,-9068,-77106
+474,Expreso2,Naranjal,-7680,-78058
+475,Expreso1,Estacion C,-9127,-78970
+476,Expreso5,Canaval Moreyra,-7250,-73596
+477,Expreso5,Escuela Militar,-7446,-72432
+478,Expreso3,Estacion A,-6929,-76260
+479,D,Tomas Valle,-9377,-73332
+480,Expreso4,Quilca,-8082,-74086
+481,Expreso1,Estadio Nacional,-6171,-71089
+482,SXN,Pacifico,-6882,-72195
+483,Expreso2,Izaguirre,-7981,-76654
+484,Expreso3,Estacion F,-6112,-78361
+485,Expreso7,Ramon,-6643,-76499
+486,SXN,Canaval Moreyra,-8251,-76728
+487,D,Central,-9432,-73210
+488,Expreso8,Pacifico,-7483,-70257
+489,B,Estacion E,-5035,-74200
+490,Expreso1,Estadio Union,-5508,-78672
+491,Expreso1,Quilca,-9159,-76650
+492,Expreso9,Javier Prado,-9727,-74943
+493,Expreso7,Ricardo Palma,-5387,-76338
+494,Expreso2,Estacion C,-9866,-75758
+495,C,Quilca,-5269,-77451
+496,Expreso5,Uni,-7982,-72440
+497,SXN,Rosario de Villa,-6819,-77562
+498,C,Canada,-9989,-78782
+499,Expreso3,España,-8891,-74906
+500,Expreso1,Colmena,-5860,-75396
+501,C,Jiron de la Union,-6993,-71640
+502,SXN,Tomas Valle,-7577,-71768
+503,B,Javier Prado,-8945,-72914
+504,B,Estadio Union,-5047,-71429
+505,SX,Independencia,-8003,-77440
+506,SX,Plaza de Flores,-6728,-78638
+507,A,Estacion F,-6697,-76283
+508,D,Dos de Mayo,-6858,-73891
+509,Expreso6,Estacion D,-6152,-75773
+510,D,28 de Julio,-5761,-76656
+511,Expreso7,Estacion B,-6314,-79250
+512,Expreso7,Los jasmines,-8491,-73333
+513,Expreso1,Aramburu,-7438,-72922
+514,B,Central,-6157,-78004
+515,Expreso8,Balta,-6095,-79381
+516,Expreso8,Angamos,-9686,-79882
+517,Expreso2,Colmena,-9879,-78148
+518,B,Estacion D,-9040,-74473
+519,Expreso5,Bulevar,-5936,-77875
+520,Expreso3,Izaguirre,-8255,-71312
+521,B,Escuela Militar,-6707,-71113
+522,Expreso5,Estacion F,-8960,-76275
+523,Expreso4,Domingo Orue,-7278,-73157
+524,Expreso1,Estacion E,-9509,-75312
+525,B,Pacifico,-8529,-71034
+526,Expreso8,Uni,-5787,-76825
+527,Expreso5,Dos de Mayo,-8039,-70419
+528,D,Izaguirre,-7171,-71223
+529,Expreso8,Dos de Mayo,-9819,-76143
+530,D,Estacion B,-5952,-73880
+531,Expreso8,Estacion E,-6118,-76135
+532,SXN,Teran,-6094,-78446
+533,Expreso6,Domingo Orue,-6861,-79542
+534,Expreso8,Caqueta,-7137,-76409
+535,SXN,Balta,-5500,-70792
+536,Expreso7,Parque del trabajo,-7353,-76125
+537,Expreso6,Los jasmines,-7692,-79415
+538,Expreso3,Estacion C,-9451,-71692
+539,A,Domingo Orue,-9970,-74135
+540,Expreso4,Benavides,-9434,-70383
+541,SXN,Plaza de Flores,-5619,-75413
+542,Expreso8,Estacion F,-9779,-73015
+543,Expreso2,Pacifico,-5035,-70820
+544,SXN,Balta,-5731,-70218
+545,Expreso1,Los jasmines,-5151,-75329
+546,Expreso4,Estacion F,-6151,-71724
+547,B,Canaval Moreyra,-8304,-79946
+548,SX,Estacion C,-6400,-70846
+549,Expreso3,Estacion D,-8188,-77698
+550,D,Pacifico,-8676,-77640
+551,Expreso6,Rosario de Villa,-7617,-79395
+552,C,Ricardo Palma,-7235,-73329
+553,Expreso3,Matellini,-8738,-76290
+554,Expreso2,Balta,-6260,-77923
+555,Expreso1,Estacion E,-7439,-76884
+556,Expreso1,Estacion E,-6848,-72727
+557,Expreso2,Plaza de Flores,-9178,-70880
+558,Expreso4,Angamos,-6899,-76582
+559,Expreso7,Ramon,-8468,-73139
+560,Expreso4,Teran,-6705,-73050
+561,A,Bulevar,-9799,-78743
+562,B,Quilca,-5891,-74609
+563,B,El milagro,-8098,-74797
+564,Expreso5,Jiron de la Union,-5533,-73006
+565,Expreso6,Ricardo Palma,-6954,-72445
+566,Expreso2,Pacifico,-9699,-74185
+567,Expreso1,Domingo Orue,-6870,-79788
+568,SX,Estacion E,-7037,-76833
+569,Expreso6,Javier Prado,-7557,-76643
+570,SXN,Central,-8152,-77269
+571,Expreso9,Teran,-9472,-79535
+572,B,Estacion B,-7118,-70283
+573,Expreso8,Mexico,-9168,-75195
+574,Expreso9,Estacion F,-7171,-75014
+575,Expreso8,Rosario de Villa,-7470,-78319
+576,Expreso2,Teran,-6049,-75896
+577,Expreso2,Canaval Moreyra,-8845,-72865
+578,A,El milagro,-5639,-74448
+579,Expreso1,Mexico,-7648,-73608
+580,Expreso3,Estacion B,-9760,-71624
+581,Expreso4,Independencia,-7627,-75418
+582,Expreso7,28 de Julio,-7993,-76909
+583,Expreso2,Teran,-5501,-70217
+584,Expreso6,Teran,-6651,-77279
+585,Expreso8,Estadio Nacional,-8712,-78646
+586,Expreso3,Canaval Moreyra,-6420,-74653
+587,Expreso8,Ramon,-5313,-74533
+588,Expreso5,Ramon,-5186,-78554
+589,Expreso5,Estacion F,-6511,-71005
+590,SX,Naranjal,-8035,-78527
+591,Expreso9,Javier Prado,-7538,-75222
+592,Expreso2,Escuela Militar,-9722,-71433
+593,C,Honorio Delgado,-9024,-73373
+594,Expreso8,Quilca,-8418,-75273
+595,C,Izaguirre,-5317,-70059
+596,Expreso6,Rosario de Villa,-5806,-70305
+597,Expreso3,Caqueta,-6461,-75750
+598,SX,Escuela Militar,-5272,-72894
+599,C,El milagro,-5001,-78608
+600,SX,Domingo Orue,-7498,-73789
+601,D,El milagro,-6166,-78157
+602,Expreso4,Benavides,-6915,-70420
+603,Expreso3,Estadio Nacional,-7520,-74114
+604,Expreso2,Escuela Militar,-9447,-71951
+605,C,Uni,-8143,-72311
+606,A,Aramburu,-7403,-73717
+607,Expreso8,Domingo Orue,-7085,-75134
+608,A,Parque del trabajo,-9582,-74004
+609,D,El milagro,-7890,-79848
+610,D,Tomas Valle,-9139,-76314
+611,Expreso9,Naranjal,-6767,-76245
+612,C,Benavides,-9605,-72937
+613,Expreso9,Naranjal,-5035,-70210
+614,Expreso7,Colmena,-7969,-77115
+615,SX,Estadio Union,-6404,-71473
+616,Expreso7,Domingo Orue,-9689,-78338
+617,Expreso5,Teran,-8639,-75304
+618,B,Caqueta,-9660,-78747
+619,Expreso6,Colmena,-8365,-78369
+620,A,Quilca,-5044,-77824
+621,SX,Parque del trabajo,-8207,-70976
+622,Expreso9,Teran,-6960,-73413
+623,Expreso7,Estacion B,-8396,-72210
+624,Expreso1,Benavides,-7664,-79597
+625,SXN,28 de Julio,-8134,-75746
+626,Expreso3,Ricardo Palma,-9578,-73466
+627,A,Honorio Delgado,-6146,-78609
+628,Expreso9,Estadio Nacional,-7937,-70388
+629,Expreso6,Ramon,-6375,-79102
+630,A,Los jasmines,-8491,-71721
+631,Expreso8,Tacna,-7745,-70176
+632,Expreso3,Mexico,-5882,-72266
+633,Expreso6,Tacna,-9529,-70875
+634,Expreso3,Estacion A,-7705,-71587
+635,B,Estacion B,-5595,-72407
+636,Expreso6,Domingo Orue,-9050,-73274
+637,B,Canada,-8039,-75062
+638,D,Uni,-6888,-70518
+639,Expreso2,Aramburu,-5707,-73517
+640,Expreso5,El milagro,-9122,-77082
+641,C,Canada,-9043,-75112
+642,Expreso9,Canada,-7899,-72477
+643,Expreso7,Teran,-9006,-74451
+644,Expreso5,Izaguirre,-6651,-73855
+645,Expreso4,Tacna,-7325,-76719
+646,Expreso9,Uni,-5188,-73207
+647,Expreso6,España,-8371,-79313
+648,Expreso5,Caqueta,-9171,-73366
+649,Expreso4,Teran,-5327,-73147
+650,Expreso8,Domingo Orue,-9644,-77505
+651,Expreso4,Dos de Mayo,-6680,-79899
+652,Expreso7,Balta,-5532,-75295
+653,Expreso6,Teran,-5387,-73173
+654,Expreso8,Rosario de Villa,-8306,-75221
+655,SXN,Domingo Orue,-9018,-72132
+656,A,Ricardo Palma,-9601,-74816
+657,D,Estacion E,-5268,-74759
+658,Expreso8,Aramburu,-9666,-73904
+659,SXN,Rosario de Villa,-7980,-73845
+660,Expreso4,Ricardo Palma,-7612,-73290
+661,SXN,Izaguirre,-9137,-73181
+662,Expreso2,Javier Prado,-7489,-74520
+663,D,Balta,-7076,-76740
+664,SXN,Uni,-5992,-77931
+665,Expreso3,Javier Prado,-8888,-75062
+666,Expreso5,Uni,-7684,-73576
+667,SX,Pacifico,-5879,-73980
+668,SXN,Honorio Delgado,-6018,-77541
+669,Expreso4,Estacion B,-9941,-70622
+670,Expreso6,El milagro,-6469,-74239
+671,Expreso6,Izaguirre,-6403,-76452
+672,SXN,Caqueta,-9007,-78884
+673,Expreso4,Ricardo Palma,-9443,-78932
+674,SXN,Benavides,-5452,-75397
+675,Expreso9,Honorio Delgado,-6154,-71519
+676,Expreso4,Estacion E,-6398,-73913
+677,Expreso9,Benavides,-6487,-72530
+678,Expreso2,Ramon,-6353,-78832
+679,D,Central,-8963,-70418
+680,Expreso8,Estacion E,-6641,-70109
+681,SXN,Parque del trabajo,-6168,-79580
+682,Expreso7,Central,-7653,-74240
+683,Expreso8,Independencia,-6558,-79970
+684,B,Estadio Nacional,-6431,-76674
+685,Expreso7,Canada,-7076,-70530
+686,Expreso3,Rosario de Villa,-9109,-76544
+687,Expreso2,Uni,-8098,-74200
+688,Expreso8,Central,-8093,-70352
+689,C,Teran,-7881,-71615
+690,C,Parque del trabajo,-6415,-78368
+691,Expreso6,Independencia,-7555,-75648
+692,Expreso6,Estacion B,-7177,-72999
+693,Expreso9,Estacion A,-8929,-72052
+694,Expreso4,Dos de Mayo,-7477,-78910
+695,Expreso6,Teran,-5297,-75509
+696,Expreso4,Izaguirre,-8032,-75359
+697,Expreso6,Independencia,-8324,-79711
+698,Expreso8,Canada,-9355,-79366
+699,SXN,Balta,-7421,-73013
+700,Expreso9,Estacion D,-9241,-74015
+701,SXN,Estacion F,-7751,-74392
+702,A,Uni,-8163,-70336
+703,Expreso2,El milagro,-7113,-78298
+704,Expreso8,Estacion E,-8581,-71763
+705,SX,Caqueta,-6603,-70327
+706,Expreso7,Uni,-7215,-76567
+707,A,28 de Julio,-5209,-76314
+708,Expreso9,Tomas Valle,-6076,-74352
+709,Expreso6,28 de Julio,-9905,-74929
+710,SX,Naranjal,-6263,-79031
+711,SXN,Mexico,-9318,-71506
+712,Expreso9,Dos de Mayo,-6062,-71948
+713,A,Mexico,-5398,-74208
+714,Expreso1,Estacion C,-9756,-76874
+715,Expreso7,Escuela Militar,-8985,-77693
+716,Expreso8,Dos de Mayo,-7349,-73277
+717,Expreso2,Rosario de Villa,-8460,-76628
+718,SX,Pacifico,-8190,-70244
+719,Expreso2,Colmena,-5025,-70034
+720,SXN,Javier Prado,-9237,-75796
+721,Expreso9,Tomas Valle,-6691,-73162
+722,Expreso3,Escuela Militar,-5049,-71552
+723,Expreso4,Jiron de la Union,-9862,-73395
+724,Expreso2,Matellini,-9640,-72760
+725,Expreso1,Mexico,-5229,-72312
+726,B,Tomas Valle,-5187,-78249
+727,D,Izaguirre,-7672,-70309
+728,Expreso7,Izaguirre,-9356,-77757
+729,C,Jiron de la Union,-6951,-73951
+730,SXN,Benavides,-8081,-76722
+731,Expreso8,El milagro,-5131,-73099
+732,Expreso3,Dos de Mayo,-8682,-76294
+733,Expreso7,Domingo Orue,-9892,-76830
+734,D,Jiron de la Union,-7885,-72987
+735,C,Benavides,-9333,-72745
+736,Expreso8,Bulevar,-7256,-78474
+737,C,Rosario de Villa,-9936,-73028
+738,Expreso1,Estadio Union,-7350,-79769
+739,A,Teran,-5255,-72187
+740,Expreso6,Estacion B,-5116,-71871
+741,Expreso8,Dos de Mayo,-5699,-78195
+742,B,Estacion A,-8033,-78751
+743,Expreso6,Estadio Union,-9152,-70194
+744,Expreso4,28 de Julio,-9140,-70144
+745,Expreso3,Rosario de Villa,-6805,-76603
+746,Expreso8,Parque del trabajo,-5830,-75675
+747,Expreso5,Ricardo Palma,-8522,-74611
+748,SXN,Colmena,-7011,-73227
+749,SXN,Mexico,-8007,-71722
+750,Expreso4,Balta,-8035,-78196
+751,A,Estacion D,-7057,-79136
+752,Expreso2,Estacion C,-6264,-71049
+753,SX,Ramon,-6528,-77671
+754,Expreso3,Estadio Union,-6841,-75762
+755,C,Central,-6091,-72233
+756,Expreso2,Ricardo Palma,-5388,-75846
+757,SX,Tacna,-9722,-79618
+758,Expreso1,Balta,-6312,-77412
+759,A,Caqueta,-8671,-76215
+760,Expreso6,Ramon,-9522,-71129
+761,C,Canada,-6323,-71914
+762,SX,Domingo Orue,-9781,-75114
+763,Expreso3,Naranjal,-9357,-74292
+764,Expreso5,Izaguirre,-6704,-77911
+765,Expreso2,Ricardo Palma,-9513,-71152
+766,C,Bulevar,-8135,-77423
+767,B,Domingo Orue,-6323,-77715
+768,B,Estacion F,-7546,-70529
+769,Expreso2,Los jasmines,-9249,-78450
+770,Expreso9,Jiron de la Union,-6502,-71492
+771,Expreso7,Canaval Moreyra,-6317,-76812
+772,Expreso6,Caqueta,-9402,-74150
+773,Expreso5,Ricardo Palma,-9227,-79699
+774,Expreso1,El milagro,-9900,-72229
+775,Expreso5,Aramburu,-8582,-70523
+776,Expreso4,Naranjal,-6787,-72067
+777,Expreso8,Tomas Valle,-5635,-75703
+778,Expreso2,Estacion D,-6364,-77047
+779,Expreso1,Estacion B,-8073,-77312
+780,SXN,Domingo Orue,-6980,-77022
+781,Expreso3,Independencia,-6051,-73682
+782,Expreso5,Ricardo Palma,-6725,-70928
+783,A,Benavides,-9429,-75143
+784,Expreso2,Bulevar,-8859,-77366
+785,Expreso8,Teran,-6809,-75695
+786,D,Naranjal,-5774,-74826
+787,D,Benavides,-5702,-75071
+788,Expreso3,Mexico,-9184,-73371
+789,Expreso8,Escuela Militar,-5421,-70603
+790,Expreso2,Estacion F,-6722,-74059
+791,SX,Dos de Mayo,-7300,-76492
+792,Expreso4,Pacifico,-6387,-74380
+793,Expreso8,Mexico,-7944,-71346
+794,Expreso3,El milagro,-9292,-70322
+795,Expreso9,Escuela Militar,-5149,-79319
+796,SX,Estacion E,-7456,-71528
+797,A,Uni,-9321,-77942
+798,SX,Uni,-7338,-74144
+799,Expreso5,Balta,-9866,-75487
+800,D,Canada,-9234,-77189
+801,Expreso1,Angamos,-5037,-76541
+802,Expreso9,Caqueta,-5616,-78360
+803,Expreso1,Naranjal,-6149,-77671
+804,Expreso2,Bulevar,-5940,-76992
+805,Expreso8,Aramburu,-7750,-71461
+806,Expreso5,Tacna,-5275,-71512
+807,Expreso8,Estadio Nacional,-7705,-74910
+808,Expreso2,Estadio Nacional,-8004,-73120
+809,C,Dos de Mayo,-6938,-72332
+810,Expreso7,Estacion C,-7219,-79259
+811,Expreso2,Tomas Valle,-9313,-70610
+812,SX,Ramon,-6603,-78005
+813,B,Estadio Union,-5124,-72201
+814,B,Angamos,-7135,-72857
+815,Expreso8,Canada,-8560,-79169
+816,Expreso2,Uni,-8451,-75720
+817,Expreso4,Estacion F,-5963,-75998
+818,B,Jiron de la Union,-8719,-76057
+819,A,Aramburu,-7983,-74187
+820,Expreso6,Domingo Orue,-5500,-75231
+821,SX,Estacion D,-8533,-71270
+822,Expreso6,Rosario de Villa,-8904,-78093
+823,Expreso4,Izaguirre,-5339,-74035
+824,SXN,Canaval Moreyra,-8373,-70581
+825,Expreso5,Canada,-8161,-72183
+826,A,Rosario de Villa,-7219,-77443
+827,A,Estadio Nacional,-8962,-79427
+828,A,Aramburu,-7140,-77519
+829,A,Naranjal,-9884,-77552
+830,B,Domingo Orue,-8663,-77475
+831,Expreso7,Escuela Militar,-8759,-73364
+832,Expreso3,Los jasmines,-5151,-78162
+833,Expreso8,Estadio Nacional,-5552,-77040
+834,Expreso8,Mexico,-7420,-76304
+835,Expreso8,Canaval Moreyra,-8574,-77426
+836,Expreso8,Benavides,-9428,-73493
+837,C,Los jasmines,-7104,-74473
+838,SX,Canaval Moreyra,-6766,-72287
+839,Expreso9,Caqueta,-6636,-71975
+840,Expreso4,Estacion E,-9391,-76203
+841,A,Estacion C,-9274,-70714
+842,D,Naranjal,-7216,-74001
+843,Expreso2,Estacion D,-6040,-74315
+844,Expreso6,Independencia,-9806,-78833
+845,Expreso5,Teran,-9617,-78120
+846,Expreso5,Mexico,-9326,-76070
+847,Expreso1,Pacifico,-7742,-77403
+848,Expreso3,Independencia,-8733,-78290
+849,Expreso1,Independencia,-6633,-76452
+850,SX,Rosario de Villa,-6820,-78738
+851,Expreso8,Colmena,-8045,-79184
+852,Expreso3,Aramburu,-6108,-79358
+853,Expreso2,Naranjal,-8835,-74026
+854,A,Tacna,-8782,-77805
+855,Expreso4,Colmena,-8492,-71173
+856,SX,Balta,-7041,-72007
+857,Expreso8,Estacion E,-9229,-73348
+858,B,Caqueta,-8743,-70872
+859,Expreso2,Ricardo Palma,-8990,-79914
+860,Expreso2,Domingo Orue,-6223,-79892
+861,Expreso8,Parque del trabajo,-6365,-73420
+862,Expreso7,Jiron de la Union,-8646,-76702
+863,Expreso5,Independencia,-6744,-73841
+864,Expreso6,Rosario de Villa,-5297,-75449
+865,Expreso9,Tomas Valle,-6333,-77139
+866,Expreso9,Aramburu,-5093,-73542
+867,Expreso1,Naranjal,-6339,-72020
+868,Expreso7,Estacion F,-5617,-77868
+869,Expreso5,Benavides,-9864,-78107
+870,SX,Javier Prado,-9966,-71446
+871,SX,28 de Julio,-7693,-75836
+872,Expreso3,Balta,-6205,-70327
+873,Expreso3,Estadio Nacional,-9558,-79585
+874,Expreso2,Escuela Militar,-8653,-74530
+875,Expreso5,Mexico,-8423,-71021
+876,Expreso2,Bulevar,-8742,-74787
+877,Expreso4,Los jasmines,-5394,-73321
+878,SXN,Ramon,-5763,-72463
+879,Expreso7,Quilca,-9798,-70940
+880,Expreso7,Jiron de la Union,-9845,-74438
+881,D,Quilca,-9020,-71652
+882,Expreso8,Javier Prado,-9709,-72354
+883,Expreso6,Estacion B,-7698,-76845
+884,Expreso1,Aramburu,-7218,-77798
+885,Expreso6,Honorio Delgado,-5658,-70464
+886,Expreso3,Los jasmines,-7955,-73761
+887,D,Izaguirre,-6757,-79530
+888,Expreso7,Jiron de la Union,-8154,-77733
+889,SX,El milagro,-6059,-75009
+890,B,Teran,-9593,-79937
+891,Expreso2,Caqueta,-6258,-76217
+892,Expreso2,Honorio Delgado,-6452,-70028
+893,A,Estadio Nacional,-8955,-71582
+894,SXN,Tacna,-5281,-76392
+895,Expreso1,Estacion D,-6453,-71780
+896,Expreso8,Estacion E,-9958,-76886
+897,Expreso3,Domingo Orue,-7343,-76991
+898,Expreso4,Tomas Valle,-5216,-74405
+899,C,Benavides,-7878,-75364
+900,Expreso4,Ramon,-7438,-78765
+901,Expreso8,Central,-8286,-78111
+902,Expreso3,Javier Prado,-5553,-70533
+903,SXN,Pacifico,-7909,-70292
+904,SXN,Teran,-7692,-73213
+905,SX,Los jasmines,-9603,-70793
+906,Expreso1,Estacion C,-9315,-76732
+907,D,Mexico,-8141,-74936
+908,Expreso7,Bulevar,-5628,-74111
+909,C,Estacion E,-8147,-73687
+910,B,Estadio Union,-7646,-73223
+911,Expreso4,Estacion B,-6531,-76017
+912,SX,Plaza de Flores,-9721,-71992
+913,Expreso7,Tacna,-6265,-70405
+914,Expreso9,Caqueta,-8988,-77514
+915,SXN,El milagro,-9030,-76269
+916,C,El milagro,-9785,-78009
+917,A,Domingo Orue,-8797,-79306
+918,SXN,Caqueta,-7816,-71472
+919,Expreso4,Pacifico,-9373,-73935
+920,Expreso9,Tacna,-8839,-79070
+921,SXN,España,-5949,-77197
+922,C,Izaguirre,-8710,-75364
+923,SX,Central,-8627,-76691
+924,SXN,Colmena,-7049,-77408
+925,Expreso5,Parque del trabajo,-5278,-71975
+926,Expreso8,Bulevar,-6159,-70558
+927,Expreso9,Tacna,-7416,-76251
+928,A,Balta,-7064,-74553
+929,B,Izaguirre,-7300,-75513
+930,Expreso4,Balta,-7260,-70793
+931,B,Dos de Mayo,-5030,-71501
+932,Expreso2,Estadio Union,-9435,-73038
+933,SXN,Domingo Orue,-8179,-71497
+934,Expreso7,Estacion E,-9350,-77219
+935,A,Benavides,-6805,-77727
+936,Expreso4,Estacion A,-7655,-76772
+937,Expreso2,Colmena,-5083,-72132
+938,Expreso9,Javier Prado,-6793,-71373
+939,C,Escuela Militar,-5531,-75283
+940,Expreso6,Bulevar,-8896,-75479
+941,Expreso9,Mexico,-7093,-77998
+942,B,28 de Julio,-6576,-70173
+943,Expreso8,Dos de Mayo,-8709,-71294
+944,B,Ricardo Palma,-6765,-74377
+945,Expreso3,Javier Prado,-7792,-79633
+946,D,Benavides,-5128,-74832
+947,Expreso9,Estadio Nacional,-6082,-77444
+948,A,Escuela Militar,-8863,-70135
+949,SX,Parque del trabajo,-8030,-77661
+950,Expreso6,Escuela Militar,-6076,-73292
+951,SXN,Colmena,-5248,-71878
+952,D,Estadio Union,-7984,-77105
+953,SX,Dos de Mayo,-6967,-79583
+954,Expreso2,Independencia,-9740,-78111
+955,Expreso3,Escuela Militar,-8291,-75835
+956,Expreso2,Tacna,-6686,-72126
+957,Expreso9,Estacion B,-5169,-74522
+958,Expreso1,Javier Prado,-8960,-79363
+959,Expreso2,Mexico,-7912,-70498
+960,Expreso3,Colmena,-8451,-74512
+961,B,Izaguirre,-7505,-73169
+962,A,Bulevar,-8013,-70200
+963,C,Central,-7725,-77640
+964,Expreso7,España,-6118,-70885
+965,Expreso1,Javier Prado,-5686,-73440
+966,A,Mexico,-5492,-71023
+967,SX,Naranjal,-8989,-74571
+968,SXN,Izaguirre,-7859,-75379
+969,A,Benavides,-8437,-71262
+970,SXN,Canada,-8537,-70087
+971,Expreso2,Angamos,-7672,-70630
+972,SXN,Rosario de Villa,-8004,-71189
+973,Expreso6,Javier Prado,-6926,-72806
+974,B,Dos de Mayo,-8740,-73168
+975,Expreso8,Escuela Militar,-9961,-72404
+976,D,Canaval Moreyra,-5793,-71328
+977,Expreso9,Pacifico,-8589,-70551
+978,SX,Javier Prado,-8763,-70772
+979,SXN,Angamos,-9837,-73721
+980,SX,Mexico,-5054,-79579
+981,A,Independencia,-9884,-72434
+982,Expreso5,Ramon,-8951,-71458
+983,A,Angamos,-8635,-72114
+984,Expreso5,Estadio Union,-6150,-78269
+985,Expreso3,Escuela Militar,-5495,-78953
+986,SX,Rosario de Villa,-6280,-76067
+987,Expreso8,El milagro,-7336,-72597
+988,Expreso6,Independencia,-6286,-79753
+989,SXN,Independencia,-5102,-73783
+990,Expreso6,Honorio Delgado,-8249,-77267
+991,Expreso3,Teran,-9816,-70488
+992,B,Central,-7829,-73384
+993,Expreso5,Caqueta,-5782,-70233
+994,C,Honorio Delgado,-6913,-71735
+995,Expreso5,Estacion F,-7235,-74950
+996,Expreso9,Quilca,-9033,-78606
+997,Expreso5,Angamos,-7277,-77839
+998,B,España,-9757,-79558
+999,D,Javier Prado,-5478,-75276
+1000,Expreso2,Angamos,-7287,-76383
+1001,Expreso3,28 de Julio,-8404,-74738
+1002,C,Dos de Mayo,-8140,-77240
+1003,SXN,Pacifico,-9235,-78680
+1004,Expreso7,Mexico,-9119,-71926
+1005,Expreso4,Estacion F,-7448,-78009
+1006,SXN,Estacion E,-7906,-79356
+1007,C,Izaguirre,-6940,-73886
+1008,D,Matellini,-9672,-72408
+1009,Expreso4,Canada,-9517,-77486
+1010,Expreso6,Pacifico,-8385,-71227
+1011,Expreso4,Ramon,-6402,-79846
+1012,Expreso3,Honorio Delgado,-8342,-73421
+1013,Expreso6,Estacion E,-9336,-77422
+1014,Expreso9,Uni,-7514,-77112
+1015,Expreso1,Naranjal,-8503,-70314
+1016,Expreso4,Pacifico,-9216,-79131
+1017,SX,Estacion A,-6640,-78878
+1018,Expreso9,Estacion D,-9497,-74842
+1019,C,Canaval Moreyra,-7778,-77550
+1020,SXN,Balta,-9888,-78873
+1021,SX,Estacion D,-7856,-78786
+1022,SX,Independencia,-9160,-71599
+1023,Expreso3,Canaval Moreyra,-6118,-75056
+1024,Expreso2,Balta,-7478,-73113
+1025,C,Estacion E,-8564,-79079
+1026,Expreso1,Rosario de Villa,-5940,-75243
+1027,Expreso5,Estadio Nacional,-5639,-70537
+1028,SXN,Benavides,-9673,-79618
+1029,Expreso8,Bulevar,-6853,-74169
+1030,Expreso4,Pacifico,-7007,-72765
+1031,Expreso3,Caqueta,-5147,-74870
+1032,Expreso3,Teran,-7072,-71404
+1033,Expreso5,Izaguirre,-6527,-76816
+1034,Expreso6,Ricardo Palma,-5630,-70359
+1035,Expreso7,Estacion F,-6215,-73036
+1036,Expreso8,Angamos,-7563,-74178
+1037,Expreso2,El milagro,-9787,-71802
+1038,Expreso4,Canada,-9800,-74509
+1039,Expreso5,Canada,-7099,-76099
+1040,Expreso1,Naranjal,-5478,-77573
+1041,Expreso4,Mexico,-7785,-72711
+1042,Expreso7,Naranjal,-6514,-71460
+1043,Expreso8,Parque del trabajo,-9605,-70630
+1044,C,Estacion C,-8181,-75593
+1045,A,Estacion B,-8287,-78830
+1046,Expreso6,Estacion F,-8124,-74284
+1047,Expreso9,Colmena,-7207,-70131
+1048,Expreso7,Central,-8754,-73367
+1049,SX,Naranjal,-8771,-70064
+1050,Expreso1,Ramon,-8859,-76226
+1051,Expreso9,Naranjal,-9422,-70763
+1052,Expreso3,Uni,-5878,-78161
+1053,SX,Quilca,-9061,-77599
+1054,B,Domingo Orue,-8706,-74861
+1055,Expreso5,Canada,-5611,-78124
+1056,B,Jiron de la Union,-7454,-71505
+1057,C,Los jasmines,-7718,-75210
+1058,D,Pacifico,-7441,-70765
+1059,Expreso6,Pacifico,-9963,-70245
+1060,C,Estacion D,-8940,-73438
+1061,A,Dos de Mayo,-5487,-74081
+1062,Expreso4,Dos de Mayo,-6111,-76460
+1063,Expreso9,Tacna,-9659,-72129
+1064,SX,Tacna,-7823,-70135
+1065,D,Independencia,-7180,-73197
+1066,Expreso1,Mexico,-6878,-73618
+1067,SXN,Javier Prado,-5158,-76274
+1068,B,Estacion D,-8960,-70744
+1069,Expreso2,Caqueta,-7158,-76025
+1070,Expreso3,Uni,-5689,-78224
+1071,Expreso6,Uni,-9588,-75450
+1072,Expreso1,El milagro,-5988,-72162
+1073,A,28 de Julio,-8164,-73873
+1074,SX,Teran,-6344,-77761
+1075,Expreso1,Canada,-8976,-74990
+1076,D,Teran,-9575,-78937
+1077,SXN,España,-5483,-71773
+1078,Expreso4,Estacion E,-6585,-70967
+1079,SX,Honorio Delgado,-6843,-79791
+1080,D,Quilca,-9236,-79943
+1081,B,Estadio Nacional,-8985,-71438
+1082,Expreso4,Estacion D,-6637,-71126
+1083,Expreso1,El milagro,-7274,-71414
+1084,SXN,Caqueta,-9780,-74178
+1085,D,Canada,-7231,-77328
+1086,Expreso7,Tomas Valle,-7073,-73777
+1087,D,28 de Julio,-6801,-71311
+1088,Expreso4,Estacion C,-8394,-79504
+1089,Expreso2,Caqueta,-5253,-73550
+1090,Expreso8,Caqueta,-9016,-75975
+1091,Expreso1,Naranjal,-8083,-71901
+1092,Expreso9,Estacion E,-5400,-74697
+1093,C,Honorio Delgado,-6117,-70072
+1094,Expreso2,Escuela Militar,-5953,-79637
+1095,B,Matellini,-8267,-76129
+1096,Expreso4,28 de Julio,-5924,-74330
+1097,C,Estacion C,-9622,-70533
+1098,Expreso7,España,-9888,-76526
+1099,Expreso3,Escuela Militar,-7358,-73712
+1100,Expreso3,Bulevar,-5513,-77405
+1101,SX,Independencia,-8525,-71239
+1102,Expreso9,Estacion C,-6554,-71881
+1103,Expreso9,Bulevar,-9700,-78472
+1104,Expreso1,Estadio Union,-7598,-76158
+1105,Expreso5,Caqueta,-6116,-73230
+1106,Expreso1,Mexico,-9601,-76970
+1107,A,28 de Julio,-9997,-77017
+1108,Expreso5,Estacion D,-9009,-71612
+1109,Expreso3,Estacion B,-9680,-77094
+1110,SX,Los jasmines,-9939,-79430
+1111,B,Angamos,-8090,-79250
+1112,Expreso8,Bulevar,-9867,-74173
+1113,C,Matellini,-5658,-76630
+1114,SXN,Estacion B,-5998,-79920
+1115,Expreso3,Javier Prado,-6250,-73272
+1116,Expreso9,Balta,-6461,-77126
+1117,C,Javier Prado,-5611,-75448
+1118,SXN,Matellini,-9988,-73736
+1119,Expreso9,Aramburu,-9929,-72498
+1120,C,Estacion C,-8866,-74461
+1121,C,Estacion E,-6008,-73879
+1122,B,Plaza de Flores,-5344,-73332
+1123,Expreso1,Estadio Nacional,-7698,-72134
+1124,Expreso4,Teran,-5476,-71777
+1125,Expreso4,Rosario de Villa,-7475,-70881
+1126,Expreso7,Angamos,-5518,-78078
+1127,B,Estadio Union,-8327,-75999
+1128,D,Canaval Moreyra,-8991,-77369
+1129,D,Javier Prado,-8730,-76617
+1130,C,España,-8064,-72569
+1131,Expreso6,Quilca,-9477,-79607
+1132,Expreso3,Benavides,-8135,-79017
+1133,C,Quilca,-9386,-74801
+1134,Expreso1,El milagro,-9748,-76087
+1135,Expreso2,Honorio Delgado,-7049,-75345
+1136,A,Escuela Militar,-5923,-73525
+1137,Expreso9,Plaza de Flores,-9155,-73442
+1138,A,Central,-8799,-73595
+1139,Expreso4,Dos de Mayo,-6768,-71071
+1140,Expreso8,Honorio Delgado,-7752,-76953
+1141,Expreso6,Balta,-9452,-72470
+1142,Expreso9,Estadio Nacional,-5965,-76031
+1143,Expreso2,Plaza de Flores,-6856,-78154
+1144,D,Bulevar,-8761,-77443
+1145,Expreso5,Bulevar,-6267,-77200
+1146,D,Uni,-9128,-70026
+1147,Expreso4,Estacion A,-9439,-72102
+1148,Expreso9,Plaza de Flores,-9057,-75220
+1149,C,Honorio Delgado,-5429,-76664
+1150,C,Estacion F,-6170,-77634
+1151,Expreso1,España,-5795,-73615
+1152,Expreso3,España,-7607,-75547
+1153,B,Estadio Union,-9588,-75178
+1154,A,Canada,-5267,-78797
+1155,Expreso7,Los jasmines,-9348,-72619
+1156,A,Domingo Orue,-6793,-70669
+1157,A,Dos de Mayo,-9236,-71163
+1158,A,Honorio Delgado,-8673,-77440
+1159,Expreso9,Aramburu,-6289,-77037
+1160,Expreso8,Pacifico,-8826,-72849
+1161,C,Estacion A,-5375,-76324
+1162,C,Uni,-8205,-77264
+1163,SXN,Teran,-8948,-79228
+1164,SX,Izaguirre,-5803,-75424
+1165,D,Jiron de la Union,-8835,-75276
+1166,Expreso5,España,-6839,-78149
+1167,Expreso1,Teran,-5306,-79462
+1168,D,Estacion F,-7278,-74396
+1169,Expreso3,Canada,-7951,-72295
+1170,D,Javier Prado,-8137,-70497
+1171,Expreso1,Mexico,-8408,-74544
+1172,Expreso7,Angamos,-7722,-73012
+1173,B,Caqueta,-9550,-78457
+1174,Expreso1,Benavides,-9455,-73671
+1175,Expreso9,Quilca,-6105,-70699
+1176,Expreso6,Independencia,-7687,-70770
+1177,Expreso8,Mexico,-8241,-79378
+1178,Expreso8,Colmena,-9025,-79867
+1179,Expreso5,Estacion B,-5054,-78159
+1180,B,Canada,-8662,-78281
+1181,A,Quilca,-5214,-79492
+1182,Expreso8,Estacion A,-5515,-78063
+1183,Expreso3,Canada,-7645,-77495
+1184,SX,Caqueta,-8101,-73454
+1185,D,Estacion F,-9495,-70143
+1186,SX,Uni,-6013,-75302
+1187,Expreso9,Parque del trabajo,-8361,-77456
+1188,SXN,Bulevar,-6629,-70855
+1189,D,Estacion E,-6082,-74731
+1190,Expreso7,Balta,-9288,-75385
+1191,Expreso2,Estacion D,-6804,-76499
+1192,Expreso9,Bulevar,-8984,-72326
+1193,B,Estacion D,-6924,-71276
+1194,Expreso7,Caqueta,-7680,-72816
+1195,Expreso2,Dos de Mayo,-5337,-78128
+1196,Expreso8,Angamos,-8851,-78305
+1197,Expreso2,Izaguirre,-8493,-74808
+1198,Expreso3,Estacion E,-5313,-75373
+1199,Expreso4,Rosario de Villa,-8608,-71984
+1200,Expreso9,Estacion C,-8066,-77330
+1201,Expreso3,Independencia,-9952,-70013
+1202,Expreso9,Quilca,-9451,-70177
+1203,Expreso4,Estadio Union,-9179,-75252
+1204,Expreso8,Matellini,-9154,-74084
+1205,Expreso9,Caqueta,-6010,-71009
+1206,C,Tacna,-5967,-75317
+1207,C,Angamos,-6404,-77565
+1208,A,Rosario de Villa,-8182,-78271
+1209,D,Javier Prado,-6787,-77287
+1210,Expreso2,Independencia,-7498,-78872
+1211,Expreso8,Independencia,-8075,-70971
+1212,Expreso8,Estacion B,-6370,-79836
+1213,Expreso6,Aramburu,-7408,-76180
+1214,Expreso2,Pacifico,-8219,-73436
+1215,Expreso9,Bulevar,-7016,-70533
+1216,Expreso8,Javier Prado,-7264,-76692
+1217,B,Estacion D,-7813,-75087
+1218,B,Canaval Moreyra,-7956,-77607
+1219,D,Quilca,-6100,-70696
+1220,Expreso4,Javier Prado,-6792,-76048
+1221,Expreso4,Honorio Delgado,-7441,-73026
+1222,Expreso9,Tacna,-9203,-73352
+1223,A,Izaguirre,-9260,-74968
+1224,Expreso4,Matellini,-8523,-78126
+1225,Expreso6,Mexico,-6180,-79394
+1226,D,Estacion A,-7525,-70953
+1227,Expreso8,Independencia,-7646,-71760
+1228,SXN,Matellini,-6702,-74911
+1229,Expreso7,Los jasmines,-5145,-78549
+1230,Expreso3,Teran,-7031,-76277
+1231,Expreso9,Plaza de Flores,-6624,-77048
+1232,Expreso7,Estacion C,-8352,-74588
+1233,D,Ricardo Palma,-6288,-79851
+1234,Expreso6,Tacna,-9420,-76281
+1235,Expreso6,Colmena,-9830,-77865
+1236,B,Dos de Mayo,-8582,-71392
+1237,A,Mexico,-6413,-76240
+1238,B,Tacna,-8279,-79232
+1239,Expreso1,Ricardo Palma,-8684,-71078
+1240,C,Dos de Mayo,-8218,-73007
+1241,B,Canaval Moreyra,-8700,-71079
+1242,D,Los jasmines,-8996,-72422
+1243,D,Angamos,-8822,-79792
+1244,SX,Los jasmines,-9482,-74313
+1245,Expreso8,Estacion B,-7127,-75121
+1246,B,Escuela Militar,-9788,-74019
+1247,Expreso5,Bulevar,-9440,-71378
+1248,B,Canada,-8866,-74092
+1249,SXN,Jiron de la Union,-9577,-77930
+1250,Expreso9,Mexico,-7150,-73069
+1251,SX,Rosario de Villa,-8000,-79062
+1252,D,Estadio Union,-9921,-74926
+1253,SXN,Plaza de Flores,-5851,-72344
+1254,Expreso9,Estacion B,-7368,-77873
+1255,Expreso8,Tacna,-6643,-78252
+1256,A,Javier Prado,-7640,-78533
+1257,Expreso2,Teran,-6893,-78241
+1258,B,Estacion B,-7987,-72302
+1259,Expreso6,Matellini,-5668,-76215
+1260,A,Balta,-9574,-77434
+1261,Expreso8,Ricardo Palma,-9696,-71718
+1262,SX,Central,-5890,-78411
+1263,SX,Uni,-9278,-76936
+1264,B,Bulevar,-9765,-73649
+1265,Expreso9,Estacion C,-7435,-71806
+1266,D,Naranjal,-9541,-72728
+1267,SX,Estadio Union,-8067,-79223
+1268,Expreso3,Matellini,-5513,-78837
+1269,B,Uni,-6225,-72572
+1270,Expreso2,Balta,-9396,-74743
+1271,B,Colmena,-7826,-71804
+1272,C,Estacion A,-9349,-72369
+1273,Expreso6,Estacion B,-8846,-74212
+1274,Expreso2,Ricardo Palma,-5377,-76342
+1275,Expreso1,Los jasmines,-8180,-79106
+1276,Expreso5,Estadio Nacional,-7180,-71926
+1277,A,Javier Prado,-5265,-74515
+1278,Expreso7,Colmena,-9441,-76464
+1279,D,Izaguirre,-9687,-77572
+1280,Expreso6,Colmena,-9143,-75457
+1281,Expreso6,28 de Julio,-6019,-75989
+1282,B,Ricardo Palma,-5647,-72627
+1283,Expreso6,Estacion C,-5074,-71345
+1284,Expreso5,Escuela Militar,-6567,-75406
+1285,Expreso6,Ramon,-5600,-72944
+1286,Expreso2,Independencia,-9114,-79909
+1287,C,Bulevar,-7564,-75241
+1288,Expreso9,Jiron de la Union,-6066,-74683
+1289,SXN,Izaguirre,-6083,-74839
+1290,Expreso8,Rosario de Villa,-5400,-71866
+1291,B,Izaguirre,-9186,-78325
+1292,Expreso7,Naranjal,-9499,-76241
+1293,Expreso6,Colmena,-5754,-74234
+1294,Expreso7,Tomas Valle,-5692,-77842
+1295,SX,Estacion A,-6556,-70149
+1296,Expreso6,Benavides,-6557,-70853
+1297,Expreso9,Canada,-5593,-74169
+1298,Expreso5,Estacion A,-7773,-74679
+1299,Expreso2,Izaguirre,-7883,-73411
+1300,Expreso6,Tomas Valle,-8501,-74507
+1301,Expreso2,España,-5720,-79666
+1302,Expreso4,Matellini,-7186,-76636
+1303,A,Estacion B,-6953,-75531
+1304,Expreso1,Caqueta,-8005,-78253
+1305,A,Pacifico,-5290,-71675
+1306,Expreso8,Parque del trabajo,-9039,-72285
+1307,Expreso9,Uni,-7214,-76723
+1308,Expreso8,Estadio Nacional,-6663,-70567
+1309,C,Estacion A,-8824,-73684
+1310,SXN,Quilca,-8977,-74665
+1311,A,Javier Prado,-8473,-75796
+1312,Expreso5,Estadio Union,-7463,-75310
+1313,SX,Pacifico,-8556,-77270
+1314,Expreso5,Ricardo Palma,-9331,-74126
+1315,C,Naranjal,-9752,-70166
+1316,Expreso8,Estacion A,-8781,-77173
+1317,SXN,Ricardo Palma,-7760,-78481
+1318,Expreso4,El milagro,-8034,-70061
+1319,SXN,Colmena,-5900,-79638
+1320,Expreso2,Tacna,-7063,-71940
+1321,Expreso6,Tomas Valle,-8291,-70425
+1322,Expreso7,Matellini,-8534,-78443
+1323,Expreso9,Dos de Mayo,-5398,-74909
+1324,A,Mexico,-7598,-76335
+1325,C,Dos de Mayo,-6606,-72213
+1326,B,Estacion E,-5596,-72322
+1327,SXN,Quilca,-8992,-73186
+1328,Expreso2,Dos de Mayo,-5570,-75118
+1329,Expreso7,Canaval Moreyra,-5465,-71071
+1330,Expreso7,Estadio Union,-5750,-77540
+1331,C,Caqueta,-7549,-74996
+1332,Expreso6,Angamos,-9149,-78434
+1333,Expreso8,Honorio Delgado,-8248,-78295
+1334,Expreso8,Angamos,-9020,-72538
+1335,B,Quilca,-9387,-73575
+1336,Expreso6,Angamos,-7933,-76803
+1337,Expreso2,Escuela Militar,-8139,-76288
+1338,Expreso7,Estacion D,-6839,-70270
+1339,C,Estacion B,-7256,-75889
+1340,A,Jiron de la Union,-9519,-71075
+1341,Expreso4,Escuela Militar,-6307,-73570
+1342,Expreso3,Estadio Union,-6840,-73086
+1343,A,El milagro,-9123,-76012
+1344,Expreso8,Estadio Union,-5858,-72481
+1345,Expreso4,Estacion E,-9484,-78674
+1346,SXN,Pacifico,-6076,-76476
+1347,Expreso3,Los jasmines,-7303,-73992
+1348,SXN,Uni,-9967,-72045
+1349,Expreso6,Central,-6569,-74594
+1350,C,Escuela Militar,-7851,-71088
+1351,D,Rosario de Villa,-5339,-72687
+1352,Expreso8,Canaval Moreyra,-6663,-72272
+1353,Expreso4,Estacion F,-6309,-75153
+1354,Expreso8,Balta,-5191,-77543
+1355,Expreso3,España,-7236,-74607
+1356,Expreso5,El milagro,-9822,-70680
+1357,C,Parque del trabajo,-5969,-71507
+1358,SXN,Colmena,-9754,-71014
+1359,Expreso9,Naranjal,-9193,-73220
+1360,SX,Matellini,-7102,-75351
+1361,Expreso9,Los jasmines,-8297,-77560
+1362,Expreso1,Independencia,-6053,-72129
+1363,SX,Ramon,-6406,-74898
+1364,C,Pacifico,-5304,-75117
+1365,SX,Tomas Valle,-8990,-73813
+1366,SXN,Estadio Union,-9245,-74253
+1367,B,Estadio Union,-7536,-79791
+1368,Expreso1,Canaval Moreyra,-9714,-72881
+1369,A,Estacion A,-6410,-70198
+1370,SXN,Colmena,-6383,-79994
+1371,Expreso3,Quilca,-7465,-77400
+1372,Expreso1,Estacion F,-8037,-76349
+1373,Expreso2,Quilca,-5943,-77499
+1374,Expreso1,Caqueta,-7655,-79915
+1375,Expreso7,Domingo Orue,-9957,-74351
+1376,Expreso7,Izaguirre,-8306,-78420
+1377,C,Balta,-9877,-79795
+1378,SX,Parque del trabajo,-6505,-79945
+1379,SXN,Aramburu,-6873,-77905
+1380,D,Canaval Moreyra,-7277,-79751
+1381,Expreso8,Parque del trabajo,-6922,-77264
+1382,Expreso2,Quilca,-8946,-74840
+1383,C,Honorio Delgado,-9014,-76242
+1384,Expreso9,Los jasmines,-6999,-75065
+1385,SXN,España,-8931,-70853
+1386,SX,Caqueta,-7978,-71603
+1387,Expreso9,Central,-9231,-77021
+1388,Expreso9,Estacion D,-8972,-76798
+1389,Expreso5,Tomas Valle,-9666,-77621
+1390,Expreso9,Quilca,-5151,-70324
+1391,A,Jiron de la Union,-7041,-78939
+1392,C,Bulevar,-8243,-73168
+1393,SX,Ramon,-9915,-77896
+1394,Expreso8,Tomas Valle,-9077,-70076
+1395,Expreso5,Ricardo Palma,-6581,-73665
+1396,Expreso5,Bulevar,-6172,-76153
+1397,C,Escuela Militar,-6096,-74616
+1398,D,Central,-5666,-79195
+1399,Expreso1,Estacion F,-6690,-77956
+1400,Expreso7,Escuela Militar,-8621,-70519
+1401,Expreso4,Angamos,-9651,-75005
+1402,SXN,Canaval Moreyra,-6171,-72252
+1403,D,Estadio Union,-7997,-77126
+1404,A,Izaguirre,-9111,-74429
+1405,Expreso6,Plaza de Flores,-5331,-76485
+1406,A,Independencia,-7150,-76016
+1407,Expreso1,Pacifico,-5816,-79991
+1408,Expreso6,Angamos,-6359,-77898
+1409,Expreso8,Mexico,-6681,-75504
+1410,Expreso6,Dos de Mayo,-9193,-75945
+1411,Expreso5,Central,-7917,-71545
+1412,Expreso9,Rosario de Villa,-5413,-77910
+1413,Expreso2,Uni,-9649,-76749
+1414,SX,Tomas Valle,-5826,-77315
+1415,Expreso7,España,-6038,-74912
+1416,Expreso8,Rosario de Villa,-7178,-70920
+1417,Expreso9,Tomas Valle,-8959,-71876
+1418,SXN,El milagro,-8103,-75097
+1419,Expreso2,Colmena,-6648,-76754
+1420,Expreso3,Teran,-7436,-71902
+1421,Expreso1,Rosario de Villa,-9069,-78635
+1422,D,Angamos,-5207,-75218
+1423,Expreso1,Domingo Orue,-7633,-72165
+1424,Expreso6,Ramon,-8625,-79042
+1425,Expreso1,Central,-8068,-77630
+1426,SXN,Matellini,-5524,-75481
+1427,B,Balta,-6973,-74074
+1428,SXN,Colmena,-7457,-77952
+1429,Expreso6,Angamos,-5646,-74809
+1430,B,Tacna,-8866,-75118
+1431,C,Canaval Moreyra,-6285,-74684
+1432,Expreso1,Colmena,-6431,-77226
+1433,Expreso3,Plaza de Flores,-7189,-77155
+1434,Expreso3,Tomas Valle,-9823,-70318
+1435,Expreso4,Estadio Nacional,-9525,-73695
+1436,Expreso3,Teran,-9901,-75173
+1437,Expreso1,España,-8169,-71635
+1438,D,Tacna,-6886,-78934
+1439,D,Balta,-9515,-72831
+1440,SX,28 de Julio,-6347,-72544
+1441,SX,Tacna,-7393,-78902
+1442,SXN,Bulevar,-7250,-74625
+1443,Expreso2,Canaval Moreyra,-5915,-74618
+1444,SX,Honorio Delgado,-6894,-70254
+1445,Expreso1,Quilca,-7645,-79639
+1446,Expreso1,Javier Prado,-9064,-73769
+1447,C,Central,-6010,-74829
+1448,Expreso9,Parque del trabajo,-9432,-70707
+1449,Expreso1,28 de Julio,-8995,-72671
+1450,Expreso4,Bulevar,-6108,-77875
+1451,A,Ricardo Palma,-9109,-70794
+1452,Expreso8,Estacion F,-5024,-76153
+1453,B,Javier Prado,-7119,-74984
+1454,Expreso7,Canaval Moreyra,-5680,-74742
+1455,Expreso9,Matellini,-9696,-76914
+1456,SX,Parque del trabajo,-6781,-75625
+1457,B,Ramon,-8228,-70927
+1458,Expreso8,Canaval Moreyra,-7750,-78882
+1459,Expreso2,Tomas Valle,-6443,-75109
+1460,Expreso9,Estadio Union,-8747,-78392
+1461,C,Benavides,-8293,-74247
+1462,Expreso2,Pacifico,-9708,-72048
+1463,B,Mexico,-7673,-75823
+1464,Expreso7,Teran,-5794,-73499
+1465,SXN,Naranjal,-8873,-73805
+1466,Expreso7,Estadio Nacional,-7185,-70234
+1467,Expreso3,Javier Prado,-8885,-74169
+1468,SXN,Quilca,-7710,-78015
+1469,Expreso9,Estacion C,-8287,-78195
+1470,Expreso4,Estacion C,-7247,-73097
+1471,B,Central,-7190,-70912
+1472,Expreso3,Estacion F,-9941,-76320
+1473,Expreso2,Los jasmines,-7673,-71241
+1474,C,España,-6863,-72417
+1475,C,Colmena,-5800,-73161
+1476,C,Mexico,-5615,-75852
+1477,Expreso4,Estacion F,-8117,-77513
+1478,Expreso4,España,-8545,-72038
+1479,D,Teran,-5240,-76591
+1480,D,Estacion C,-6278,-71066
+1481,Expreso2,Caqueta,-9939,-78057
+1482,SXN,Independencia,-5337,-75385
+1483,D,Izaguirre,-6861,-73698
+1484,Expreso8,Teran,-9110,-73018
+1485,Expreso2,Benavides,-9098,-70866
+1486,SX,Canaval Moreyra,-7292,-79838
+1487,Expreso1,Quilca,-5352,-71155
+1488,Expreso9,Benavides,-9631,-70438
+1489,Expreso7,Javier Prado,-5532,-75460
+1490,Expreso8,Estadio Union,-5270,-70378
+1491,Expreso2,Honorio Delgado,-7936,-74793
+1492,C,Estacion A,-9440,-76382
+1493,SX,Tacna,-8724,-72250
+1494,Expreso7,Tacna,-9235,-76225
+1495,Expreso2,Central,-7540,-74646
+1496,C,Domingo Orue,-9882,-75110
+1497,Expreso6,Honorio Delgado,-8647,-79209
+1498,Expreso4,Canada,-6422,-72141
+1499,Expreso2,Tacna,-6123,-72494
+1500,D,Caqueta,-5171,-74719

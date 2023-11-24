@@ -1,0 +1,1501 @@
+ID,Buses,Estacion,Rutas,Tarifa,Altitud,Longitud
+1,C,Jiron de la Union,Alimentador,1.5,-7479,-76484
+2,Expreso3,Pacifico,Alimentador,1.5,-8708,-76673
+3,Expreso9,Ramon,Alimentador,1.5,-5420,-72708
+4,SX,Estacion D,Ruta Troncal,2.5,-8404,-78916
+5,SX,Rosario de Villa,Alimentador,1.5,-5023,-73277
+6,A,Plaza de Flores,Ruta Troncal,2.5,-8557,-75420
+7,Expreso5,España,Alimentador,1.5,-8582,-78765
+8,Expreso8,Canaval Moreyra,Alimentador,1.5,-8617,-76149
+9,Expreso8,28 de Julio,Ruta Troncal,2.5,-8190,-72596
+10,Expreso9,Domingo Orue,Ruta Troncal,2.5,-5328,-74111
+11,Expreso8,Matellini,Ruta Troncal,2.5,-6756,-78003
+12,Expreso1,Estacion D,Alimentador,1.5,-9859,-73830
+13,SXN,Caqueta,Ruta Troncal,2.5,-8752,-70585
+14,Expreso2,España,Ruta Troncal,2.5,-6145,-70934
+15,B,Javier Prado,Ruta Troncal,2.5,-8606,-78423
+16,C,El milagro,Alimentador,1.5,-8193,-73090
+17,SXN,Parque del trabajo,Ruta Troncal,2.5,-5522,-71546
+18,Expreso2,Estacion B,Alimentador,1.5,-5278,-78746
+19,Expreso2,Quilca,Ruta Troncal,2.5,-6461,-79522
+20,Expreso1,Canada,Ruta Troncal,2.5,-9136,-70920
+21,D,Estacion D,Ruta Troncal,2.5,-9947,-78427
+22,Expreso7,Estadio Union,Ruta Troncal,2.5,-7289,-74726
+23,Expreso1,Estacion E,Ruta Troncal,2.5,-8773,-75775
+24,Expreso6,Estadio Union,Alimentador,1.5,-8331,-75879
+25,Expreso8,Izaguirre,Alimentador,1.5,-8913,-76230
+26,C,Tomas Valle,Ruta Troncal,2.5,-7318,-75427
+27,Expreso2,Estacion A,Ruta Troncal,2.5,-9673,-72526
+28,Expreso9,Estadio Union,Alimentador,1.5,-7664,-76674
+29,SX,Quilca,Ruta Troncal,2.5,-5594,-70362
+30,SXN,Plaza de Flores,Ruta Troncal,2.5,-6745,-76951
+31,SX,Balta,Ruta Troncal,2.5,-9678,-73009
+32,Expreso5,Ricardo Palma,Ruta Troncal,2.5,-7829,-71133
+33,SXN,Javier Prado,Alimentador,1.5,-5237,-74733
+34,D,Caqueta,Ruta Troncal,2.5,-6988,-75842
+35,B,Estacion D,Ruta Troncal,2.5,-7965,-79344
+36,D,Escuela Militar,Ruta Troncal,2.5,-8847,-77947
+37,Expreso8,Aramburu,Alimentador,1.5,-6377,-73875
+38,Expreso8,Dos de Mayo,Alimentador,1.5,-6388,-71114
+39,Expreso6,Uni,Ruta Troncal,2.5,-5442,-70145
+40,Expreso9,Estadio Union,Ruta Troncal,2.5,-8272,-75468
+41,Expreso3,El milagro,Alimentador,1.5,-8091,-76555
+42,B,Quilca,Ruta Troncal,2.5,-9036,-79743
+43,Expreso4,Estadio Union,Ruta Troncal,2.5,-5699,-72450
+44,C,Estacion B,Ruta Troncal,2.5,-6707,-73073
+45,C,Bulevar,Alimentador,1.5,-5092,-75554
+46,Expreso3,Naranjal,Alimentador,1.5,-6699,-75938
+47,Expreso5,Quilca,Ruta Troncal,2.5,-8890,-77494
+48,Expreso4,Balta,Ruta Troncal,2.5,-9409,-72619
+49,Expreso5,Estadio Nacional,Ruta Troncal,2.5,-7414,-70185
+50,SX,Escuela Militar,Alimentador,1.5,-8422,-70266
+51,Expreso8,Matellini,Alimentador,1.5,-9773,-72494
+52,Expreso6,Canada,Alimentador,1.5,-9115,-74818
+53,D,Tacna,Ruta Troncal,2.5,-9227,-73693
+54,A,Canaval Moreyra,Ruta Troncal,2.5,-5493,-77955
+55,Expreso6,Dos de Mayo,Ruta Troncal,2.5,-8604,-73549
+56,Expreso1,Teran,Ruta Troncal,2.5,-5976,-72754
+57,Expreso3,Independencia,Ruta Troncal,2.5,-8424,-71780
+58,Expreso4,Aramburu,Ruta Troncal,2.5,-9133,-70196
+59,Expreso8,España,Alimentador,1.5,-8887,-73606
+60,C,Balta,Ruta Troncal,2.5,-7519,-72286
+61,SXN,Canaval Moreyra,Ruta Troncal,2.5,-6626,-71723
+62,Expreso5,Independencia,Alimentador,1.5,-6708,-70165
+63,A,El milagro,Ruta Troncal,2.5,-7471,-79593
+64,Expreso1,Canada,Alimentador,1.5,-8457,-73858
+65,Expreso5,Tacna,Alimentador,1.5,-9757,-73202
+66,SX,Parque del trabajo,Ruta Troncal,2.5,-6701,-78538
+67,SXN,Estacion D,Alimentador,1.5,-9689,-73136
+68,SX,Teran,Ruta Troncal,2.5,-9039,-79345
+69,Expreso4,Estacion C,Ruta Troncal,2.5,-9021,-78948
+70,C,Canada,Alimentador,1.5,-6700,-77189
+71,Expreso9,Independencia,Ruta Troncal,2.5,-9387,-79816
+72,SXN,Matellini,Ruta Troncal,2.5,-5366,-76998
+73,D,Izaguirre,Ruta Troncal,2.5,-5259,-79024
+74,Expreso5,Dos de Mayo,Alimentador,1.5,-8014,-72091
+75,C,Independencia,Ruta Troncal,2.5,-5864,-74136
+76,Expreso5,Central,Alimentador,1.5,-6053,-73555
+77,Expreso9,Pacifico,Ruta Troncal,2.5,-5920,-70389
+78,Expreso3,Javier Prado,Ruta Troncal,2.5,-9427,-77293
+79,Expreso4,Teran,Ruta Troncal,2.5,-9156,-75667
+80,Expreso9,Rosario de Villa,Ruta Troncal,2.5,-7826,-76570
+81,B,Izaguirre,Alimentador,1.5,-9995,-72538
+82,C,Bulevar,Alimentador,1.5,-5661,-78004
+83,Expreso5,Naranjal,Alimentador,1.5,-6715,-72615
+84,B,Parque del trabajo,Alimentador,1.5,-6958,-75679
+85,Expreso7,Pacifico,Ruta Troncal,2.5,-8962,-71755
+86,D,Los jasmines,Alimentador,1.5,-8959,-74266
+87,SX,Rosario de Villa,Alimentador,1.5,-6772,-73548
+88,D,Escuela Militar,Ruta Troncal,2.5,-7566,-72054
+89,Expreso1,Ricardo Palma,Ruta Troncal,2.5,-7213,-75599
+90,Expreso7,Tomas Valle,Alimentador,1.5,-6681,-71305
+91,B,Izaguirre,Alimentador,1.5,-7568,-78773
+92,Expreso1,Balta,Alimentador,1.5,-5155,-78287
+93,Expreso9,Escuela Militar,Alimentador,1.5,-6214,-78763
+94,SX,Matellini,Alimentador,1.5,-8884,-71135
+95,D,Benavides,Alimentador,1.5,-8118,-73278
+96,Expreso6,Estadio Union,Alimentador,1.5,-7490,-72480
+97,Expreso7,Parque del trabajo,Ruta Troncal,2.5,-8132,-76503
+98,B,Caqueta,Alimentador,1.5,-7722,-71354
+99,SX,Matellini,Ruta Troncal,2.5,-8148,-77029
+100,Expreso3,El milagro,Alimentador,1.5,-7156,-78276
+101,C,Canaval Moreyra,Ruta Troncal,2.5,-9692,-74930
+102,Expreso9,Escuela Militar,Alimentador,1.5,-8690,-71647
+103,Expreso4,El milagro,Alimentador,1.5,-9216,-77194
+104,SXN,Jiron de la Union,Alimentador,1.5,-5799,-72620
+105,Expreso3,Estacion B,Ruta Troncal,2.5,-6583,-74412
+106,A,Matellini,Ruta Troncal,2.5,-6114,-77962
+107,A,Balta,Alimentador,1.5,-8987,-75587
+108,Expreso3,Canaval Moreyra,Alimentador,1.5,-9709,-73256
+109,B,Canada,Ruta Troncal,2.5,-6619,-70219
+110,B,Caqueta,Alimentador,1.5,-6041,-73558
+111,Expreso1,Matellini,Ruta Troncal,2.5,-9478,-79880
+112,A,Benavides,Ruta Troncal,2.5,-9700,-77830
+113,Expreso1,Colmena,Ruta Troncal,2.5,-5714,-77910
+114,SX,Parque del trabajo,Alimentador,1.5,-7317,-74970
+115,Expreso2,Mexico,Ruta Troncal,2.5,-5260,-78850
+116,B,Tomas Valle,Ruta Troncal,2.5,-7446,-77166
+117,Expreso9,Tacna,Ruta Troncal,2.5,-9162,-75567
+118,Expreso2,Estacion C,Ruta Troncal,2.5,-7685,-78813
+119,D,Caqueta,Ruta Troncal,2.5,-5524,-72984
+120,Expreso3,Matellini,Alimentador,1.5,-7915,-76480
+121,D,Honorio Delgado,Alimentador,1.5,-6596,-75303
+122,Expreso9,Teran,Ruta Troncal,2.5,-7493,-76768
+123,C,Estacion E,Ruta Troncal,2.5,-8718,-70385
+124,Expreso1,Balta,Ruta Troncal,2.5,-9126,-75051
+125,A,Central,Alimentador,1.5,-9031,-77043
+126,Expreso5,Domingo Orue,Alimentador,1.5,-9707,-77141
+127,Expreso6,Uni,Alimentador,1.5,-6420,-75251
+128,B,Ramon,Ruta Troncal,2.5,-9803,-79892
+129,Expreso7,Estacion D,Ruta Troncal,2.5,-8199,-75142
+130,C,Javier Prado,Alimentador,1.5,-8379,-78073
+131,Expreso1,Jiron de la Union,Alimentador,1.5,-7571,-73703
+132,SXN,España,Alimentador,1.5,-9971,-74688
+133,SXN,Naranjal,Alimentador,1.5,-7028,-70785
+134,Expreso6,Honorio Delgado,Alimentador,1.5,-7788,-73699
+135,B,Colmena,Ruta Troncal,2.5,-5731,-75880
+136,B,Ricardo Palma,Ruta Troncal,2.5,-6494,-74709
+137,Expreso2,Rosario de Villa,Ruta Troncal,2.5,-6589,-72396
+138,A,Pacifico,Alimentador,1.5,-6011,-72787
+139,SX,Independencia,Alimentador,1.5,-7690,-71650
+140,C,Ricardo Palma,Ruta Troncal,2.5,-7358,-73987
+141,Expreso7,Estacion A,Ruta Troncal,2.5,-9129,-78722
+142,Expreso7,Balta,Ruta Troncal,2.5,-6717,-78159
+143,Expreso4,Independencia,Ruta Troncal,2.5,-7238,-76835
+144,D,28 de Julio,Ruta Troncal,2.5,-9754,-71379
+145,SXN,Central,Alimentador,1.5,-7277,-76455
+146,Expreso3,Estadio Union,Ruta Troncal,2.5,-9325,-76555
+147,A,Tomas Valle,Alimentador,1.5,-6376,-74436
+148,Expreso1,Naranjal,Alimentador,1.5,-9508,-76885
+149,D,Rosario de Villa,Alimentador,1.5,-8389,-75933
+150,Expreso2,Quilca,Alimentador,1.5,-8893,-74864
+151,C,Quilca,Alimentador,1.5,-6909,-72431
+152,SXN,España,Ruta Troncal,2.5,-9174,-74964
+153,SXN,Naranjal,Ruta Troncal,2.5,-5568,-77725
+154,C,Domingo Orue,Ruta Troncal,2.5,-9149,-79772
+155,Expreso4,Caqueta,Ruta Troncal,2.5,-9239,-73401
+156,C,Benavides,Ruta Troncal,2.5,-7305,-76319
+157,SXN,Jiron de la Union,Alimentador,1.5,-8488,-71250
+158,D,Mexico,Alimentador,1.5,-5018,-77297
+159,Expreso3,Jiron de la Union,Ruta Troncal,2.5,-8490,-70924
+160,Expreso3,Javier Prado,Alimentador,1.5,-7766,-77373
+161,Expreso5,Estacion B,Ruta Troncal,2.5,-8137,-73159
+162,A,Ramon,Alimentador,1.5,-6638,-77267
+163,D,Estacion A,Alimentador,1.5,-5719,-78287
+164,B,Tacna,Alimentador,1.5,-8740,-79191
+165,Expreso7,Tacna,Ruta Troncal,2.5,-9636,-72893
+166,Expreso3,Estacion A,Ruta Troncal,2.5,-7585,-70605
+167,Expreso8,Benavides,Ruta Troncal,2.5,-7824,-75225
+168,Expreso7,Estacion A,Ruta Troncal,2.5,-5838,-75724
+169,Expreso8,Canaval Moreyra,Alimentador,1.5,-5426,-76126
+170,SXN,Estacion B,Alimentador,1.5,-7206,-76585
+171,Expreso5,Izaguirre,Alimentador,1.5,-8418,-70253
+172,C,Angamos,Alimentador,1.5,-5378,-73571
+173,Expreso7,Domingo Orue,Ruta Troncal,2.5,-9603,-78209
+174,Expreso1,Estacion B,Ruta Troncal,2.5,-8826,-70547
+175,Expreso1,28 de Julio,Ruta Troncal,2.5,-6994,-78649
+176,Expreso5,Matellini,Ruta Troncal,2.5,-7344,-79378
+177,SXN,Tacna,Alimentador,1.5,-5423,-77465
+178,C,Estacion F,Alimentador,1.5,-6267,-76714
+179,Expreso9,Pacifico,Ruta Troncal,2.5,-9876,-77454
+180,Expreso2,Bulevar,Alimentador,1.5,-6270,-75923
+181,Expreso4,Uni,Alimentador,1.5,-7042,-70314
+182,Expreso4,España,Ruta Troncal,2.5,-5873,-72974
+183,SX,Estacion D,Alimentador,1.5,-5678,-73872
+184,Expreso8,Naranjal,Ruta Troncal,2.5,-5720,-79494
+185,Expreso7,El milagro,Ruta Troncal,2.5,-5815,-79643
+186,Expreso3,Canada,Alimentador,1.5,-8183,-78501
+187,B,Ramon,Alimentador,1.5,-9701,-72561
+188,Expreso1,Estacion E,Alimentador,1.5,-8401,-77230
+189,SX,Plaza de Flores,Ruta Troncal,2.5,-9954,-73166
+190,Expreso6,Naranjal,Alimentador,1.5,-6587,-73251
+191,Expreso1,Quilca,Ruta Troncal,2.5,-5408,-72382
+192,Expreso9,Jiron de la Union,Alimentador,1.5,-9131,-72644
+193,Expreso4,Estadio Nacional,Alimentador,1.5,-8103,-71472
+194,Expreso7,Tomas Valle,Ruta Troncal,2.5,-8904,-75130
+195,Expreso1,Benavides,Ruta Troncal,2.5,-7487,-72394
+196,Expreso4,Naranjal,Alimentador,1.5,-9069,-72906
+197,Expreso6,Estacion F,Ruta Troncal,2.5,-9296,-78361
+198,SX,Izaguirre,Ruta Troncal,2.5,-5644,-77365
+199,Expreso4,Pacifico,Ruta Troncal,2.5,-8361,-71778
+200,SX,Pacifico,Alimentador,1.5,-9802,-70180
+201,Expreso9,Angamos,Ruta Troncal,2.5,-5979,-72350
+202,Expreso6,Javier Prado,Alimentador,1.5,-9115,-78970
+203,Expreso9,Los jasmines,Ruta Troncal,2.5,-7405,-71742
+204,Expreso3,28 de Julio,Ruta Troncal,2.5,-9401,-72750
+205,Expreso9,Javier Prado,Ruta Troncal,2.5,-5000,-71309
+206,D,Ricardo Palma,Ruta Troncal,2.5,-7611,-76624
+207,Expreso9,Balta,Alimentador,1.5,-5081,-72737
+208,Expreso9,Tacna,Alimentador,1.5,-5448,-76053
+209,SXN,Tomas Valle,Alimentador,1.5,-9886,-71419
+210,Expreso4,Quilca,Alimentador,1.5,-5396,-79267
+211,Expreso4,Pacifico,Alimentador,1.5,-5650,-76395
+212,Expreso9,Aramburu,Ruta Troncal,2.5,-8402,-71078
+213,Expreso1,Rosario de Villa,Ruta Troncal,2.5,-7102,-79104
+214,Expreso8,Mexico,Alimentador,1.5,-7904,-79949
+215,Expreso8,Teran,Ruta Troncal,2.5,-9876,-75446
+216,Expreso5,Escuela Militar,Alimentador,1.5,-6951,-78117
+217,A,Estacion C,Alimentador,1.5,-8996,-72101
+218,Expreso2,Plaza de Flores,Ruta Troncal,2.5,-9012,-78400
+219,Expreso2,Estacion F,Alimentador,1.5,-5317,-79121
+220,Expreso9,Quilca,Ruta Troncal,2.5,-8223,-76420
+221,SX,Plaza de Flores,Alimentador,1.5,-9709,-70084
+222,Expreso5,Independencia,Ruta Troncal,2.5,-8623,-71786
+223,Expreso2,Canada,Alimentador,1.5,-9012,-74997
+224,A,Bulevar,Ruta Troncal,2.5,-9919,-73585
+225,Expreso2,Bulevar,Alimentador,1.5,-9487,-72283
+226,B,Canaval Moreyra,Ruta Troncal,2.5,-7103,-72593
+227,Expreso8,Estacion A,Ruta Troncal,2.5,-8358,-79009
+228,Expreso9,Jiron de la Union,Ruta Troncal,2.5,-9817,-70843
+229,SX,Izaguirre,Ruta Troncal,2.5,-7570,-78421
+230,A,Javier Prado,Ruta Troncal,2.5,-7834,-72114
+231,Expreso7,Teran,Ruta Troncal,2.5,-6606,-74992
+232,Expreso5,Estacion D,Ruta Troncal,2.5,-9676,-79037
+233,Expreso4,El milagro,Ruta Troncal,2.5,-7224,-74405
+234,Expreso7,Uni,Alimentador,1.5,-6709,-73207
+235,Expreso8,Canada,Ruta Troncal,2.5,-9843,-70601
+236,D,Naranjal,Alimentador,1.5,-6137,-74298
+237,Expreso5,Naranjal,Alimentador,1.5,-9661,-79878
+238,Expreso7,Domingo Orue,Ruta Troncal,2.5,-5678,-77829
+239,C,Rosario de Villa,Ruta Troncal,2.5,-9796,-76448
+240,Expreso8,Quilca,Ruta Troncal,2.5,-6041,-71549
+241,SXN,Estacion F,Alimentador,1.5,-8452,-79757
+242,Expreso7,Parque del trabajo,Alimentador,1.5,-7380,-76695
+243,D,España,Alimentador,1.5,-6763,-71937
+244,Expreso8,Balta,Ruta Troncal,2.5,-6154,-71672
+245,Expreso6,Honorio Delgado,Alimentador,1.5,-9379,-70596
+246,Expreso6,Estacion E,Ruta Troncal,2.5,-5244,-72197
+247,Expreso4,Balta,Alimentador,1.5,-7108,-71164
+248,Expreso2,Tacna,Alimentador,1.5,-6079,-71323
+249,Expreso2,Caqueta,Ruta Troncal,2.5,-9185,-70023
+250,Expreso3,Canada,Ruta Troncal,2.5,-6864,-78130
+251,SXN,Caqueta,Alimentador,1.5,-9297,-75465
+252,C,Estacion F,Ruta Troncal,2.5,-6840,-71427
+253,A,Honorio Delgado,Ruta Troncal,2.5,-6559,-70456
+254,C,Estacion B,Ruta Troncal,2.5,-9766,-75719
+255,C,Pacifico,Alimentador,1.5,-6614,-74790
+256,Expreso4,Tomas Valle,Ruta Troncal,2.5,-8770,-72148
+257,SXN,Estacion D,Alimentador,1.5,-9201,-76766
+258,SX,Estacion C,Ruta Troncal,2.5,-9234,-70621
+259,Expreso4,Estacion B,Ruta Troncal,2.5,-9623,-71788
+260,B,Aramburu,Ruta Troncal,2.5,-6200,-74114
+261,B,Balta,Alimentador,1.5,-7255,-76118
+262,A,Bulevar,Ruta Troncal,2.5,-8478,-76970
+263,Expreso8,28 de Julio,Ruta Troncal,2.5,-8763,-78270
+264,C,Estadio Union,Ruta Troncal,2.5,-8768,-75160
+265,Expreso3,Mexico,Alimentador,1.5,-9606,-74789
+266,D,Canada,Alimentador,1.5,-9593,-71982
+267,Expreso3,Mexico,Alimentador,1.5,-8170,-71211
+268,Expreso6,Uni,Alimentador,1.5,-9969,-75856
+269,Expreso9,Estadio Nacional,Ruta Troncal,2.5,-8870,-75068
+270,B,Balta,Ruta Troncal,2.5,-5753,-72556
+271,B,Caqueta,Alimentador,1.5,-7850,-76934
+272,Expreso1,Ramon,Ruta Troncal,2.5,-6816,-77918
+273,Expreso7,Parque del trabajo,Ruta Troncal,2.5,-9222,-79732
+274,Expreso7,España,Alimentador,1.5,-6630,-78796
+275,D,Bulevar,Ruta Troncal,2.5,-7718,-73114
+276,A,Estacion B,Alimentador,1.5,-5985,-75219
+277,Expreso7,Rosario de Villa,Ruta Troncal,2.5,-5357,-74676
+278,Expreso3,Angamos,Alimentador,1.5,-7561,-72130
+279,Expreso9,Rosario de Villa,Alimentador,1.5,-8475,-75383
+280,Expreso8,Tacna,Ruta Troncal,2.5,-6379,-79789
+281,Expreso9,Mexico,Alimentador,1.5,-6622,-73835
+282,Expreso7,Escuela Militar,Ruta Troncal,2.5,-7807,-72382
+283,C,28 de Julio,Alimentador,1.5,-5944,-78101
+284,SXN,Central,Alimentador,1.5,-9805,-76926
+285,B,Estacion B,Alimentador,1.5,-7501,-79565
+286,D,Ricardo Palma,Ruta Troncal,2.5,-6126,-73122
+287,SXN,El milagro,Alimentador,1.5,-8957,-70718
+288,Expreso5,Aramburu,Alimentador,1.5,-8572,-74256
+289,Expreso5,Estacion E,Ruta Troncal,2.5,-9714,-70102
+290,B,Mexico,Alimentador,1.5,-5211,-74721
+291,SXN,Estacion F,Alimentador,1.5,-7115,-79838
+292,Expreso6,Benavides,Ruta Troncal,2.5,-6014,-79795
+293,Expreso3,Estacion F,Alimentador,1.5,-6834,-75026
+294,C,Bulevar,Ruta Troncal,2.5,-9415,-75659
+295,C,Jiron de la Union,Ruta Troncal,2.5,-6871,-70676
+296,Expreso6,Quilca,Ruta Troncal,2.5,-5578,-72477
+297,A,Javier Prado,Ruta Troncal,2.5,-8184,-70458
+298,Expreso8,Estacion F,Ruta Troncal,2.5,-9056,-73761
+299,SXN,Estacion B,Ruta Troncal,2.5,-5889,-77009
+300,SXN,Javier Prado,Alimentador,1.5,-6105,-71952
+301,Expreso1,Javier Prado,Ruta Troncal,2.5,-6910,-71558
+302,Expreso1,Domingo Orue,Ruta Troncal,2.5,-7237,-74897
+303,SX,Escuela Militar,Ruta Troncal,2.5,-5581,-71074
+304,Expreso6,Colmena,Ruta Troncal,2.5,-5381,-71843
+305,Expreso2,Mexico,Ruta Troncal,2.5,-6756,-73014
+306,C,Estacion B,Alimentador,1.5,-9990,-78898
+307,C,Dos de Mayo,Alimentador,1.5,-8645,-71742
+308,SX,Estadio Nacional,Alimentador,1.5,-7760,-79333
+309,Expreso3,Angamos,Ruta Troncal,2.5,-7384,-71922
+310,Expreso7,Balta,Ruta Troncal,2.5,-9894,-74970
+311,A,Central,Ruta Troncal,2.5,-8847,-79931
+312,D,Tomas Valle,Alimentador,1.5,-6182,-78485
+313,Expreso7,Estacion D,Ruta Troncal,2.5,-6549,-70167
+314,Expreso7,Estacion C,Alimentador,1.5,-7237,-74843
+315,D,Caqueta,Alimentador,1.5,-8440,-71982
+316,Expreso2,Tomas Valle,Ruta Troncal,2.5,-8280,-78980
+317,Expreso2,Canaval Moreyra,Ruta Troncal,2.5,-7906,-73837
+318,D,Tomas Valle,Ruta Troncal,2.5,-7029,-78102
+319,Expreso6,Uni,Ruta Troncal,2.5,-6847,-74876
+320,Expreso5,Javier Prado,Ruta Troncal,2.5,-5068,-73124
+321,Expreso3,Independencia,Ruta Troncal,2.5,-6836,-75738
+322,Expreso8,Central,Ruta Troncal,2.5,-7422,-79719
+323,SX,Dos de Mayo,Ruta Troncal,2.5,-7290,-78405
+324,Expreso9,Estacion D,Alimentador,1.5,-9684,-74497
+325,Expreso9,Ramon,Ruta Troncal,2.5,-5548,-75912
+326,C,Quilca,Alimentador,1.5,-6126,-70814
+327,Expreso8,Canaval Moreyra,Ruta Troncal,2.5,-8733,-70835
+328,C,Honorio Delgado,Alimentador,1.5,-6820,-78581
+329,SXN,Balta,Ruta Troncal,2.5,-6243,-73509
+330,SX,Naranjal,Ruta Troncal,2.5,-9158,-79033
+331,Expreso1,Angamos,Alimentador,1.5,-9882,-75963
+332,Expreso7,Parque del trabajo,Ruta Troncal,2.5,-6736,-75885
+333,B,Parque del trabajo,Alimentador,1.5,-6262,-75011
+334,Expreso3,Izaguirre,Alimentador,1.5,-9044,-73743
+335,Expreso3,Parque del trabajo,Ruta Troncal,2.5,-8719,-75380
+336,Expreso8,Tomas Valle,Ruta Troncal,2.5,-5001,-73053
+337,SXN,Estadio Union,Ruta Troncal,2.5,-6279,-72020
+338,Expreso5,Los jasmines,Ruta Troncal,2.5,-5367,-73431
+339,Expreso2,28 de Julio,Alimentador,1.5,-9229,-79377
+340,SXN,Naranjal,Alimentador,1.5,-6966,-79845
+341,Expreso1,Los jasmines,Alimentador,1.5,-8819,-76183
+342,SXN,Estacion B,Alimentador,1.5,-8976,-73459
+343,C,Angamos,Alimentador,1.5,-5167,-72823
+344,D,Domingo Orue,Ruta Troncal,2.5,-8641,-74457
+345,SX,Angamos,Ruta Troncal,2.5,-5068,-79492
+346,Expreso1,Ricardo Palma,Ruta Troncal,2.5,-6474,-73959
+347,C,Central,Ruta Troncal,2.5,-5745,-77109
+348,B,Estacion F,Alimentador,1.5,-9538,-79417
+349,Expreso5,Angamos,Alimentador,1.5,-5473,-77537
+350,Expreso7,Estacion A,Alimentador,1.5,-8693,-72688
+351,Expreso3,Ricardo Palma,Ruta Troncal,2.5,-9111,-70088
+352,Expreso4,Estacion B,Ruta Troncal,2.5,-8724,-70359
+353,Expreso5,Ricardo Palma,Ruta Troncal,2.5,-5174,-72801
+354,Expreso1,Estacion B,Ruta Troncal,2.5,-8468,-73292
+355,B,El milagro,Ruta Troncal,2.5,-6484,-77726
+356,SX,El milagro,Ruta Troncal,2.5,-7923,-77223
+357,A,Javier Prado,Ruta Troncal,2.5,-5496,-76255
+358,Expreso2,Balta,Ruta Troncal,2.5,-6919,-70947
+359,Expreso1,Parque del trabajo,Ruta Troncal,2.5,-7168,-73917
+360,Expreso3,Naranjal,Ruta Troncal,2.5,-8582,-76793
+361,SX,Caqueta,Ruta Troncal,2.5,-8871,-71437
+362,Expreso1,Aramburu,Ruta Troncal,2.5,-9849,-77054
+363,SX,Central,Alimentador,1.5,-6535,-74388
+364,SX,Los jasmines,Ruta Troncal,2.5,-9758,-78512
+365,Expreso5,Plaza de Flores,Alimentador,1.5,-6527,-79786
+366,Expreso3,Escuela Militar,Ruta Troncal,2.5,-9754,-74610
+367,Expreso6,Canada,Ruta Troncal,2.5,-7858,-78502
+368,Expreso4,Ramon,Alimentador,1.5,-9508,-73414
+369,Expreso6,Mexico,Alimentador,1.5,-9983,-78719
+370,C,Quilca,Ruta Troncal,2.5,-7446,-78596
+371,Expreso9,Benavides,Ruta Troncal,2.5,-8854,-79699
+372,SX,Estacion C,Ruta Troncal,2.5,-9654,-71026
+373,Expreso7,Estacion E,Ruta Troncal,2.5,-8968,-76739
+374,Expreso5,El milagro,Alimentador,1.5,-5523,-78922
+375,Expreso9,Los jasmines,Alimentador,1.5,-9608,-79054
+376,D,Los jasmines,Ruta Troncal,2.5,-9258,-77825
+377,SXN,Plaza de Flores,Ruta Troncal,2.5,-8646,-74906
+378,Expreso2,Uni,Alimentador,1.5,-6667,-73726
+379,Expreso6,Estadio Union,Alimentador,1.5,-6743,-74445
+380,Expreso5,Javier Prado,Ruta Troncal,2.5,-8901,-77647
+381,Expreso3,Ricardo Palma,Alimentador,1.5,-9344,-76800
+382,Expreso9,Angamos,Alimentador,1.5,-9003,-77695
+383,D,Izaguirre,Alimentador,1.5,-6010,-76935
+384,SXN,Estadio Union,Alimentador,1.5,-6903,-74449
+385,C,Quilca,Alimentador,1.5,-6223,-78907
+386,Expreso8,Independencia,Ruta Troncal,2.5,-8146,-78819
+387,D,Estadio Nacional,Alimentador,1.5,-5742,-76876
+388,D,Estacion B,Ruta Troncal,2.5,-6795,-72590
+389,SX,Aramburu,Alimentador,1.5,-5976,-77901
+390,Expreso4,Parque del trabajo,Ruta Troncal,2.5,-7336,-72994
+391,Expreso6,Balta,Alimentador,1.5,-5710,-74106
+392,SX,Estacion B,Ruta Troncal,2.5,-6883,-70539
+393,SXN,Izaguirre,Ruta Troncal,2.5,-6761,-71476
+394,B,Estadio Union,Ruta Troncal,2.5,-5413,-73707
+395,B,Independencia,Alimentador,1.5,-6862,-78027
+396,Expreso2,Estacion A,Alimentador,1.5,-7723,-70460
+397,Expreso4,Estacion C,Ruta Troncal,2.5,-5832,-77291
+398,Expreso5,Escuela Militar,Ruta Troncal,2.5,-5852,-74883
+399,A,Quilca,Alimentador,1.5,-7819,-70530
+400,Expreso9,Estacion E,Alimentador,1.5,-5935,-78201
+401,Expreso3,Escuela Militar,Alimentador,1.5,-9657,-73152
+402,B,El milagro,Ruta Troncal,2.5,-5799,-72870
+403,Expreso8,Angamos,Ruta Troncal,2.5,-9762,-79155
+404,SX,Quilca,Ruta Troncal,2.5,-9375,-72928
+405,A,Ramon,Alimentador,1.5,-9508,-76629
+406,Expreso5,El milagro,Alimentador,1.5,-8279,-71363
+407,Expreso8,Estadio Nacional,Ruta Troncal,2.5,-7358,-78483
+408,Expreso5,Quilca,Ruta Troncal,2.5,-6130,-70229
+409,Expreso9,Jiron de la Union,Ruta Troncal,2.5,-8931,-75869
+410,Expreso5,Independencia,Ruta Troncal,2.5,-9864,-76325
+411,Expreso3,Caqueta,Ruta Troncal,2.5,-6580,-72419
+412,SX,Honorio Delgado,Ruta Troncal,2.5,-8181,-70873
+413,Expreso8,Pacifico,Ruta Troncal,2.5,-9067,-78583
+414,Expreso3,Aramburu,Ruta Troncal,2.5,-7490,-76263
+415,Expreso7,Ricardo Palma,Alimentador,1.5,-8401,-70949
+416,SXN,Ramon,Alimentador,1.5,-8798,-78820
+417,SX,Pacifico,Alimentador,1.5,-7201,-71510
+418,C,Benavides,Alimentador,1.5,-9635,-78334
+419,D,Aramburu,Ruta Troncal,2.5,-6527,-73356
+420,Expreso6,Dos de Mayo,Alimentador,1.5,-9978,-77836
+421,SXN,28 de Julio,Alimentador,1.5,-6532,-71153
+422,Expreso6,Caqueta,Alimentador,1.5,-6368,-79118
+423,SXN,Estadio Nacional,Ruta Troncal,2.5,-9208,-71270
+424,Expreso7,Tomas Valle,Ruta Troncal,2.5,-5830,-79384
+425,Expreso5,Izaguirre,Alimentador,1.5,-6302,-74035
+426,Expreso6,Estadio Nacional,Ruta Troncal,2.5,-5606,-74967
+427,SX,Colmena,Alimentador,1.5,-5473,-77542
+428,Expreso9,Tomas Valle,Ruta Troncal,2.5,-8376,-75850
+429,B,Dos de Mayo,Ruta Troncal,2.5,-5162,-70809
+430,A,Honorio Delgado,Alimentador,1.5,-7231,-78552
+431,Expreso2,Estadio Nacional,Ruta Troncal,2.5,-9291,-70108
+432,Expreso3,Caqueta,Alimentador,1.5,-7239,-70069
+433,Expreso5,Domingo Orue,Alimentador,1.5,-6875,-73604
+434,D,Pacifico,Ruta Troncal,2.5,-8524,-74856
+435,Expreso6,Honorio Delgado,Ruta Troncal,2.5,-5541,-75916
+436,A,Aramburu,Alimentador,1.5,-8771,-72166
+437,Expreso4,Tacna,Ruta Troncal,2.5,-7856,-74810
+438,Expreso2,Colmena,Alimentador,1.5,-9620,-70333
+439,B,Jiron de la Union,Ruta Troncal,2.5,-8985,-78750
+440,Expreso6,El milagro,Ruta Troncal,2.5,-9063,-70640
+441,Expreso4,Teran,Alimentador,1.5,-6956,-77931
+442,Expreso6,Teran,Ruta Troncal,2.5,-7939,-71368
+443,Expreso3,Estadio Union,Alimentador,1.5,-5916,-73271
+444,Expreso2,Benavides,Alimentador,1.5,-9063,-72629
+445,Expreso9,Izaguirre,Ruta Troncal,2.5,-6333,-71715
+446,Expreso5,Mexico,Ruta Troncal,2.5,-8222,-76566
+447,Expreso7,Naranjal,Alimentador,1.5,-6611,-73666
+448,Expreso5,Ramon,Alimentador,1.5,-8578,-74105
+449,Expreso3,Colmena,Alimentador,1.5,-7012,-76985
+450,B,Independencia,Alimentador,1.5,-8324,-71435
+451,Expreso1,Estacion C,Alimentador,1.5,-8792,-77974
+452,Expreso8,Colmena,Ruta Troncal,2.5,-5566,-71116
+453,A,Matellini,Ruta Troncal,2.5,-6170,-70648
+454,Expreso2,Los jasmines,Ruta Troncal,2.5,-7615,-70732
+455,Expreso2,Los jasmines,Ruta Troncal,2.5,-5730,-71870
+456,Expreso4,Honorio Delgado,Ruta Troncal,2.5,-9222,-72883
+457,Expreso2,Uni,Ruta Troncal,2.5,-5442,-70158
+458,Expreso1,Plaza de Flores,Ruta Troncal,2.5,-5289,-74714
+459,D,Estacion A,Ruta Troncal,2.5,-5919,-73040
+460,Expreso5,Balta,Alimentador,1.5,-9086,-76814
+461,D,Benavides,Alimentador,1.5,-9665,-76879
+462,B,Rosario de Villa,Ruta Troncal,2.5,-8535,-72901
+463,SXN,Plaza de Flores,Alimentador,1.5,-8541,-73303
+464,Expreso4,Quilca,Ruta Troncal,2.5,-7557,-70824
+465,Expreso4,Estacion B,Ruta Troncal,2.5,-7251,-74550
+466,Expreso7,Central,Alimentador,1.5,-6902,-74939
+467,Expreso4,Canaval Moreyra,Ruta Troncal,2.5,-6782,-77259
+468,A,Tacna,Ruta Troncal,2.5,-9515,-79854
+469,Expreso6,Naranjal,Ruta Troncal,2.5,-9641,-77312
+470,B,Dos de Mayo,Ruta Troncal,2.5,-6650,-75981
+471,Expreso4,Colmena,Ruta Troncal,2.5,-8638,-75208
+472,A,Pacifico,Ruta Troncal,2.5,-5305,-72732
+473,Expreso3,Angamos,Ruta Troncal,2.5,-5469,-73066
+474,Expreso7,Escuela Militar,Alimentador,1.5,-9326,-75152
+475,Expreso8,Pacifico,Alimentador,1.5,-7862,-78420
+476,Expreso9,Estacion B,Alimentador,1.5,-8260,-70702
+477,B,Colmena,Ruta Troncal,2.5,-7165,-76034
+478,A,Estacion E,Alimentador,1.5,-9086,-75009
+479,A,Uni,Alimentador,1.5,-6026,-79827
+480,Expreso2,Quilca,Alimentador,1.5,-8294,-71420
+481,Expreso3,Parque del trabajo,Alimentador,1.5,-5434,-75697
+482,Expreso2,Matellini,Alimentador,1.5,-5923,-76066
+483,A,Tomas Valle,Alimentador,1.5,-9828,-70789
+484,C,Javier Prado,Alimentador,1.5,-5002,-72018
+485,Expreso9,Jiron de la Union,Ruta Troncal,2.5,-7119,-77402
+486,Expreso9,Quilca,Alimentador,1.5,-8266,-77980
+487,Expreso2,Teran,Ruta Troncal,2.5,-5352,-74058
+488,B,Plaza de Flores,Ruta Troncal,2.5,-8444,-76414
+489,A,Estacion B,Ruta Troncal,2.5,-5946,-73774
+490,B,Honorio Delgado,Alimentador,1.5,-7561,-75169
+491,Expreso7,España,Ruta Troncal,2.5,-5175,-74006
+492,Expreso4,Estadio Union,Alimentador,1.5,-7810,-72194
+493,D,Canada,Alimentador,1.5,-6040,-73280
+494,Expreso1,Estacion B,Ruta Troncal,2.5,-9261,-78336
+495,Expreso2,Izaguirre,Ruta Troncal,2.5,-6307,-71761
+496,Expreso5,Mexico,Ruta Troncal,2.5,-6828,-72896
+497,Expreso1,Estacion A,Ruta Troncal,2.5,-5597,-78391
+498,Expreso8,Honorio Delgado,Ruta Troncal,2.5,-7383,-76097
+499,SX,Jiron de la Union,Ruta Troncal,2.5,-7238,-79422
+500,Expreso8,Escuela Militar,Ruta Troncal,2.5,-9099,-70947
+501,D,Estacion B,Ruta Troncal,2.5,-5733,-76006
+502,B,Los jasmines,Ruta Troncal,2.5,-8899,-79508
+503,Expreso5,28 de Julio,Ruta Troncal,2.5,-8083,-70037
+504,Expreso5,Jiron de la Union,Ruta Troncal,2.5,-7765,-74907
+505,B,Estacion B,Ruta Troncal,2.5,-5034,-70388
+506,Expreso6,Honorio Delgado,Ruta Troncal,2.5,-7992,-78429
+507,A,Estadio Union,Ruta Troncal,2.5,-6973,-74391
+508,Expreso1,Uni,Ruta Troncal,2.5,-5671,-72458
+509,Expreso7,Ricardo Palma,Ruta Troncal,2.5,-9129,-73050
+510,C,Matellini,Alimentador,1.5,-7910,-70816
+511,SXN,Los jasmines,Alimentador,1.5,-9017,-77247
+512,Expreso6,Ramon,Alimentador,1.5,-9648,-72064
+513,Expreso9,España,Ruta Troncal,2.5,-7372,-72795
+514,SXN,Quilca,Alimentador,1.5,-9863,-72702
+515,Expreso1,Benavides,Ruta Troncal,2.5,-6344,-77221
+516,C,Aramburu,Alimentador,1.5,-8117,-78373
+517,D,Jiron de la Union,Alimentador,1.5,-6476,-71258
+518,Expreso7,Angamos,Ruta Troncal,2.5,-7210,-73239
+519,Expreso5,Domingo Orue,Alimentador,1.5,-7335,-79984
+520,SX,Dos de Mayo,Alimentador,1.5,-8495,-79523
+521,Expreso8,Angamos,Ruta Troncal,2.5,-6530,-73869
+522,C,Tomas Valle,Alimentador,1.5,-6901,-70498
+523,Expreso6,El milagro,Alimentador,1.5,-5595,-75024
+524,A,Honorio Delgado,Ruta Troncal,2.5,-6553,-78567
+525,Expreso1,Izaguirre,Alimentador,1.5,-8792,-70792
+526,B,Estacion E,Alimentador,1.5,-5114,-70782
+527,SX,Domingo Orue,Ruta Troncal,2.5,-6152,-73213
+528,Expreso2,Jiron de la Union,Alimentador,1.5,-6580,-73911
+529,Expreso4,España,Ruta Troncal,2.5,-6480,-71741
+530,B,Colmena,Ruta Troncal,2.5,-7429,-73838
+531,Expreso3,Estadio Nacional,Ruta Troncal,2.5,-9827,-71799
+532,Expreso6,Quilca,Alimentador,1.5,-6726,-79752
+533,C,Estadio Nacional,Alimentador,1.5,-6358,-78503
+534,Expreso3,Colmena,Ruta Troncal,2.5,-9244,-76979
+535,Expreso9,Honorio Delgado,Alimentador,1.5,-5729,-72189
+536,SXN,España,Ruta Troncal,2.5,-5894,-79937
+537,B,Jiron de la Union,Ruta Troncal,2.5,-6378,-77918
+538,SX,Tacna,Alimentador,1.5,-6779,-72226
+539,C,Estacion A,Alimentador,1.5,-8125,-70682
+540,SX,Plaza de Flores,Ruta Troncal,2.5,-7452,-74324
+541,Expreso3,Caqueta,Alimentador,1.5,-9311,-78150
+542,Expreso9,Angamos,Alimentador,1.5,-6497,-78281
+543,SX,Estadio Union,Ruta Troncal,2.5,-6168,-79507
+544,Expreso4,Javier Prado,Ruta Troncal,2.5,-9135,-71494
+545,B,Rosario de Villa,Alimentador,1.5,-8788,-70057
+546,Expreso5,Mexico,Alimentador,1.5,-8184,-76386
+547,Expreso4,Estadio Union,Alimentador,1.5,-8941,-74814
+548,Expreso9,Caqueta,Alimentador,1.5,-8486,-79750
+549,SXN,Tacna,Alimentador,1.5,-8162,-77461
+550,Expreso8,Honorio Delgado,Ruta Troncal,2.5,-8882,-73711
+551,Expreso6,España,Ruta Troncal,2.5,-6680,-71139
+552,D,España,Ruta Troncal,2.5,-7173,-73214
+553,Expreso4,Pacifico,Alimentador,1.5,-8408,-79763
+554,C,España,Ruta Troncal,2.5,-5202,-77584
+555,C,Estacion D,Alimentador,1.5,-7120,-78115
+556,Expreso8,Estacion B,Ruta Troncal,2.5,-9138,-79271
+557,Expreso2,Pacifico,Alimentador,1.5,-5953,-76938
+558,Expreso2,Estadio Nacional,Ruta Troncal,2.5,-6704,-78450
+559,Expreso7,El milagro,Alimentador,1.5,-7792,-71353
+560,Expreso5,Estacion D,Alimentador,1.5,-8058,-70538
+561,Expreso2,Estadio Nacional,Ruta Troncal,2.5,-9874,-75493
+562,A,Domingo Orue,Alimentador,1.5,-6387,-72555
+563,Expreso6,Mexico,Ruta Troncal,2.5,-8076,-70104
+564,Expreso3,Pacifico,Ruta Troncal,2.5,-6122,-76034
+565,B,Domingo Orue,Ruta Troncal,2.5,-7197,-77187
+566,Expreso1,Pacifico,Alimentador,1.5,-5748,-78942
+567,Expreso9,Independencia,Alimentador,1.5,-7593,-74161
+568,C,Angamos,Alimentador,1.5,-6508,-77363
+569,C,Dos de Mayo,Alimentador,1.5,-8384,-77990
+570,Expreso9,Pacifico,Ruta Troncal,2.5,-5769,-70539
+571,Expreso3,Caqueta,Ruta Troncal,2.5,-7394,-72314
+572,Expreso9,Estadio Nacional,Alimentador,1.5,-5702,-73439
+573,Expreso3,Uni,Ruta Troncal,2.5,-7471,-74738
+574,B,Domingo Orue,Alimentador,1.5,-6702,-74612
+575,SXN,Jiron de la Union,Ruta Troncal,2.5,-6022,-72737
+576,Expreso1,Ramon,Ruta Troncal,2.5,-5163,-73002
+577,Expreso9,Central,Alimentador,1.5,-6376,-75227
+578,D,Jiron de la Union,Alimentador,1.5,-6795,-73274
+579,A,El milagro,Ruta Troncal,2.5,-8419,-73127
+580,SXN,Estacion A,Ruta Troncal,2.5,-8527,-78427
+581,C,Mexico,Alimentador,1.5,-9193,-74416
+582,Expreso8,Central,Ruta Troncal,2.5,-7895,-77335
+583,Expreso7,Central,Ruta Troncal,2.5,-9959,-70737
+584,Expreso9,Bulevar,Alimentador,1.5,-8578,-70717
+585,Expreso8,Dos de Mayo,Alimentador,1.5,-7070,-76623
+586,SXN,Honorio Delgado,Alimentador,1.5,-7739,-73415
+587,SX,Estacion E,Alimentador,1.5,-6536,-70601
+588,Expreso3,El milagro,Ruta Troncal,2.5,-9117,-74179
+589,Expreso6,Pacifico,Alimentador,1.5,-6258,-71607
+590,Expreso6,Quilca,Alimentador,1.5,-7897,-74760
+591,Expreso1,Colmena,Alimentador,1.5,-9449,-73674
+592,Expreso2,Balta,Alimentador,1.5,-9701,-77694
+593,Expreso4,Estadio Union,Ruta Troncal,2.5,-7295,-78261
+594,Expreso6,Tacna,Ruta Troncal,2.5,-6086,-77757
+595,SX,Tomas Valle,Alimentador,1.5,-7656,-77474
+596,A,Tomas Valle,Ruta Troncal,2.5,-9510,-79600
+597,B,Estadio Nacional,Alimentador,1.5,-6169,-70757
+598,Expreso9,Angamos,Alimentador,1.5,-5837,-77294
+599,Expreso7,Benavides,Ruta Troncal,2.5,-6446,-75721
+600,SX,28 de Julio,Ruta Troncal,2.5,-9052,-71656
+601,Expreso6,Caqueta,Alimentador,1.5,-9393,-78041
+602,C,Caqueta,Alimentador,1.5,-6193,-72008
+603,A,Escuela Militar,Ruta Troncal,2.5,-6803,-72784
+604,SXN,Ramon,Ruta Troncal,2.5,-6362,-75165
+605,Expreso6,Independencia,Ruta Troncal,2.5,-9205,-79350
+606,Expreso1,Canada,Alimentador,1.5,-7767,-76233
+607,Expreso8,Rosario de Villa,Alimentador,1.5,-5256,-71003
+608,Expreso9,Caqueta,Alimentador,1.5,-5892,-74260
+609,Expreso1,Estacion A,Ruta Troncal,2.5,-9104,-70890
+610,A,Estadio Union,Alimentador,1.5,-6227,-72831
+611,Expreso2,Javier Prado,Ruta Troncal,2.5,-5771,-77659
+612,Expreso5,Estacion A,Alimentador,1.5,-6438,-70435
+613,SXN,Estacion E,Alimentador,1.5,-9598,-77465
+614,Expreso2,Estacion C,Alimentador,1.5,-7896,-72135
+615,Expreso8,Izaguirre,Ruta Troncal,2.5,-5005,-78705
+616,Expreso1,Jiron de la Union,Alimentador,1.5,-8407,-71833
+617,Expreso9,España,Ruta Troncal,2.5,-6659,-71213
+618,C,Izaguirre,Ruta Troncal,2.5,-6450,-76033
+619,Expreso4,Naranjal,Ruta Troncal,2.5,-7555,-71938
+620,Expreso7,Mexico,Ruta Troncal,2.5,-7836,-78936
+621,D,Domingo Orue,Ruta Troncal,2.5,-5653,-79470
+622,B,Independencia,Alimentador,1.5,-9916,-76132
+623,A,Bulevar,Ruta Troncal,2.5,-9562,-77926
+624,SXN,Matellini,Ruta Troncal,2.5,-6723,-79616
+625,Expreso4,Izaguirre,Alimentador,1.5,-9837,-78543
+626,Expreso2,Canada,Alimentador,1.5,-7707,-71120
+627,SX,Estacion C,Alimentador,1.5,-7298,-75671
+628,Expreso4,Estacion A,Alimentador,1.5,-6241,-74053
+629,D,Balta,Alimentador,1.5,-6730,-72666
+630,Expreso1,Tacna,Ruta Troncal,2.5,-7556,-77297
+631,SX,Pacifico,Alimentador,1.5,-8764,-78617
+632,Expreso2,Matellini,Alimentador,1.5,-8283,-70386
+633,SX,Plaza de Flores,Alimentador,1.5,-7928,-70122
+634,Expreso4,Angamos,Alimentador,1.5,-7213,-70615
+635,B,Honorio Delgado,Ruta Troncal,2.5,-7414,-71084
+636,Expreso1,Honorio Delgado,Ruta Troncal,2.5,-8711,-79852
+637,Expreso1,Estacion C,Ruta Troncal,2.5,-6837,-79451
+638,C,Domingo Orue,Ruta Troncal,2.5,-5691,-79973
+639,Expreso7,Escuela Militar,Alimentador,1.5,-5245,-76987
+640,Expreso8,Javier Prado,Ruta Troncal,2.5,-9007,-74832
+641,C,Aramburu,Alimentador,1.5,-7019,-72477
+642,SXN,Independencia,Alimentador,1.5,-8333,-74960
+643,Expreso3,Rosario de Villa,Alimentador,1.5,-9924,-71015
+644,Expreso2,Estacion B,Ruta Troncal,2.5,-7193,-71577
+645,SX,Izaguirre,Alimentador,1.5,-7610,-74912
+646,Expreso5,Ricardo Palma,Alimentador,1.5,-8837,-70283
+647,Expreso7,Estacion B,Alimentador,1.5,-5201,-74967
+648,Expreso7,Estacion F,Ruta Troncal,2.5,-9536,-75616
+649,Expreso3,Bulevar,Alimentador,1.5,-6112,-70478
+650,Expreso3,Canada,Alimentador,1.5,-8063,-78180
+651,Expreso5,Benavides,Ruta Troncal,2.5,-8860,-79320
+652,Expreso6,Quilca,Alimentador,1.5,-5445,-72628
+653,Expreso7,Bulevar,Alimentador,1.5,-7787,-73415
+654,Expreso1,Javier Prado,Alimentador,1.5,-6812,-72149
+655,Expreso8,Benavides,Alimentador,1.5,-7335,-79121
+656,B,Quilca,Ruta Troncal,2.5,-5820,-76088
+657,Expreso4,Jiron de la Union,Alimentador,1.5,-6997,-76448
+658,Expreso6,Caqueta,Ruta Troncal,2.5,-8284,-79477
+659,B,Ramon,Alimentador,1.5,-9838,-75483
+660,C,Dos de Mayo,Ruta Troncal,2.5,-5400,-70576
+661,Expreso7,Rosario de Villa,Alimentador,1.5,-8671,-79024
+662,Expreso7,Teran,Alimentador,1.5,-7837,-75183
+663,C,Estacion F,Alimentador,1.5,-6805,-72825
+664,Expreso1,Naranjal,Alimentador,1.5,-5385,-75789
+665,C,Jiron de la Union,Ruta Troncal,2.5,-5228,-71269
+666,A,El milagro,Alimentador,1.5,-8738,-70651
+667,B,Estacion A,Alimentador,1.5,-5692,-75262
+668,SX,Estadio Union,Alimentador,1.5,-5071,-78885
+669,Expreso8,Mexico,Alimentador,1.5,-8702,-77292
+670,SXN,Estacion C,Alimentador,1.5,-8764,-73261
+671,Expreso3,Quilca,Alimentador,1.5,-5367,-79333
+672,A,Escuela Militar,Alimentador,1.5,-6472,-75544
+673,Expreso9,28 de Julio,Ruta Troncal,2.5,-7917,-74171
+674,Expreso7,Canada,Ruta Troncal,2.5,-5470,-72221
+675,SXN,Dos de Mayo,Ruta Troncal,2.5,-8305,-73225
+676,Expreso4,Estacion E,Ruta Troncal,2.5,-9471,-71548
+677,Expreso4,Caqueta,Ruta Troncal,2.5,-9906,-74544
+678,B,Colmena,Ruta Troncal,2.5,-9697,-75784
+679,SXN,Aramburu,Alimentador,1.5,-7150,-76694
+680,Expreso3,Jiron de la Union,Alimentador,1.5,-8481,-70103
+681,D,Plaza de Flores,Alimentador,1.5,-8132,-77822
+682,Expreso9,Caqueta,Ruta Troncal,2.5,-8013,-74302
+683,Expreso9,Bulevar,Alimentador,1.5,-9292,-77258
+684,SXN,Izaguirre,Alimentador,1.5,-9399,-78899
+685,SX,Honorio Delgado,Ruta Troncal,2.5,-9284,-72392
+686,SX,El milagro,Ruta Troncal,2.5,-8177,-71241
+687,Expreso4,Benavides,Alimentador,1.5,-7388,-74883
+688,SXN,Estadio Union,Alimentador,1.5,-7331,-75078
+689,Expreso2,El milagro,Alimentador,1.5,-8927,-74604
+690,Expreso4,Quilca,Ruta Troncal,2.5,-9950,-70122
+691,Expreso9,Estacion E,Alimentador,1.5,-9562,-70222
+692,Expreso6,Aramburu,Ruta Troncal,2.5,-9751,-70476
+693,C,Tomas Valle,Alimentador,1.5,-9939,-70770
+694,Expreso3,Balta,Ruta Troncal,2.5,-7480,-71709
+695,D,Estacion C,Ruta Troncal,2.5,-9915,-71313
+696,Expreso6,Rosario de Villa,Alimentador,1.5,-7123,-77859
+697,Expreso9,Mexico,Alimentador,1.5,-6689,-70301
+698,SX,Canaval Moreyra,Ruta Troncal,2.5,-8859,-71268
+699,Expreso3,Canada,Alimentador,1.5,-8211,-79417
+700,Expreso8,Domingo Orue,Ruta Troncal,2.5,-8293,-78919
+701,A,El milagro,Ruta Troncal,2.5,-5259,-70095
+702,SX,Estacion E,Ruta Troncal,2.5,-9271,-74752
+703,D,Bulevar,Ruta Troncal,2.5,-8201,-76466
+704,Expreso4,Escuela Militar,Ruta Troncal,2.5,-7731,-73263
+705,Expreso5,Plaza de Flores,Ruta Troncal,2.5,-9777,-72044
+706,Expreso1,Estacion C,Alimentador,1.5,-6520,-73618
+707,SX,Caqueta,Ruta Troncal,2.5,-7826,-75258
+708,Expreso1,Plaza de Flores,Alimentador,1.5,-7399,-70762
+709,C,Izaguirre,Ruta Troncal,2.5,-7276,-74834
+710,Expreso2,Angamos,Alimentador,1.5,-7849,-72500
+711,Expreso8,Canaval Moreyra,Alimentador,1.5,-6710,-76227
+712,SXN,Independencia,Alimentador,1.5,-9390,-73393
+713,SXN,Estadio Nacional,Alimentador,1.5,-9487,-78011
+714,Expreso2,Pacifico,Ruta Troncal,2.5,-5570,-70159
+715,B,Colmena,Alimentador,1.5,-9094,-75703
+716,SX,Angamos,Alimentador,1.5,-9880,-73579
+717,A,Estacion C,Alimentador,1.5,-8857,-76813
+718,Expreso9,Pacifico,Alimentador,1.5,-6275,-79091
+719,Expreso9,Rosario de Villa,Alimentador,1.5,-9102,-70245
+720,B,Teran,Alimentador,1.5,-9400,-71507
+721,Expreso6,Matellini,Alimentador,1.5,-6352,-74197
+722,B,Estacion E,Ruta Troncal,2.5,-6414,-79370
+723,Expreso4,Javier Prado,Alimentador,1.5,-6913,-74301
+724,D,Naranjal,Alimentador,1.5,-8187,-77722
+725,Expreso2,Tacna,Ruta Troncal,2.5,-6194,-75832
+726,Expreso5,Estadio Union,Alimentador,1.5,-6009,-73105
+727,Expreso9,Tomas Valle,Ruta Troncal,2.5,-6719,-72119
+728,C,Estacion B,Alimentador,1.5,-8549,-73614
+729,Expreso1,Caqueta,Ruta Troncal,2.5,-5367,-73997
+730,Expreso2,Estacion C,Ruta Troncal,2.5,-7541,-73427
+731,Expreso8,Estacion D,Ruta Troncal,2.5,-5280,-73065
+732,SX,Tomas Valle,Ruta Troncal,2.5,-7724,-78802
+733,Expreso5,Canaval Moreyra,Alimentador,1.5,-8173,-72909
+734,Expreso8,Tomas Valle,Alimentador,1.5,-8999,-75065
+735,Expreso3,España,Alimentador,1.5,-9597,-72577
+736,SX,Naranjal,Ruta Troncal,2.5,-7751,-79520
+737,Expreso2,Honorio Delgado,Ruta Troncal,2.5,-7063,-71650
+738,C,Jiron de la Union,Ruta Troncal,2.5,-6803,-76632
+739,Expreso1,Pacifico,Alimentador,1.5,-9847,-70617
+740,A,Estadio Union,Ruta Troncal,2.5,-9080,-73271
+741,Expreso6,Parque del trabajo,Alimentador,1.5,-8789,-76767
+742,C,Pacifico,Alimentador,1.5,-8998,-78195
+743,Expreso5,Uni,Ruta Troncal,2.5,-6747,-76227
+744,Expreso3,Estacion D,Alimentador,1.5,-8867,-77127
+745,Expreso8,Uni,Ruta Troncal,2.5,-9988,-78985
+746,Expreso9,Dos de Mayo,Ruta Troncal,2.5,-6502,-70614
+747,D,Estacion D,Alimentador,1.5,-6207,-78910
+748,Expreso9,Tacna,Ruta Troncal,2.5,-8955,-72640
+749,Expreso3,Parque del trabajo,Alimentador,1.5,-8171,-76167
+750,Expreso3,Estadio Union,Ruta Troncal,2.5,-6075,-70977
+751,Expreso2,Honorio Delgado,Alimentador,1.5,-5025,-78318
+752,Expreso4,Estacion A,Ruta Troncal,2.5,-8564,-77670
+753,D,Bulevar,Alimentador,1.5,-6281,-73870
+754,Expreso4,Pacifico,Alimentador,1.5,-7476,-76309
+755,C,Jiron de la Union,Alimentador,1.5,-7271,-70614
+756,D,Ricardo Palma,Ruta Troncal,2.5,-6163,-70222
+757,B,Canaval Moreyra,Alimentador,1.5,-7546,-72144
+758,Expreso5,Tomas Valle,Ruta Troncal,2.5,-6586,-77149
+759,A,Pacifico,Alimentador,1.5,-6688,-70366
+760,Expreso6,Rosario de Villa,Ruta Troncal,2.5,-7251,-73375
+761,Expreso6,Central,Alimentador,1.5,-5461,-71511
+762,Expreso8,El milagro,Ruta Troncal,2.5,-5026,-75396
+763,B,Estacion C,Ruta Troncal,2.5,-7509,-76015
+764,Expreso8,Canada,Ruta Troncal,2.5,-5547,-74821
+765,A,Ramon,Ruta Troncal,2.5,-7220,-79395
+766,SXN,Estacion C,Ruta Troncal,2.5,-8999,-73682
+767,Expreso5,Estacion F,Alimentador,1.5,-8772,-71269
+768,B,Estadio Union,Alimentador,1.5,-5086,-70458
+769,Expreso3,Tacna,Alimentador,1.5,-6461,-78078
+770,B,Balta,Alimentador,1.5,-7483,-71715
+771,Expreso1,Izaguirre,Alimentador,1.5,-8410,-72970
+772,Expreso8,Estadio Nacional,Alimentador,1.5,-6303,-73541
+773,Expreso2,28 de Julio,Ruta Troncal,2.5,-6641,-72661
+774,B,Parque del trabajo,Ruta Troncal,2.5,-5469,-75811
+775,B,Domingo Orue,Ruta Troncal,2.5,-7311,-71930
+776,Expreso7,Izaguirre,Alimentador,1.5,-8365,-74380
+777,D,Honorio Delgado,Alimentador,1.5,-8049,-75107
+778,A,El milagro,Ruta Troncal,2.5,-7256,-73884
+779,D,Canada,Ruta Troncal,2.5,-9958,-74026
+780,Expreso8,Estacion F,Ruta Troncal,2.5,-6571,-76531
+781,Expreso9,Balta,Alimentador,1.5,-9304,-70099
+782,Expreso2,Estacion B,Ruta Troncal,2.5,-7644,-70800
+783,Expreso2,28 de Julio,Ruta Troncal,2.5,-5708,-74799
+784,SXN,Naranjal,Ruta Troncal,2.5,-9172,-70196
+785,Expreso4,Independencia,Ruta Troncal,2.5,-9783,-76384
+786,Expreso1,Caqueta,Alimentador,1.5,-8883,-71197
+787,D,Izaguirre,Ruta Troncal,2.5,-8619,-75352
+788,Expreso7,Los jasmines,Alimentador,1.5,-6889,-77329
+789,Expreso4,Uni,Ruta Troncal,2.5,-5599,-73279
+790,C,Honorio Delgado,Alimentador,1.5,-7733,-74118
+791,Expreso7,Domingo Orue,Alimentador,1.5,-8280,-74431
+792,Expreso3,Dos de Mayo,Ruta Troncal,2.5,-5377,-77885
+793,Expreso2,Independencia,Ruta Troncal,2.5,-7991,-79520
+794,Expreso4,Los jasmines,Alimentador,1.5,-7293,-71798
+795,Expreso4,Balta,Alimentador,1.5,-9373,-78682
+796,Expreso5,Aramburu,Alimentador,1.5,-6087,-76308
+797,Expreso3,Estacion F,Ruta Troncal,2.5,-8748,-76928
+798,D,Mexico,Ruta Troncal,2.5,-7794,-78028
+799,Expreso2,Parque del trabajo,Alimentador,1.5,-6845,-71389
+800,Expreso1,28 de Julio,Alimentador,1.5,-5068,-76122
+801,Expreso8,Canaval Moreyra,Ruta Troncal,2.5,-8141,-70832
+802,Expreso2,España,Ruta Troncal,2.5,-8886,-79862
+803,Expreso1,Quilca,Alimentador,1.5,-8605,-75156
+804,Expreso8,Independencia,Ruta Troncal,2.5,-7810,-73376
+805,Expreso2,Escuela Militar,Alimentador,1.5,-6937,-77258
+806,Expreso7,Honorio Delgado,Alimentador,1.5,-6093,-73406
+807,Expreso9,Bulevar,Alimentador,1.5,-5772,-70824
+808,SX,Mexico,Alimentador,1.5,-8576,-79244
+809,Expreso6,Ricardo Palma,Alimentador,1.5,-5564,-78079
+810,Expreso3,Javier Prado,Alimentador,1.5,-9377,-73072
+811,Expreso4,Izaguirre,Ruta Troncal,2.5,-6386,-79418
+812,C,Ramon,Ruta Troncal,2.5,-5380,-71637
+813,Expreso3,Estacion B,Ruta Troncal,2.5,-8625,-77580
+814,Expreso4,Tomas Valle,Alimentador,1.5,-8956,-71011
+815,Expreso7,Estacion C,Alimentador,1.5,-6303,-77397
+816,Expreso7,Plaza de Flores,Ruta Troncal,2.5,-5187,-76038
+817,Expreso1,Javier Prado,Ruta Troncal,2.5,-7644,-75803
+818,Expreso4,Tacna,Ruta Troncal,2.5,-7814,-75817
+819,Expreso8,Teran,Ruta Troncal,2.5,-9610,-78063
+820,Expreso8,Naranjal,Ruta Troncal,2.5,-9525,-72709
+821,Expreso8,Ramon,Alimentador,1.5,-9048,-78006
+822,Expreso4,Estacion F,Ruta Troncal,2.5,-5354,-79076
+823,Expreso2,Caqueta,Alimentador,1.5,-9310,-75724
+824,C,Benavides,Alimentador,1.5,-5183,-74165
+825,Expreso4,El milagro,Alimentador,1.5,-6054,-75812
+826,SXN,Pacifico,Ruta Troncal,2.5,-5302,-77140
+827,C,Naranjal,Alimentador,1.5,-9415,-72585
+828,Expreso4,Quilca,Ruta Troncal,2.5,-7494,-78058
+829,Expreso4,Angamos,Alimentador,1.5,-7747,-74959
+830,Expreso1,Estadio Nacional,Ruta Troncal,2.5,-8119,-70901
+831,Expreso7,Honorio Delgado,Ruta Troncal,2.5,-5567,-76878
+832,Expreso1,Tomas Valle,Ruta Troncal,2.5,-6501,-72342
+833,SX,El milagro,Ruta Troncal,2.5,-5156,-76553
+834,Expreso6,Estadio Union,Ruta Troncal,2.5,-9124,-71253
+835,Expreso1,Javier Prado,Ruta Troncal,2.5,-6987,-76519
+836,Expreso9,Pacifico,Ruta Troncal,2.5,-5570,-79321
+837,D,Rosario de Villa,Ruta Troncal,2.5,-5425,-77230
+838,Expreso1,Balta,Ruta Troncal,2.5,-9060,-78947
+839,Expreso9,Estadio Nacional,Alimentador,1.5,-6669,-79004
+840,D,España,Alimentador,1.5,-5842,-79724
+841,Expreso4,Colmena,Ruta Troncal,2.5,-8179,-70448
+842,Expreso8,Mexico,Ruta Troncal,2.5,-9942,-71966
+843,Expreso9,Escuela Militar,Ruta Troncal,2.5,-6034,-73084
+844,C,El milagro,Ruta Troncal,2.5,-6183,-74404
+845,Expreso9,Mexico,Alimentador,1.5,-7504,-72631
+846,Expreso2,Aramburu,Ruta Troncal,2.5,-7834,-77207
+847,C,Plaza de Flores,Alimentador,1.5,-8452,-76615
+848,Expreso4,Javier Prado,Ruta Troncal,2.5,-8613,-75855
+849,A,Estacion B,Alimentador,1.5,-6788,-76980
+850,Expreso2,Canaval Moreyra,Ruta Troncal,2.5,-7184,-78827
+851,D,Independencia,Ruta Troncal,2.5,-9073,-74428
+852,B,Estacion A,Alimentador,1.5,-5317,-74891
+853,Expreso3,Quilca,Ruta Troncal,2.5,-6017,-76937
+854,Expreso8,Estacion F,Ruta Troncal,2.5,-6541,-75767
+855,Expreso8,Estacion D,Ruta Troncal,2.5,-9828,-79503
+856,C,Ricardo Palma,Ruta Troncal,2.5,-8220,-73198
+857,Expreso7,Naranjal,Ruta Troncal,2.5,-6920,-70433
+858,D,El milagro,Ruta Troncal,2.5,-7390,-75230
+859,C,Parque del trabajo,Alimentador,1.5,-6473,-72077
+860,D,Estacion A,Ruta Troncal,2.5,-5844,-73391
+861,Expreso4,Izaguirre,Alimentador,1.5,-6653,-74159
+862,Expreso3,Canada,Ruta Troncal,2.5,-5218,-78648
+863,A,Honorio Delgado,Alimentador,1.5,-8463,-77185
+864,B,Estacion F,Alimentador,1.5,-6939,-70020
+865,Expreso4,Independencia,Alimentador,1.5,-7880,-74092
+866,SX,Escuela Militar,Ruta Troncal,2.5,-6355,-79050
+867,A,Jiron de la Union,Ruta Troncal,2.5,-7758,-79508
+868,Expreso1,Benavides,Ruta Troncal,2.5,-9058,-75604
+869,Expreso3,Estacion A,Ruta Troncal,2.5,-8774,-75602
+870,Expreso8,Escuela Militar,Alimentador,1.5,-6813,-71644
+871,Expreso5,Escuela Militar,Ruta Troncal,2.5,-8226,-78757
+872,Expreso7,Parque del trabajo,Ruta Troncal,2.5,-6754,-78325
+873,Expreso6,Canaval Moreyra,Ruta Troncal,2.5,-9893,-73527
+874,Expreso3,Aramburu,Ruta Troncal,2.5,-9051,-77421
+875,Expreso9,Independencia,Ruta Troncal,2.5,-8385,-75900
+876,SX,Estacion E,Alimentador,1.5,-5633,-76304
+877,Expreso9,Izaguirre,Alimentador,1.5,-6697,-74906
+878,SXN,Honorio Delgado,Ruta Troncal,2.5,-6264,-79176
+879,B,Domingo Orue,Alimentador,1.5,-5837,-71317
+880,Expreso5,Canada,Alimentador,1.5,-9747,-79817
+881,Expreso7,Ricardo Palma,Alimentador,1.5,-9800,-73502
+882,Expreso8,Teran,Alimentador,1.5,-5920,-75281
+883,Expreso1,Benavides,Alimentador,1.5,-8523,-78885
+884,Expreso6,28 de Julio,Ruta Troncal,2.5,-6915,-72689
+885,SXN,Aramburu,Alimentador,1.5,-6484,-71273
+886,Expreso8,El milagro,Ruta Troncal,2.5,-5293,-71874
+887,SX,Izaguirre,Alimentador,1.5,-5729,-75014
+888,Expreso5,Benavides,Ruta Troncal,2.5,-8252,-73809
+889,Expreso6,Ramon,Alimentador,1.5,-5183,-73658
+890,Expreso6,Javier Prado,Ruta Troncal,2.5,-9359,-78655
+891,Expreso1,Honorio Delgado,Ruta Troncal,2.5,-8803,-73109
+892,SXN,Los jasmines,Alimentador,1.5,-8065,-75629
+893,C,Canada,Alimentador,1.5,-7758,-70247
+894,A,Los jasmines,Alimentador,1.5,-6918,-77671
+895,B,Estacion C,Ruta Troncal,2.5,-8190,-75613
+896,C,Aramburu,Alimentador,1.5,-9408,-75151
+897,Expreso1,Jiron de la Union,Ruta Troncal,2.5,-9352,-70135
+898,A,Teran,Alimentador,1.5,-5841,-78138
+899,B,Tomas Valle,Alimentador,1.5,-5277,-70801
+900,Expreso3,Independencia,Alimentador,1.5,-6464,-71231
+901,D,Domingo Orue,Ruta Troncal,2.5,-5412,-76181
+902,B,Estadio Union,Alimentador,1.5,-7240,-76347
+903,Expreso6,Balta,Alimentador,1.5,-9906,-78469
+904,Expreso6,Rosario de Villa,Alimentador,1.5,-7934,-73408
+905,A,Estacion A,Ruta Troncal,2.5,-8784,-72977
+906,Expreso9,Aramburu,Alimentador,1.5,-6283,-75528
+907,Expreso4,Uni,Ruta Troncal,2.5,-6688,-74072
+908,B,28 de Julio,Alimentador,1.5,-5042,-77315
+909,B,Jiron de la Union,Alimentador,1.5,-7289,-74379
+910,Expreso9,Aramburu,Ruta Troncal,2.5,-8038,-79930
+911,C,Benavides,Alimentador,1.5,-9026,-79239
+912,Expreso6,Estacion F,Ruta Troncal,2.5,-9439,-78822
+913,Expreso8,Estadio Nacional,Ruta Troncal,2.5,-5180,-73081
+914,Expreso8,Javier Prado,Ruta Troncal,2.5,-6166,-78606
+915,A,Ricardo Palma,Alimentador,1.5,-5440,-77863
+916,Expreso8,Estadio Union,Ruta Troncal,2.5,-5368,-75069
+917,Expreso2,Jiron de la Union,Alimentador,1.5,-6548,-79370
+918,Expreso5,Bulevar,Alimentador,1.5,-5527,-71380
+919,Expreso4,Quilca,Alimentador,1.5,-8922,-70097
+920,Expreso3,Uni,Alimentador,1.5,-8575,-73457
+921,Expreso1,Quilca,Alimentador,1.5,-7902,-70904
+922,SXN,Estadio Union,Ruta Troncal,2.5,-5990,-74093
+923,Expreso8,Ramon,Alimentador,1.5,-8947,-76488
+924,C,Honorio Delgado,Alimentador,1.5,-8918,-77370
+925,Expreso3,Teran,Ruta Troncal,2.5,-6625,-73650
+926,A,Estacion B,Alimentador,1.5,-6935,-72593
+927,Expreso7,Jiron de la Union,Ruta Troncal,2.5,-5282,-78729
+928,Expreso4,Caqueta,Alimentador,1.5,-5801,-78537
+929,A,Tacna,Alimentador,1.5,-8898,-71054
+930,Expreso1,Mexico,Alimentador,1.5,-7474,-79999
+931,Expreso5,Estadio Union,Alimentador,1.5,-9702,-72100
+932,Expreso4,Angamos,Ruta Troncal,2.5,-5006,-70846
+933,Expreso2,Pacifico,Ruta Troncal,2.5,-6420,-76699
+934,SXN,Angamos,Ruta Troncal,2.5,-9402,-70718
+935,Expreso3,Central,Ruta Troncal,2.5,-6220,-78014
+936,D,Canada,Alimentador,1.5,-9746,-72383
+937,Expreso4,Plaza de Flores,Ruta Troncal,2.5,-5672,-75279
+938,Expreso8,Tacna,Alimentador,1.5,-9472,-70114
+939,Expreso3,España,Alimentador,1.5,-8560,-78195
+940,Expreso8,Angamos,Ruta Troncal,2.5,-9197,-71887
+941,A,El milagro,Alimentador,1.5,-6023,-77553
+942,Expreso3,Quilca,Alimentador,1.5,-8945,-71072
+943,Expreso7,Benavides,Alimentador,1.5,-6969,-74746
+944,Expreso9,Ricardo Palma,Ruta Troncal,2.5,-8288,-70430
+945,Expreso7,Estacion D,Ruta Troncal,2.5,-5673,-70657
+946,Expreso1,Izaguirre,Ruta Troncal,2.5,-7154,-75566
+947,Expreso3,Estacion E,Alimentador,1.5,-7016,-72676
+948,Expreso2,El milagro,Ruta Troncal,2.5,-6122,-76204
+949,Expreso5,Plaza de Flores,Ruta Troncal,2.5,-5647,-77765
+950,A,Estacion E,Ruta Troncal,2.5,-7064,-73643
+951,Expreso9,El milagro,Ruta Troncal,2.5,-5330,-70885
+952,Expreso5,Central,Alimentador,1.5,-6463,-74151
+953,Expreso2,Caqueta,Ruta Troncal,2.5,-9560,-77154
+954,D,Ricardo Palma,Alimentador,1.5,-7907,-77890
+955,C,Naranjal,Alimentador,1.5,-9513,-73430
+956,Expreso5,Jiron de la Union,Alimentador,1.5,-9306,-79371
+957,Expreso7,Teran,Alimentador,1.5,-5654,-73594
+958,B,Canada,Alimentador,1.5,-7993,-71399
+959,Expreso1,Caqueta,Ruta Troncal,2.5,-7102,-74573
+960,SXN,Ricardo Palma,Ruta Troncal,2.5,-9496,-78797
+961,A,Estadio Union,Alimentador,1.5,-5824,-79208
+962,Expreso7,Estadio Union,Ruta Troncal,2.5,-9961,-77388
+963,Expreso1,Canaval Moreyra,Alimentador,1.5,-5474,-75288
+964,Expreso3,Domingo Orue,Alimentador,1.5,-8086,-71735
+965,SXN,Estacion A,Ruta Troncal,2.5,-5678,-76893
+966,Expreso1,Ramon,Alimentador,1.5,-8763,-73789
+967,Expreso6,Matellini,Ruta Troncal,2.5,-5661,-79566
+968,Expreso5,Caqueta,Ruta Troncal,2.5,-6215,-74985
+969,Expreso7,Quilca,Alimentador,1.5,-5302,-70215
+970,Expreso3,España,Alimentador,1.5,-8160,-76939
+971,Expreso1,Parque del trabajo,Ruta Troncal,2.5,-6811,-79561
+972,Expreso9,Caqueta,Ruta Troncal,2.5,-7907,-75038
+973,Expreso8,Angamos,Alimentador,1.5,-6713,-72792
+974,Expreso9,Teran,Ruta Troncal,2.5,-9208,-72736
+975,B,Uni,Ruta Troncal,2.5,-5276,-76691
+976,Expreso3,Benavides,Alimentador,1.5,-6853,-74137
+977,D,Escuela Militar,Alimentador,1.5,-7611,-73358
+978,Expreso1,Canaval Moreyra,Alimentador,1.5,-6913,-73698
+979,Expreso2,Balta,Ruta Troncal,2.5,-5350,-77853
+980,Expreso1,Estacion A,Alimentador,1.5,-6128,-73372
+981,SX,Colmena,Ruta Troncal,2.5,-8005,-74804
+982,SX,Teran,Ruta Troncal,2.5,-5649,-73195
+983,Expreso1,Estacion A,Alimentador,1.5,-7873,-78986
+984,Expreso8,Javier Prado,Ruta Troncal,2.5,-9920,-78690
+985,Expreso2,Canaval Moreyra,Alimentador,1.5,-8372,-79331
+986,Expreso6,Pacifico,Ruta Troncal,2.5,-8833,-75480
+987,SX,Canada,Ruta Troncal,2.5,-8990,-71576
+988,C,Uni,Ruta Troncal,2.5,-7426,-76736
+989,Expreso8,Tomas Valle,Ruta Troncal,2.5,-5428,-75308
+990,Expreso6,Ricardo Palma,Alimentador,1.5,-9373,-77032
+991,Expreso9,Rosario de Villa,Alimentador,1.5,-7706,-74468
+992,Expreso3,Parque del trabajo,Ruta Troncal,2.5,-8951,-74695
+993,A,El milagro,Alimentador,1.5,-7861,-71394
+994,Expreso3,Colmena,Alimentador,1.5,-5021,-75808
+995,Expreso8,Benavides,Ruta Troncal,2.5,-8695,-79678
+996,A,Honorio Delgado,Ruta Troncal,2.5,-6985,-70213
+997,A,Ramon,Alimentador,1.5,-5062,-71624
+998,SX,Escuela Militar,Ruta Troncal,2.5,-7137,-70309
+999,Expreso3,Quilca,Ruta Troncal,2.5,-7353,-78836
+1000,Expreso8,Matellini,Ruta Troncal,2.5,-6020,-73297
+1001,SXN,Los jasmines,Alimentador,1.5,-9837,-79394
+1002,Expreso7,Estacion A,Ruta Troncal,2.5,-5365,-73708
+1003,Expreso3,Teran,Alimentador,1.5,-7430,-77433
+1004,Expreso6,Izaguirre,Alimentador,1.5,-9841,-72938
+1005,SXN,Ramon,Ruta Troncal,2.5,-5399,-72033
+1006,A,Jiron de la Union,Alimentador,1.5,-7299,-70650
+1007,C,Balta,Ruta Troncal,2.5,-7978,-72573
+1008,SXN,Matellini,Alimentador,1.5,-6617,-71731
+1009,C,Parque del trabajo,Ruta Troncal,2.5,-6468,-73840
+1010,SXN,Dos de Mayo,Alimentador,1.5,-7362,-71494
+1011,Expreso2,Estacion C,Ruta Troncal,2.5,-5642,-74607
+1012,Expreso4,Balta,Ruta Troncal,2.5,-7654,-71501
+1013,B,Tacna,Alimentador,1.5,-6471,-72472
+1014,Expreso1,Tomas Valle,Ruta Troncal,2.5,-5954,-76840
+1015,Expreso5,Plaza de Flores,Ruta Troncal,2.5,-8032,-77354
+1016,Expreso6,Quilca,Alimentador,1.5,-5187,-76650
+1017,Expreso5,Uni,Alimentador,1.5,-7969,-78822
+1018,D,Tomas Valle,Alimentador,1.5,-7789,-73372
+1019,C,Angamos,Alimentador,1.5,-7525,-75191
+1020,Expreso8,Estadio Union,Alimentador,1.5,-6838,-70482
+1021,Expreso6,Angamos,Ruta Troncal,2.5,-6195,-76777
+1022,D,Parque del trabajo,Ruta Troncal,2.5,-5116,-79743
+1023,Expreso7,Escuela Militar,Alimentador,1.5,-5431,-73797
+1024,SXN,Angamos,Ruta Troncal,2.5,-8918,-76731
+1025,Expreso8,Estadio Union,Alimentador,1.5,-7324,-78903
+1026,Expreso2,Domingo Orue,Alimentador,1.5,-7167,-70997
+1027,Expreso5,Colmena,Alimentador,1.5,-6205,-74285
+1028,Expreso7,Colmena,Alimentador,1.5,-7526,-77689
+1029,Expreso1,Estacion B,Alimentador,1.5,-9734,-79227
+1030,SX,Estacion F,Ruta Troncal,2.5,-6364,-72627
+1031,SXN,Ramon,Alimentador,1.5,-7534,-77800
+1032,C,Estacion B,Alimentador,1.5,-6736,-76021
+1033,C,Benavides,Alimentador,1.5,-6696,-76258
+1034,Expreso8,Pacifico,Ruta Troncal,2.5,-6854,-70347
+1035,Expreso6,Ramon,Ruta Troncal,2.5,-6072,-74822
+1036,A,Plaza de Flores,Ruta Troncal,2.5,-9572,-73132
+1037,Expreso4,28 de Julio,Alimentador,1.5,-9170,-76625
+1038,Expreso8,Plaza de Flores,Ruta Troncal,2.5,-8127,-75489
+1039,Expreso8,Colmena,Alimentador,1.5,-7950,-73272
+1040,SX,Bulevar,Ruta Troncal,2.5,-7140,-76681
+1041,Expreso5,Uni,Ruta Troncal,2.5,-7420,-72408
+1042,Expreso4,Bulevar,Alimentador,1.5,-5686,-77603
+1043,Expreso2,Izaguirre,Ruta Troncal,2.5,-6306,-79386
+1044,C,Izaguirre,Alimentador,1.5,-8311,-78408
+1045,Expreso2,Colmena,Ruta Troncal,2.5,-6426,-75383
+1046,SXN,28 de Julio,Alimentador,1.5,-7830,-79179
+1047,Expreso5,Estacion C,Alimentador,1.5,-6685,-75953
+1048,D,Caqueta,Alimentador,1.5,-8502,-79242
+1049,Expreso8,Ricardo Palma,Ruta Troncal,2.5,-5012,-79300
+1050,B,Central,Alimentador,1.5,-6806,-76837
+1051,D,Plaza de Flores,Ruta Troncal,2.5,-6106,-79174
+1052,Expreso1,Estacion F,Ruta Troncal,2.5,-7741,-78333
+1053,Expreso8,Estacion C,Ruta Troncal,2.5,-6770,-74898
+1054,C,Dos de Mayo,Alimentador,1.5,-9703,-77682
+1055,Expreso4,Tomas Valle,Alimentador,1.5,-7212,-73910
+1056,Expreso7,Pacifico,Ruta Troncal,2.5,-7867,-78915
+1057,B,El milagro,Ruta Troncal,2.5,-6636,-77679
+1058,SXN,Independencia,Ruta Troncal,2.5,-9205,-79683
+1059,C,España,Ruta Troncal,2.5,-6749,-72320
+1060,Expreso3,Honorio Delgado,Ruta Troncal,2.5,-9696,-78213
+1061,D,Los jasmines,Ruta Troncal,2.5,-8192,-78690
+1062,C,Caqueta,Ruta Troncal,2.5,-5855,-76313
+1063,SX,Canaval Moreyra,Ruta Troncal,2.5,-6122,-76079
+1064,Expreso3,Estacion E,Alimentador,1.5,-7385,-75402
+1065,Expreso5,28 de Julio,Alimentador,1.5,-6830,-79794
+1066,Expreso9,Plaza de Flores,Ruta Troncal,2.5,-6596,-74479
+1067,Expreso2,Matellini,Ruta Troncal,2.5,-5509,-72005
+1068,Expreso7,Pacifico,Ruta Troncal,2.5,-9258,-78234
+1069,Expreso8,Balta,Alimentador,1.5,-7011,-70682
+1070,Expreso1,Plaza de Flores,Ruta Troncal,2.5,-7527,-78892
+1071,Expreso4,Estacion E,Alimentador,1.5,-7584,-72077
+1072,SXN,Dos de Mayo,Alimentador,1.5,-7114,-79031
+1073,D,Quilca,Alimentador,1.5,-6638,-72739
+1074,SX,Colmena,Alimentador,1.5,-5088,-77825
+1075,A,Caqueta,Alimentador,1.5,-7495,-78031
+1076,Expreso7,Tomas Valle,Ruta Troncal,2.5,-5629,-76900
+1077,Expreso1,Tomas Valle,Ruta Troncal,2.5,-7873,-73377
+1078,Expreso1,Estacion C,Ruta Troncal,2.5,-9251,-79179
+1079,D,Aramburu,Alimentador,1.5,-7639,-75932
+1080,Expreso9,Mexico,Alimentador,1.5,-7511,-76662
+1081,SXN,Ramon,Alimentador,1.5,-5415,-77240
+1082,Expreso2,Plaza de Flores,Ruta Troncal,2.5,-7307,-77902
+1083,Expreso7,Rosario de Villa,Alimentador,1.5,-9895,-71304
+1084,D,Honorio Delgado,Alimentador,1.5,-8837,-75904
+1085,Expreso4,Independencia,Alimentador,1.5,-6727,-75964
+1086,Expreso2,Escuela Militar,Alimentador,1.5,-8431,-70734
+1087,A,Ricardo Palma,Alimentador,1.5,-5102,-70525
+1088,B,Izaguirre,Alimentador,1.5,-6112,-70217
+1089,Expreso7,Tomas Valle,Alimentador,1.5,-9673,-75238
+1090,B,Uni,Ruta Troncal,2.5,-9419,-75765
+1091,Expreso1,Ricardo Palma,Alimentador,1.5,-7968,-71630
+1092,Expreso8,Colmena,Alimentador,1.5,-7103,-72073
+1093,Expreso9,Benavides,Ruta Troncal,2.5,-9298,-79542
+1094,B,Naranjal,Alimentador,1.5,-7186,-72775
+1095,Expreso1,Balta,Ruta Troncal,2.5,-8471,-74752
+1096,D,Pacifico,Ruta Troncal,2.5,-6358,-74820
+1097,A,Matellini,Ruta Troncal,2.5,-5312,-73507
+1098,Expreso8,Mexico,Alimentador,1.5,-8608,-71982
+1099,Expreso6,Independencia,Ruta Troncal,2.5,-6820,-73554
+1100,Expreso8,Pacifico,Alimentador,1.5,-9332,-76367
+1101,Expreso6,Uni,Ruta Troncal,2.5,-9161,-78161
+1102,Expreso8,Estacion C,Ruta Troncal,2.5,-6334,-78689
+1103,C,Dos de Mayo,Ruta Troncal,2.5,-8816,-73551
+1104,SX,Balta,Alimentador,1.5,-5837,-72386
+1105,B,Domingo Orue,Alimentador,1.5,-8681,-77706
+1106,Expreso6,Tomas Valle,Alimentador,1.5,-7752,-77781
+1107,Expreso7,Aramburu,Alimentador,1.5,-6907,-76167
+1108,A,España,Alimentador,1.5,-5131,-70833
+1109,Expreso9,28 de Julio,Ruta Troncal,2.5,-9851,-71686
+1110,SX,Aramburu,Ruta Troncal,2.5,-7595,-73640
+1111,Expreso8,Estacion E,Alimentador,1.5,-5732,-78113
+1112,Expreso9,Escuela Militar,Alimentador,1.5,-5015,-75571
+1113,B,Estadio Union,Ruta Troncal,2.5,-8503,-74380
+1114,SXN,Pacifico,Ruta Troncal,2.5,-5891,-77403
+1115,Expreso4,Balta,Ruta Troncal,2.5,-5592,-75272
+1116,Expreso6,Javier Prado,Alimentador,1.5,-6972,-71152
+1117,Expreso3,Caqueta,Ruta Troncal,2.5,-7582,-76855
+1118,SX,Domingo Orue,Alimentador,1.5,-5979,-71934
+1119,Expreso4,Izaguirre,Alimentador,1.5,-9103,-73778
+1120,SXN,Estacion F,Ruta Troncal,2.5,-6630,-79674
+1121,Expreso9,El milagro,Alimentador,1.5,-7580,-77454
+1122,Expreso3,Mexico,Ruta Troncal,2.5,-8237,-74118
+1123,SX,Estacion D,Alimentador,1.5,-6530,-76578
+1124,Expreso2,Domingo Orue,Ruta Troncal,2.5,-7950,-75795
+1125,Expreso7,Uni,Alimentador,1.5,-9050,-77843
+1126,Expreso5,Ricardo Palma,Alimentador,1.5,-7298,-76035
+1127,Expreso1,Domingo Orue,Ruta Troncal,2.5,-7726,-72813
+1128,C,Angamos,Alimentador,1.5,-9400,-75559
+1129,Expreso7,El milagro,Alimentador,1.5,-8155,-75084
+1130,Expreso9,Estacion A,Alimentador,1.5,-5608,-77968
+1131,Expreso1,Quilca,Ruta Troncal,2.5,-9858,-72015
+1132,A,Balta,Ruta Troncal,2.5,-6300,-78219
+1133,Expreso9,Ramon,Ruta Troncal,2.5,-8236,-73200
+1134,A,Parque del trabajo,Ruta Troncal,2.5,-5005,-71972
+1135,Expreso2,Estacion F,Ruta Troncal,2.5,-9699,-75766
+1136,SX,Plaza de Flores,Alimentador,1.5,-6269,-73958
+1137,Expreso7,Teran,Alimentador,1.5,-5733,-75439
+1138,B,Naranjal,Ruta Troncal,2.5,-6060,-78462
+1139,Expreso5,El milagro,Alimentador,1.5,-6253,-77131
+1140,Expreso1,Honorio Delgado,Ruta Troncal,2.5,-7088,-74716
+1141,Expreso1,Honorio Delgado,Ruta Troncal,2.5,-6603,-77911
+1142,Expreso6,Rosario de Villa,Alimentador,1.5,-7494,-70518
+1143,Expreso8,Ricardo Palma,Alimentador,1.5,-6402,-70833
+1144,SXN,Estacion A,Alimentador,1.5,-9185,-79898
+1145,B,Dos de Mayo,Ruta Troncal,2.5,-8979,-71135
+1146,B,Pacifico,Ruta Troncal,2.5,-6537,-71091
+1147,SXN,Los jasmines,Alimentador,1.5,-7084,-72070
+1148,Expreso8,Caqueta,Alimentador,1.5,-9596,-72043
+1149,C,Estacion B,Ruta Troncal,2.5,-6716,-78294
+1150,Expreso6,Ricardo Palma,Ruta Troncal,2.5,-7603,-70557
+1151,SX,Estacion D,Ruta Troncal,2.5,-9706,-74851
+1152,Expreso2,Javier Prado,Alimentador,1.5,-6896,-75016
+1153,Expreso2,Central,Alimentador,1.5,-8613,-74293
+1154,Expreso3,Canaval Moreyra,Ruta Troncal,2.5,-9402,-75290
+1155,A,Naranjal,Alimentador,1.5,-8066,-76962
+1156,B,Izaguirre,Ruta Troncal,2.5,-6857,-76791
+1157,C,Parque del trabajo,Ruta Troncal,2.5,-7588,-74494
+1158,SX,Estacion D,Ruta Troncal,2.5,-5770,-75501
+1159,B,Benavides,Alimentador,1.5,-9773,-78277
+1160,SXN,Estacion A,Alimentador,1.5,-7373,-75448
+1161,B,Plaza de Flores,Ruta Troncal,2.5,-7900,-78936
+1162,Expreso4,Estacion A,Alimentador,1.5,-8740,-77629
+1163,C,Benavides,Ruta Troncal,2.5,-9698,-74070
+1164,Expreso1,Estacion E,Ruta Troncal,2.5,-6188,-79622
+1165,A,Estacion E,Ruta Troncal,2.5,-7359,-76722
+1166,SX,El milagro,Alimentador,1.5,-9302,-76213
+1167,Expreso7,Estadio Nacional,Alimentador,1.5,-7635,-78247
+1168,SXN,Central,Ruta Troncal,2.5,-5426,-74552
+1169,Expreso7,Caqueta,Ruta Troncal,2.5,-8278,-76043
+1170,Expreso7,Matellini,Alimentador,1.5,-7916,-77173
+1171,C,Estacion A,Alimentador,1.5,-8941,-75289
+1172,Expreso8,Estacion C,Ruta Troncal,2.5,-6174,-76854
+1173,B,Matellini,Alimentador,1.5,-9640,-77443
+1174,A,Pacifico,Ruta Troncal,2.5,-5531,-71450
+1175,Expreso2,Tacna,Ruta Troncal,2.5,-5532,-72180
+1176,A,Matellini,Alimentador,1.5,-8542,-75961
+1177,Expreso5,Ramon,Ruta Troncal,2.5,-8774,-75949
+1178,SX,Jiron de la Union,Ruta Troncal,2.5,-5185,-73714
+1179,SX,Teran,Ruta Troncal,2.5,-9446,-72919
+1180,Expreso6,Tomas Valle,Ruta Troncal,2.5,-6472,-70806
+1181,Expreso8,Estacion C,Ruta Troncal,2.5,-7834,-78958
+1182,Expreso8,Plaza de Flores,Ruta Troncal,2.5,-5281,-70855
+1183,A,Dos de Mayo,Alimentador,1.5,-8896,-75854
+1184,Expreso1,Balta,Ruta Troncal,2.5,-7012,-74478
+1185,Expreso7,Estacion E,Ruta Troncal,2.5,-5364,-76776
+1186,Expreso3,Estacion D,Ruta Troncal,2.5,-5911,-75401
+1187,Expreso7,Ricardo Palma,Ruta Troncal,2.5,-9894,-75260
+1188,Expreso1,Estacion C,Ruta Troncal,2.5,-9943,-76449
+1189,B,Quilca,Ruta Troncal,2.5,-8192,-70560
+1190,Expreso9,Plaza de Flores,Ruta Troncal,2.5,-8961,-73829
+1191,Expreso5,Dos de Mayo,Alimentador,1.5,-6440,-76763
+1192,Expreso7,Canaval Moreyra,Alimentador,1.5,-9146,-70962
+1193,B,Estacion B,Alimentador,1.5,-7646,-72764
+1194,Expreso7,Tomas Valle,Alimentador,1.5,-6433,-76492
+1195,Expreso3,Quilca,Alimentador,1.5,-9795,-71950
+1196,Expreso1,Estacion E,Alimentador,1.5,-5040,-77876
+1197,SX,Estacion D,Ruta Troncal,2.5,-9754,-73054
+1198,Expreso9,Bulevar,Alimentador,1.5,-9184,-70656
+1199,B,Domingo Orue,Alimentador,1.5,-8183,-76253
+1200,Expreso2,Estacion B,Ruta Troncal,2.5,-8132,-72926
+1201,SX,Izaguirre,Alimentador,1.5,-8781,-78944
+1202,C,Javier Prado,Alimentador,1.5,-9406,-73980
+1203,Expreso6,Colmena,Alimentador,1.5,-5670,-70601
+1204,Expreso2,Rosario de Villa,Alimentador,1.5,-7713,-75467
+1205,Expreso1,Quilca,Ruta Troncal,2.5,-7753,-79838
+1206,D,Balta,Ruta Troncal,2.5,-6915,-75251
+1207,Expreso1,Aramburu,Ruta Troncal,2.5,-9467,-72488
+1208,SXN,Canada,Alimentador,1.5,-6488,-76662
+1209,SX,Estacion C,Alimentador,1.5,-8430,-75711
+1210,Expreso4,Estacion C,Alimentador,1.5,-9695,-79353
+1211,Expreso2,Naranjal,Ruta Troncal,2.5,-9001,-78212
+1212,SX,Independencia,Ruta Troncal,2.5,-9462,-75796
+1213,Expreso3,Domingo Orue,Ruta Troncal,2.5,-9501,-73073
+1214,Expreso6,Plaza de Flores,Ruta Troncal,2.5,-5997,-71332
+1215,C,Rosario de Villa,Alimentador,1.5,-5749,-77978
+1216,Expreso5,Estacion D,Alimentador,1.5,-8439,-79283
+1217,Expreso1,Ricardo Palma,Alimentador,1.5,-7877,-73085
+1218,Expreso3,El milagro,Alimentador,1.5,-5169,-71963
+1219,D,Central,Ruta Troncal,2.5,-5698,-77033
+1220,Expreso7,Estacion F,Alimentador,1.5,-8192,-71579
+1221,Expreso5,Balta,Ruta Troncal,2.5,-7373,-72711
+1222,Expreso3,El milagro,Ruta Troncal,2.5,-7744,-74267
+1223,Expreso5,Benavides,Alimentador,1.5,-5390,-71125
+1224,Expreso8,Angamos,Alimentador,1.5,-8251,-73629
+1225,Expreso2,Izaguirre,Ruta Troncal,2.5,-8896,-77059
+1226,Expreso4,Domingo Orue,Ruta Troncal,2.5,-6010,-73208
+1227,SXN,Jiron de la Union,Ruta Troncal,2.5,-6316,-74435
+1228,Expreso1,Ricardo Palma,Ruta Troncal,2.5,-8947,-70908
+1229,Expreso7,Los jasmines,Alimentador,1.5,-6911,-78500
+1230,Expreso8,Estadio Nacional,Alimentador,1.5,-9152,-73564
+1231,Expreso5,Colmena,Ruta Troncal,2.5,-6730,-78821
+1232,SXN,Canaval Moreyra,Alimentador,1.5,-8344,-73175
+1233,B,Benavides,Alimentador,1.5,-8845,-73375
+1234,C,Canaval Moreyra,Ruta Troncal,2.5,-8476,-74749
+1235,D,28 de Julio,Alimentador,1.5,-6696,-76131
+1236,Expreso9,Independencia,Ruta Troncal,2.5,-5591,-73941
+1237,B,Jiron de la Union,Ruta Troncal,2.5,-5727,-78080
+1238,SX,Jiron de la Union,Ruta Troncal,2.5,-5054,-73767
+1239,Expreso2,Honorio Delgado,Ruta Troncal,2.5,-6659,-74716
+1240,D,Dos de Mayo,Ruta Troncal,2.5,-9487,-77904
+1241,Expreso1,Benavides,Alimentador,1.5,-8516,-74000
+1242,Expreso5,Estadio Union,Ruta Troncal,2.5,-5493,-78832
+1243,SX,Plaza de Flores,Alimentador,1.5,-5150,-72272
+1244,D,Quilca,Alimentador,1.5,-8386,-75782
+1245,A,España,Alimentador,1.5,-9925,-77634
+1246,Expreso6,Angamos,Ruta Troncal,2.5,-6337,-79272
+1247,Expreso1,Tacna,Alimentador,1.5,-9479,-74913
+1248,B,Escuela Militar,Ruta Troncal,2.5,-6898,-79206
+1249,C,Balta,Ruta Troncal,2.5,-8584,-71079
+1250,Expreso7,España,Ruta Troncal,2.5,-9009,-70712
+1251,Expreso9,Benavides,Alimentador,1.5,-8828,-72222
+1252,Expreso8,Bulevar,Alimentador,1.5,-8821,-79981
+1253,SX,Estacion A,Ruta Troncal,2.5,-5485,-78595
+1254,A,Dos de Mayo,Ruta Troncal,2.5,-7542,-77228
+1255,D,Domingo Orue,Alimentador,1.5,-7009,-78604
+1256,Expreso2,Jiron de la Union,Alimentador,1.5,-5671,-79843
+1257,D,Jiron de la Union,Ruta Troncal,2.5,-7977,-78895
+1258,A,Dos de Mayo,Ruta Troncal,2.5,-7412,-74059
+1259,Expreso9,Mexico,Ruta Troncal,2.5,-8953,-74320
+1260,D,Estacion D,Alimentador,1.5,-5599,-70713
+1261,Expreso3,Escuela Militar,Ruta Troncal,2.5,-8706,-78713
+1262,Expreso5,Estadio Union,Ruta Troncal,2.5,-9448,-76221
+1263,SX,Uni,Alimentador,1.5,-9922,-70156
+1264,A,Jiron de la Union,Ruta Troncal,2.5,-5444,-73480
+1265,Expreso1,Rosario de Villa,Alimentador,1.5,-6256,-73396
+1266,Expreso2,Bulevar,Ruta Troncal,2.5,-7863,-79501
+1267,Expreso6,28 de Julio,Ruta Troncal,2.5,-6232,-78250
+1268,SX,Canada,Ruta Troncal,2.5,-6713,-73884
+1269,Expreso9,Angamos,Alimentador,1.5,-5962,-75468
+1270,SX,Dos de Mayo,Alimentador,1.5,-7245,-70633
+1271,Expreso2,Estacion E,Alimentador,1.5,-5214,-71056
+1272,C,Estacion A,Ruta Troncal,2.5,-9666,-70794
+1273,Expreso2,Javier Prado,Alimentador,1.5,-5289,-77061
+1274,D,Pacifico,Ruta Troncal,2.5,-7182,-75406
+1275,Expreso2,España,Alimentador,1.5,-8586,-76075
+1276,C,Dos de Mayo,Ruta Troncal,2.5,-7579,-73373
+1277,Expreso4,España,Alimentador,1.5,-9855,-78670
+1278,Expreso8,España,Ruta Troncal,2.5,-8179,-76918
+1279,Expreso4,Javier Prado,Alimentador,1.5,-5461,-78017
+1280,Expreso4,Matellini,Ruta Troncal,2.5,-5488,-72816
+1281,Expreso6,Angamos,Ruta Troncal,2.5,-7772,-76834
+1282,Expreso9,Balta,Alimentador,1.5,-7854,-75189
+1283,Expreso7,Estadio Union,Ruta Troncal,2.5,-9441,-70225
+1284,A,28 de Julio,Ruta Troncal,2.5,-6815,-70207
+1285,SXN,Estacion B,Ruta Troncal,2.5,-9269,-72788
+1286,C,Teran,Alimentador,1.5,-7359,-71721
+1287,SXN,Canada,Ruta Troncal,2.5,-6205,-79723
+1288,Expreso7,Tacna,Ruta Troncal,2.5,-6349,-72640
+1289,Expreso2,Estacion F,Alimentador,1.5,-8078,-78381
+1290,Expreso6,Izaguirre,Ruta Troncal,2.5,-8535,-76088
+1291,Expreso1,Tomas Valle,Ruta Troncal,2.5,-7917,-71171
+1292,Expreso1,Canada,Ruta Troncal,2.5,-5979,-75752
+1293,Expreso7,Javier Prado,Alimentador,1.5,-9540,-76463
+1294,SXN,Tacna,Alimentador,1.5,-5696,-77604
+1295,Expreso3,Honorio Delgado,Ruta Troncal,2.5,-9964,-70757
+1296,Expreso5,Estacion A,Ruta Troncal,2.5,-9694,-73494
+1297,SX,Aramburu,Ruta Troncal,2.5,-7888,-79507
+1298,B,Estacion F,Alimentador,1.5,-9997,-73411
+1299,Expreso2,Los jasmines,Alimentador,1.5,-9292,-71927
+1300,C,Quilca,Alimentador,1.5,-6292,-71162
+1301,Expreso9,Rosario de Villa,Ruta Troncal,2.5,-7668,-75330
+1302,A,España,Alimentador,1.5,-8535,-74056
+1303,Expreso3,Caqueta,Ruta Troncal,2.5,-7500,-74906
+1304,Expreso3,Los jasmines,Ruta Troncal,2.5,-8910,-70226
+1305,Expreso6,España,Ruta Troncal,2.5,-7829,-79807
+1306,C,Rosario de Villa,Ruta Troncal,2.5,-9753,-76112
+1307,Expreso9,Plaza de Flores,Alimentador,1.5,-8283,-79023
+1308,C,Canada,Ruta Troncal,2.5,-6861,-74836
+1309,Expreso7,Jiron de la Union,Ruta Troncal,2.5,-5866,-79800
+1310,Expreso5,Rosario de Villa,Ruta Troncal,2.5,-5396,-75973
+1311,SXN,El milagro,Alimentador,1.5,-7132,-70258
+1312,Expreso5,Estacion E,Ruta Troncal,2.5,-9610,-79306
+1313,SXN,Javier Prado,Alimentador,1.5,-6652,-74640
+1314,Expreso8,Canaval Moreyra,Ruta Troncal,2.5,-8779,-77617
+1315,SX,Los jasmines,Ruta Troncal,2.5,-5813,-76047
+1316,Expreso5,Canada,Alimentador,1.5,-7580,-71676
+1317,D,Rosario de Villa,Ruta Troncal,2.5,-9439,-73495
+1318,Expreso9,Honorio Delgado,Ruta Troncal,2.5,-5624,-72380
+1319,Expreso5,Naranjal,Ruta Troncal,2.5,-8366,-70829
+1320,SXN,Izaguirre,Ruta Troncal,2.5,-6885,-75347
+1321,Expreso8,Canada,Ruta Troncal,2.5,-9492,-78874
+1322,Expreso4,Central,Alimentador,1.5,-5205,-74057
+1323,Expreso4,Escuela Militar,Alimentador,1.5,-7660,-76818
+1324,D,Balta,Alimentador,1.5,-8738,-72213
+1325,Expreso2,Colmena,Ruta Troncal,2.5,-8128,-76086
+1326,SXN,Colmena,Alimentador,1.5,-6549,-71302
+1327,Expreso1,Caqueta,Alimentador,1.5,-6293,-75885
+1328,A,Estacion E,Ruta Troncal,2.5,-9376,-72172
+1329,C,Javier Prado,Ruta Troncal,2.5,-6041,-75429
+1330,A,Ramon,Alimentador,1.5,-5272,-78182
+1331,Expreso6,Los jasmines,Alimentador,1.5,-7777,-76947
+1332,Expreso4,Estacion A,Alimentador,1.5,-7084,-76669
+1333,SXN,Ramon,Ruta Troncal,2.5,-7532,-72650
+1334,Expreso7,Honorio Delgado,Alimentador,1.5,-5791,-76453
+1335,Expreso9,Bulevar,Ruta Troncal,2.5,-7606,-77611
+1336,C,Honorio Delgado,Alimentador,1.5,-9966,-74944
+1337,D,Plaza de Flores,Alimentador,1.5,-7060,-76180
+1338,Expreso4,España,Ruta Troncal,2.5,-5666,-77818
+1339,SX,Teran,Alimentador,1.5,-7900,-77260
+1340,Expreso2,Estacion F,Ruta Troncal,2.5,-5662,-71546
+1341,Expreso1,Javier Prado,Ruta Troncal,2.5,-9163,-78692
+1342,D,Uni,Ruta Troncal,2.5,-8011,-72754
+1343,Expreso5,Estacion F,Alimentador,1.5,-9655,-75032
+1344,D,Estacion D,Ruta Troncal,2.5,-7353,-72899
+1345,A,El milagro,Alimentador,1.5,-5233,-75824
+1346,SXN,Ramon,Alimentador,1.5,-7387,-76533
+1347,Expreso9,Benavides,Alimentador,1.5,-9467,-74874
+1348,A,Pacifico,Ruta Troncal,2.5,-9525,-79493
+1349,SX,Izaguirre,Ruta Troncal,2.5,-8434,-74578
+1350,Expreso3,Estacion D,Ruta Troncal,2.5,-8532,-77419
+1351,Expreso2,Ramon,Alimentador,1.5,-9191,-78576
+1352,SX,28 de Julio,Ruta Troncal,2.5,-7000,-79459
+1353,SX,Estadio Union,Alimentador,1.5,-5232,-75822
+1354,C,Quilca,Alimentador,1.5,-9783,-75425
+1355,Expreso3,Colmena,Ruta Troncal,2.5,-7062,-75593
+1356,B,Canada,Ruta Troncal,2.5,-7503,-77310
+1357,Expreso7,Estacion A,Alimentador,1.5,-9172,-77022
+1358,B,Plaza de Flores,Alimentador,1.5,-9942,-79320
+1359,SX,Dos de Mayo,Ruta Troncal,2.5,-8608,-70287
+1360,D,Dos de Mayo,Ruta Troncal,2.5,-5089,-70812
+1361,SX,Estadio Union,Alimentador,1.5,-5044,-70352
+1362,Expreso1,Estacion F,Alimentador,1.5,-5593,-76102
+1363,Expreso8,Estacion C,Ruta Troncal,2.5,-9840,-75309
+1364,Expreso6,Plaza de Flores,Alimentador,1.5,-5944,-72999
+1365,C,Matellini,Ruta Troncal,2.5,-6729,-77488
+1366,Expreso9,Los jasmines,Alimentador,1.5,-5197,-72731
+1367,Expreso7,Central,Alimentador,1.5,-9595,-73244
+1368,A,Rosario de Villa,Alimentador,1.5,-5393,-71746
+1369,Expreso5,Estadio Union,Alimentador,1.5,-6262,-71812
+1370,Expreso3,Honorio Delgado,Ruta Troncal,2.5,-6899,-79775
+1371,SX,Dos de Mayo,Alimentador,1.5,-9187,-77833
+1372,Expreso9,Colmena,Ruta Troncal,2.5,-7737,-70199
+1373,A,España,Alimentador,1.5,-6204,-78326
+1374,Expreso6,Teran,Ruta Troncal,2.5,-6914,-70416
+1375,B,Jiron de la Union,Alimentador,1.5,-8465,-75546
+1376,Expreso1,Canaval Moreyra,Alimentador,1.5,-6502,-79701
+1377,Expreso2,Rosario de Villa,Alimentador,1.5,-9128,-71441
+1378,Expreso8,Independencia,Alimentador,1.5,-8529,-78932
+1379,Expreso8,Central,Ruta Troncal,2.5,-5789,-77512
+1380,Expreso8,Angamos,Ruta Troncal,2.5,-6606,-76139
+1381,B,Central,Ruta Troncal,2.5,-8513,-73597
+1382,Expreso7,Canaval Moreyra,Alimentador,1.5,-9955,-71939
+1383,SX,Angamos,Ruta Troncal,2.5,-7280,-73891
+1384,Expreso3,Tomas Valle,Alimentador,1.5,-6953,-73893
+1385,SXN,Pacifico,Alimentador,1.5,-6183,-71441
+1386,Expreso9,Ramon,Ruta Troncal,2.5,-9475,-78904
+1387,Expreso2,Estacion F,Alimentador,1.5,-9723,-70567
+1388,Expreso1,Matellini,Ruta Troncal,2.5,-5667,-75898
+1389,C,Uni,Alimentador,1.5,-9703,-76336
+1390,Expreso9,28 de Julio,Alimentador,1.5,-9711,-74620
+1391,Expreso5,Izaguirre,Ruta Troncal,2.5,-8429,-78733
+1392,B,Estacion F,Ruta Troncal,2.5,-7795,-74646
+1393,SX,Independencia,Ruta Troncal,2.5,-9992,-73142
+1394,SXN,Plaza de Flores,Ruta Troncal,2.5,-8556,-73877
+1395,SXN,Teran,Alimentador,1.5,-6248,-71281
+1396,Expreso5,Javier Prado,Ruta Troncal,2.5,-7675,-71206
+1397,Expreso9,Angamos,Alimentador,1.5,-9404,-74600
+1398,Expreso7,Escuela Militar,Ruta Troncal,2.5,-6555,-77403
+1399,D,Estacion F,Alimentador,1.5,-8826,-78136
+1400,D,Ricardo Palma,Alimentador,1.5,-9253,-75064
+1401,C,Estacion E,Ruta Troncal,2.5,-9059,-77595
+1402,Expreso5,Aramburu,Alimentador,1.5,-7435,-76764
+1403,D,Escuela Militar,Alimentador,1.5,-6836,-75556
+1404,Expreso5,Parque del trabajo,Alimentador,1.5,-8721,-77985
+1405,B,Naranjal,Ruta Troncal,2.5,-8917,-72371
+1406,D,Estadio Nacional,Ruta Troncal,2.5,-8760,-74348
+1407,A,Tacna,Alimentador,1.5,-7726,-78988
+1408,Expreso6,Estacion E,Ruta Troncal,2.5,-6771,-70425
+1409,Expreso7,Independencia,Ruta Troncal,2.5,-5154,-75383
+1410,Expreso8,El milagro,Ruta Troncal,2.5,-6017,-71946
+1411,Expreso5,Dos de Mayo,Ruta Troncal,2.5,-9836,-76575
+1412,Expreso1,28 de Julio,Alimentador,1.5,-9947,-70995
+1413,B,Honorio Delgado,Ruta Troncal,2.5,-8467,-73695
+1414,Expreso7,Ricardo Palma,Ruta Troncal,2.5,-5923,-76052
+1415,SXN,Quilca,Ruta Troncal,2.5,-5451,-78388
+1416,Expreso2,Izaguirre,Ruta Troncal,2.5,-5279,-79850
+1417,C,Mexico,Alimentador,1.5,-6113,-70084
+1418,D,Estacion F,Ruta Troncal,2.5,-5811,-73555
+1419,Expreso9,Domingo Orue,Alimentador,1.5,-8757,-73608
+1420,Expreso4,Teran,Alimentador,1.5,-7329,-77891
+1421,Expreso8,Estacion C,Alimentador,1.5,-6132,-74259
+1422,B,Domingo Orue,Ruta Troncal,2.5,-7050,-79776
+1423,Expreso6,Estacion A,Ruta Troncal,2.5,-8776,-70706
+1424,Expreso2,Parque del trabajo,Alimentador,1.5,-8551,-77974
+1425,Expreso4,Parque del trabajo,Alimentador,1.5,-8411,-76910
+1426,Expreso3,Naranjal,Alimentador,1.5,-6345,-78334
+1427,C,Canaval Moreyra,Ruta Troncal,2.5,-9507,-71715
+1428,Expreso7,Teran,Ruta Troncal,2.5,-5797,-79039
+1429,SXN,Mexico,Ruta Troncal,2.5,-8281,-76634
+1430,Expreso8,Tacna,Ruta Troncal,2.5,-9199,-77433
+1431,SX,Mexico,Alimentador,1.5,-8599,-75326
+1432,Expreso7,Los jasmines,Ruta Troncal,2.5,-5658,-79817
+1433,C,Colmena,Alimentador,1.5,-5822,-70785
+1434,Expreso5,Balta,Alimentador,1.5,-7713,-73266
+1435,C,Honorio Delgado,Alimentador,1.5,-9872,-72578
+1436,D,Canaval Moreyra,Ruta Troncal,2.5,-9894,-77928
+1437,Expreso1,El milagro,Alimentador,1.5,-5594,-73657
+1438,SX,Teran,Ruta Troncal,2.5,-9319,-72310
+1439,A,Honorio Delgado,Alimentador,1.5,-9348,-78287
+1440,SX,Ricardo Palma,Alimentador,1.5,-6675,-72009
+1441,Expreso1,Estacion B,Alimentador,1.5,-7571,-74645
+1442,C,Estacion D,Alimentador,1.5,-7578,-75567
+1443,Expreso9,Estadio Union,Ruta Troncal,2.5,-9595,-71465
+1444,Expreso6,Teran,Ruta Troncal,2.5,-6358,-77623
+1445,Expreso8,Parque del trabajo,Ruta Troncal,2.5,-5086,-70031
+1446,A,Canada,Alimentador,1.5,-5369,-76788
+1447,Expreso3,Estacion A,Alimentador,1.5,-9807,-71930
+1448,SX,Estacion F,Ruta Troncal,2.5,-5330,-79971
+1449,Expreso5,Escuela Militar,Alimentador,1.5,-9615,-75367
+1450,Expreso5,Dos de Mayo,Ruta Troncal,2.5,-5032,-70451
+1451,Expreso9,Matellini,Alimentador,1.5,-5031,-71106
+1452,Expreso1,Estacion F,Alimentador,1.5,-8299,-72510
+1453,SX,Quilca,Alimentador,1.5,-5686,-70060
+1454,Expreso5,Estacion A,Ruta Troncal,2.5,-7918,-71265
+1455,SXN,Canaval Moreyra,Ruta Troncal,2.5,-8565,-78915
+1456,Expreso2,Parque del trabajo,Ruta Troncal,2.5,-7095,-72592
+1457,Expreso4,Canaval Moreyra,Alimentador,1.5,-9752,-74883
+1458,Expreso9,Benavides,Ruta Troncal,2.5,-6519,-78122
+1459,Expreso6,Jiron de la Union,Alimentador,1.5,-5420,-73507
+1460,Expreso8,Los jasmines,Alimentador,1.5,-6017,-73761
+1461,A,Los jasmines,Ruta Troncal,2.5,-5823,-78333
+1462,Expreso6,Quilca,Alimentador,1.5,-9762,-78273
+1463,Expreso9,Javier Prado,Alimentador,1.5,-8397,-76702
+1464,D,Angamos,Ruta Troncal,2.5,-5228,-70690
+1465,Expreso2,Estacion E,Ruta Troncal,2.5,-8096,-72596
+1466,Expreso5,Central,Ruta Troncal,2.5,-8964,-73928
+1467,Expreso4,Plaza de Flores,Ruta Troncal,2.5,-5797,-71300
+1468,Expreso7,Bulevar,Ruta Troncal,2.5,-8740,-78802
+1469,SXN,Canada,Alimentador,1.5,-5463,-78004
+1470,A,Mexico,Alimentador,1.5,-8184,-70734
+1471,B,Estacion D,Ruta Troncal,2.5,-6767,-75018
+1472,Expreso8,Estacion A,Ruta Troncal,2.5,-9222,-75248
+1473,D,Estadio Nacional,Alimentador,1.5,-6116,-73926
+1474,Expreso1,Benavides,Ruta Troncal,2.5,-6349,-78831
+1475,Expreso6,Bulevar,Alimentador,1.5,-6200,-79270
+1476,Expreso4,Angamos,Ruta Troncal,2.5,-7069,-79539
+1477,SXN,Rosario de Villa,Alimentador,1.5,-8510,-76434
+1478,SXN,España,Ruta Troncal,2.5,-6682,-73177
+1479,Expreso8,Estacion B,Alimentador,1.5,-5740,-73689
+1480,SX,Teran,Alimentador,1.5,-7846,-78140
+1481,B,Honorio Delgado,Alimentador,1.5,-6053,-79991
+1482,D,Uni,Alimentador,1.5,-5728,-70254
+1483,Expreso2,Dos de Mayo,Alimentador,1.5,-7436,-75569
+1484,Expreso5,Plaza de Flores,Alimentador,1.5,-7481,-78359
+1485,Expreso6,28 de Julio,Ruta Troncal,2.5,-7860,-70144
+1486,SX,Domingo Orue,Alimentador,1.5,-7273,-75571
+1487,C,Canaval Moreyra,Alimentador,1.5,-8428,-70902
+1488,Expreso5,Estacion B,Alimentador,1.5,-5552,-79581
+1489,Expreso6,Escuela Militar,Ruta Troncal,2.5,-7597,-71150
+1490,C,Balta,Ruta Troncal,2.5,-5881,-71674
+1491,D,El milagro,Alimentador,1.5,-9989,-75265
+1492,C,El milagro,Alimentador,1.5,-5010,-78669
+1493,Expreso4,Bulevar,Ruta Troncal,2.5,-8957,-76813
+1494,Expreso7,Tacna,Ruta Troncal,2.5,-6941,-74688
+1495,Expreso7,Canaval Moreyra,Alimentador,1.5,-6049,-79584
+1496,Expreso2,Balta,Ruta Troncal,2.5,-5424,-70468
+1497,Expreso9,Domingo Orue,Alimentador,1.5,-5770,-74173
+1498,A,Pacifico,Alimentador,1.5,-9969,-78863
+1499,A,Mexico,Alimentador,1.5,-9577,-76509
+1500,Expreso3,Escuela Militar,Ruta Troncal,2.5,-9396,-70843
