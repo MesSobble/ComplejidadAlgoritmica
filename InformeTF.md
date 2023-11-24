@@ -129,9 +129,9 @@ Algoritmo BFS
 
 >Para esta parte del proyecto los aspectos más importantes a tener en cuenta son: los nodos y las conexiones. Los nodos tendrán un identificador y representan las estaciones; y las conecciones o aristas carecerán de pesos y cada nodo puede contar una gran cantidad de aristas saliendo de ellos.
 
-Algoritmo Prim
+Algoritmo Dijkstra
 
->Para la segunda opción del proyecto, la cual es la opción sin tarjeta, se usará el algoritmo de Prim, ya que al no tener tarjeta, se le cobrará al pasajero por parada que haga el bus y este algoritmo voraz muestra el camino más barato sin importar si es el más largo tomando en cuenta que el pasajero no tiene apuros pero si busca economizar lo más posible su viaje. 
+>Para la segunda opción del proyecto, la cual es la opción sin tarjeta, se usará el algoritmo de Dijkstra, ya que al no tener tarjeta, se le cobrará al pasajero por parada que haga el bus y este algoritmo muestra el camino más barato por si se busca economizar lo más posible su viaje. 
 
 >Para esta parte del proyecto los aspectos más importantes a tener en cuenta son: los nodos, los pesos y las conexiones. Los nodos tendrán un identificador y representan las estaciones; y las conecciones o aristas tendrán pesos que representan el costo de ir de una estación a otra.
 
@@ -139,7 +139,7 @@ Algoritmo Prim
 
 > **4.1. Requisitos para el desarrollo de la aplicación**
 >
-> La estructura de la aplicación consisteEl proyecto se realizará con el lenguaje de programación Python en visual studio code. Además de conocimientos aprendidos en clase y autónomamente sobre la teoría de grafos, del algoritmo BFS para hallar el camino con menor cantidad de nodos, y del algoritmo Prim para hallar el camino más barato. Será necesario también los datos de las estaciones del metropolitano y las paradas que realiza cada línea.	
+> El proyecto se realizará con el lenguaje de programación Python en visual studio code. Además de conocimientos aprendidos en clase y autónomamente sobre la teoría de grafos, del algoritmo BFS para hallar el camino con menor cantidad de nodos, y del algoritmo de Dijkstra para hallar el camino más barato. Será necesario también los datos de las estaciones del metropolitano y las paradas que realiza cada línea.	
 
 >Como requisitos principales de la aplicación tenemos: Identificar las estaciones habilitadas del metropolitano, debido a que el proyecto requiere de mínimo 1500 nodos, supondremos esta cantidad de estaciones; y realizar las conexiones simulando los recorridos de las líneas. Con el uso de la opción elegida, se obtendrá el recorrido que contenga menor cantidad de nodos entre un nodo de partida y un nodo de llegada, o se obtendrá el camino más barato desde una estación a otra.
 
@@ -150,7 +150,7 @@ Algoritmo Prim
 >
 > **4.3. Diseño detallado**
 >
-> Para comenzar, se creará una lista en donde se almacenarán los nombres de las estaciones que representan los nodos del grafo. Para la opción con tarjeta se definirán las líneas del metropolitano mediante las conexiones sin peso de los nodos, representando la estación de partida, las estaciones donde realiza paradas y la estación final para cada línea. Además se implementa una función que contenga al algoritmo de BFS y muestre la línea que el usuario debe abordar para llegar a la estación de destino con la menor cantidad de paradas posibles. Para la opción sin tarjeta definirán las líneas del metropolitano mediante las conexiones con peso de los nodos, representando la estación de partida, las estaciones donde realiza paradas y la estación final para cada línea. Además se implementa una función que contenga al algoritmo de Prim y muestre la línea que el usuario debe abordar para llegar a la estación de destino con el menor costo posible
+> Para comenzar, se creará una lista en donde se almacenarán los nombres de las estaciones que representan los nodos del grafo. Para la opción con tarjeta se definirán las líneas del metropolitano mediante las conexiones sin peso de los nodos, representando la estación de partida, las estaciones donde realiza paradas y la estación final para cada línea. Además se implementa una función que contenga al algoritmo de BFS y muestre la línea que el usuario debe abordar para llegar a la estación de destino con la menor cantidad de paradas posibles. Para la opción sin tarjeta definirán las líneas del metropolitano mediante las conexiones con peso de los nodos, representando la estación de partida, las estaciones donde realiza paradas y la estación final para cada línea. Además se implementa una función que contenga al algoritmo de Dijkstra y muestre la línea que el usuario debe abordar para llegar a la estación de destino con el menor costo posible
 >
 > **4.4. Implementación y pruebas**
 >
@@ -187,7 +187,8 @@ Ruta más barata desde la estación 3 a la estación 5 y el precio a pagar
 ![URL_de_la_imagen](https://github.com/MesSobble/ComplejidadAlgoritmica/blob/bcfb35a9372483a6c930c19b85cc942c7fb7071f/media/com1.jpeg)
 
 **6. Conclusiones**
->Acorde a los resultados obtenidos luego de la implementación de los algoritmos en la propuesta, creemos que se podría optimizar funciones con el uso de otras librerías aún no estudiadas, además se podría mejorar el orden y comprensión del código, ya que debido a la combinación del uso de diccionarios y datos aleatorios el código puede resultar poco flexible o difícil de modificar sin afectar su funcionalidad en caso se desee hacer nuevas implementaciones. También se podrían implementar mayores especificaciones y variaciones como diferente ruta de ida y vuelta por expreso o disponibilidad de estos según el día y la hora.
+>La conclusión a la que llegamos con este trabajo es que el uso de grafos y algoritmos de recorrido como bfs pueden ser beneficioso para aplicaciones que ayuden a las personas en la optimización de su tiempo o el uso de algoritmos como Dijksrta puede beneficiar a las personas que buscan pagar la menor cantidad de dinero posible al realizar un viaje, el proyecto resultó en un programa que ayuda a las personas en cualquier situación y con todo tipo de necesidad en una adecuada toma de decisiones al momento de usar un transporte público complejo, además de ayudarnos a nosotros como estudiantes a conocer más sobre algoritmos que puedan servir en proyectos a futuro y en nuestra vida profesional.
+
 
 **7. Referencias Bibliográficas**
 
